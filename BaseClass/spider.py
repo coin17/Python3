@@ -5,7 +5,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 
 url = 'http://www.douban.com/'
-webPage=urllib.request.urlopen(url)
+webPage = urllib.request.urlopen(url)
 data = webPage.read()
 data = data.decode('UTF-8')
 
