@@ -32,7 +32,7 @@ def parse_html(html):
 
     for movie_li in movie_list_soup.find_all('li'):
         detail = movie_li.find('div', attrs={'class': 'hd'})
-        
+
         movie_name_list.append("## Top " + str(top_num))
 
         #名称
@@ -69,7 +69,7 @@ def parse_html(html):
         # 评分
         movie_score = evaluate.find('div', attrs={'class':'star'})
 
-        movie_rating_num = movie_score.find('span', attrs={'class': 'rating_num'}).getText() + " "
+        movie_rating_num = "**" + movie_score.find('span', attrs={'class': 'rating_num'}).getText() + "** "
 
         for mess in movie_score.find_all('span', attrs={'class': ''}):
             movie_rating_num += mess.text
