@@ -76,11 +76,14 @@ def parse_html(html):
         movie_name_list.append("* " + movie_rating_num)
 
         #评价
+        movie_name_list.append("")
         movie_actor_message = evaluate.find('p',attrs={'class': 'quote'})
         if movie_actor_message:
             movie_name_list.append("> " + movie_actor_message.find('span').getText())
 
+        movie_name_list.append("")
         movie_name_list.append("***")
+        movie_name_list.append("")
         top_num +=1
 
     next_page = soup.find('span', attrs={'class': 'next'}).find('a')
