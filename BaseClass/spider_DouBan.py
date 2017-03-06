@@ -29,10 +29,11 @@ def parse_html(html):
     print("当前准备解析页码：" + soup.find('span', attrs={'class': 'thispage'}).getText())
 
     top_num = 1 + (int(soup.find('span', attrs={'class': 'thispage'}).getText())-1) * 25
-    movie_name_list.append("## Top " + str(top_num))
 
     for movie_li in movie_list_soup.find_all('li'):
         detail = movie_li.find('div', attrs={'class': 'hd'})
+        
+        movie_name_list.append("## Top " + str(top_num))
 
         #名称
         movie_name = ""
