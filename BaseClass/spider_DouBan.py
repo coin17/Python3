@@ -50,7 +50,7 @@ def parse_html(html):
             fp = open(img_localhost,'wb')
             fp.write(img_req.content)
             fp.close()
-            movie_name_list.append('!['+movie_name+'](/douban_moviesList_top250/'+str(top_num)+'.jpg "douban_moviesList_top250")')
+            movie_name_list.append('!['+movie_name+'](douban_moviesList_top250/'+str(top_num)+'.jpg "douban_moviesList_top250")')
             
         except requests.exceptions.ConnectionError:
             print('【错误】当前图片无法下载，失效地址为：' + img["src"])
@@ -63,7 +63,7 @@ def parse_html(html):
         movie_actor_table = evaluate.find('p').getText().strip().splitlines()
 
         for mat in movie_actor_table :
-            movie_name_list.append(mat.strip())
+            movie_name_list.append("* " + mat.strip())
 
         # 评分
         movie_score = evaluate.find('div', attrs={'class':'star'})
@@ -80,7 +80,7 @@ def parse_html(html):
         if movie_actor_message:
             movie_name_list.append("> " + movie_actor_message.find('span').getText())
 
-        movie_name_list.append("")
+        movie_name_list.append("***")
         top_num +=1
 
     next_page = soup.find('span', attrs={'class': 'next'}).find('a')
