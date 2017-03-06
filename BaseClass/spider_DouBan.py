@@ -73,12 +73,12 @@ def parse_html(html):
         for mess in movie_score.find_all('span', attrs={'class': ''}):
             movie_rating_num += mess.text
 
-        movie_name_list.append(movie_rating_num)
+        movie_name_list.append("* " + movie_rating_num)
 
         #评价
         movie_actor_message = evaluate.find('p',attrs={'class': 'quote'})
         if movie_actor_message:
-            movie_name_list.append(movie_actor_message.find('span').getText())
+            movie_name_list.append("> " + movie_actor_message.find('span').getText())
 
         movie_name_list.append("")
         top_num +=1
