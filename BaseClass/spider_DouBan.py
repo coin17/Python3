@@ -29,22 +29,62 @@ def parse_html(html):
     print("当前准备解析页码：" + soup.find('span', attrs={'class': 'thispage'}).getText())
 
     top_num = 1 + (int(soup.find('span', attrs={'class': 'thispage'}).getText())-1) * 25
+    movie_name_list.append("## Top " + str(top_num))
 
     for movie_li in movie_list_soup.find_all('li'):
         detail = movie_li.find('div', attrs={'class': 'hd'})
 
+        #名称
         movie_name = ""
 
         for sp in detail.find_all('span', attrs={'class': 'title'}):
         	movie_name += sp.text
 
         movie_name_other = detail.find('span', attrs={'class': 'other'}).getText()
+        
+        img = movie_li.find('div', attrs={'class': 'pic'}).find('a').find('img')
+        
+        try:
+            img_req = requests.get(img["src"], timeout=20)
+            img_localhost = 'douban_moviesList_top250\\'+str(top_num)+ '.jpg'
+            fp = open(img_localhost,'wb')
+            fp.write(img_req.content)
+            fp.close()
+            movie_name_list.append('!['+movie_name+'](/douban_moviesList_top250/'+str(top_num)+'.jpg "douban_moviesList_top250")')
+            
+        except requests.exceptions.ConnectionError:
+            print('【错误】当前图片无法下载，失效地址为：' + img["src"])
 
-        movie_name_list.append("Top " + str(top_num) + " " + movie_name + movie_name_other)
-        #num 记录值不正确
+
+        movie_name_list.append("### "+ movie_name + movie_name_other)
+
+        #导演、主演
+        evaluate = movie_li.find('div', attrs={'class': 'bd'})
+        movie_actor_table = evaluate.find('p').getText().strip().splitlines()
+
+        for mat in movie_actor_table :
+            movie_name_list.append(mat.strip())
+
+        # 评分
+        movie_score = evaluate.find('div', attrs={'class':'star'})
+
+        movie_rating_num = movie_score.find('span', attrs={'class': 'rating_num'}).getText() + " "
+
+        for mess in movie_score.find_all('span', attrs={'class': ''}):
+            movie_rating_num += mess.text
+
+        movie_name_list.append(movie_rating_num)
+
+        #评价
+        movie_actor_message = evaluate.find('p',attrs={'class': 'quote'})
+        if movie_actor_message:
+            movie_name_list.append(movie_actor_message.find('span').getText())
+
+        movie_name_list.append("")
         top_num +=1
 
     next_page = soup.find('span', attrs={'class': 'next'}).find('a')
+
 
     if next_page:
         return movie_name_list, DOWNLOAD_URL + next_page['href']
@@ -54,7 +94,7 @@ def parse_html(html):
 def main():
     url = DOWNLOAD_URL
 
-    with codecs.open('movies.md', 'wb', encoding='utf-8') as fp:
+    with codecs.open('douban_moviesList_top250.md', 'wb', encoding='utf-8') as fp:
         while url:
             html = download_page(url)
             movies, url = parse_html(html)
