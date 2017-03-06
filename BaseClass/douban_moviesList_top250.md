@@ -5,7 +5,9 @@
 * 1994 / 美国 / 犯罪 剧情
 * 9.6 795927人评价
 > 希望让人自由。
+
 ***
+
 ![这个杀手不太冷 / Léon](douban_moviesList_top250/2.jpg "douban_moviesList_top250")
 ### 这个杀手不太冷 / Léon / 杀手莱昂  /  终极追杀令(台)
 * 导演: 吕克·贝松 Luc Besson   主演: 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...
