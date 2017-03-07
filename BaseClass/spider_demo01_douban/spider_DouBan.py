@@ -7,7 +7,6 @@ Top 1 肖申克的救赎 / The Shawshank Redemption / 月黑高飞(港)  /  
 """
 
 import codecs
-
 import requests
 from bs4 import BeautifulSoup
 
@@ -48,9 +47,9 @@ def parse_html(html):
         try:
             img_req = requests.get(img["src"], timeout=20)
             img_localhost = 'douban_moviesList_top250\\'+str(top_num)+ '.jpg'
-            fp = open(img_localhost,'wb')
-            fp.write(img_req.content)
-            fp.close()
+            with open(img_localhost, 'wb') as f:
+                f.write(img_req.content)
+
             movie_name_list.append('!['+movie_name+'](douban_moviesList_top250/'+str(top_num)+'.jpg "douban_moviesList_top250")')
             
         except requests.exceptions.ConnectionError:
