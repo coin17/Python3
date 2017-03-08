@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #coding=utf-8
-# 固定时间间隔执行爬取命令 
+# 定时抓取全国预报图片 
     
 import time, os 
 import requests
