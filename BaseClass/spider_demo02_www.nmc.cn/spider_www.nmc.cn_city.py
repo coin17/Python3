@@ -58,13 +58,26 @@ def main():
     for json_provice in json_provices:
         json_citys = download_page("http://www.nmc.cn/f/rest/province/" + json_provice["code"]).json()
         for json_city in json_citys:
-            json_weather = download_page("http://www.nmc.cn/f/rest/real/" + json_city["code"] + "?_=" + now.strftime('%H%M%S%f')).json()
-            json_aqi = download_page("http://www.nmc.cn/f/rest/aqi/" + json_city["code"] + "?_=" + now.strftime('%H%M%S%f')).json()
-            parse_html_weather_aqi(json_weather,json_aqi)
-            time.sleep(2) #延迟 N 秒，进行第二次抓取 
+            try:
+                json_weather = download_page("http://www.nmc.cn/f/rest/real/" + json_city["code"] + "?_=" + now.strftime('%H%M%S%f')).json()
+                json_aqi = download_page("http://www.nmc.cn/f/rest/aqi/" + json_city["code"] + "?_=" + now.strftime('%H%M%S%f')).json()
+                parse_html_weather_aqi(json_weather,json_aqi)
+            except:
+                print('【异常】：请求解析异常，city 代码 ' + json_city["code"])
+
+
+            #time.sleep(1) #延迟 N 秒，进行第二次抓取 
             #print(json_city["city"]+json_city["code"])
     now = datetime.datetime.now()
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
-main()
+def re_exe(cmd, inc = 60): 
+    while True: 
+        os.system(cmd);
+        main()
+        print('ok')
+        time.sleep(inc) 
+
+# N秒 执行一次
+re_exe("echo %time%", 1800)
 
