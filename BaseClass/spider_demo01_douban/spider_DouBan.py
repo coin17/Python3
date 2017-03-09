@@ -6,19 +6,19 @@
 Top 1 肖申克的救赎 / The Shawshank Redemption / 月黑高飞(港)  /  刺激1995(台)
 """
 
-import codecs
-import requests
-from bs4 import BeautifulSoup
+import codecs  #非必须，用于指定创建记录爬取文件字符集
+import requests #数据抓取
+from bs4 import BeautifulSoup #抓取内容解析
 
 DOWNLOAD_URL = 'http://movie.douban.com/top250/'
 
-
+# 页面下载
 def download_page(url):
     return requests.get(url, headers={
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36'
     }).content
 
-
+# 页面解析
 def parse_html(html):
     soup = BeautifulSoup(html, "html.parser")
     movie_list_soup = soup.find('ol', attrs={'class': 'grid_view'})
@@ -30,7 +30,7 @@ def parse_html(html):
     top_num = 1 + (int(soup.find('span', attrs={'class': 'thispage'}).getText())-1) * 25
 
     for movie_li in movie_list_soup.find_all('li'):
-        detail = movie_li.find('div', attrs={'class': 'hd'})
+        detail = movie_li.find('div', attrs = {'class': 'hd'})
 
         movie_name_list.append("## Top " + str(top_num))
 
