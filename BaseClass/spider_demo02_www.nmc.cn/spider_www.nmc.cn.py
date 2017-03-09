@@ -32,7 +32,7 @@ def parse_html(html, folder):
 	            with open(img_localhost, 'wb') as f:
 	            	f.write(img_req.content)
 
-	        except requests.exceptions.ConnectionError:
+	        except:
 	        	now = datetime.datetime.now()
 	        	with open("error.log", 'w') as f:
 	        		f.write(now.strftime('%Y-%m-%d %H:%M:%S') + ' 【错误】当前图片无法下载，失效地址为：' + img_big)
