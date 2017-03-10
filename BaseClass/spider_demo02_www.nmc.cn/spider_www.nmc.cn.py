@@ -2,10 +2,10 @@
 #coding=utf-8
 # 定时抓取全国预报图片 
     
-import time, os 
-import requests
+import time, os #定时抓取
+import requests 
 from bs4 import BeautifulSoup
-import datetime
+import datetime #精确时间
 
 def download_page(url):
     return requests.get(url, headers={
@@ -41,7 +41,7 @@ def parse_html(html, folder):
         # else:
         # 	print('【重复】图片已存在，下载地址为' + img_big)
 
-
+#下载清单
 DOWNLOAD_URL = [("能见度","seaplatform1","http://www.nmc.cn/publish/sea/seaplatform1.html"),("风","hourly-winds","http://www.nmc.cn/publish/observations/hourly-winds.html"),("气温","hourly-temperature","http://www.nmc.cn/publish/observations/hourly-temperature.html"),("小时降雨量","hourly-precipitation","http://www.nmc.cn/publish/observations/hourly-precipitation.html"),("卫星云图","fy2", "http://www.nmc.cn/publish/satellite/fy2.htm")]
 
 
