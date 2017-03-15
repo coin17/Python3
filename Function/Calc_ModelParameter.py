@@ -53,7 +53,7 @@ def calculateY(pointX,pointY,windAngle):
 		elif windAngle > 90 and windAngle < 180:
 			windAngle_Y = 180 - windAngle
 		elif windAngle > 180 and windAngle < 270:
-			windAngle_Y = 270 - windAngle
+			windAngle_Y = windAngle - 180
 		elif windAngle > 270 and windAngle < 360:
 			windAngle_Y = 360 - windAngle
 		else:
@@ -64,5 +64,5 @@ def calculateY(pointX,pointY,windAngle):
 
 
 if __name__ == '__main__':
-    dx, dy = calculateY(4, 4, 90)
+    dx, dy = calculateY(1, 4, 210)
     print("完成计算，垂线长度为："+str(dx) + " " + str(dy))

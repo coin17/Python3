@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #coding=utf-8
-# 定时抓取城市气象预报数据 
+# 定时抓取城市气象数据、aqi 
     
 import json
 import time, os 
