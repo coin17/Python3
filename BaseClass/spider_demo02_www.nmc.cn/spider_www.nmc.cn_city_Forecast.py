@@ -27,7 +27,7 @@ def parse_html_forecast_code(html):
         if (icon_key in icon_list) == False:
             icon_list[icon_key] = icon.find('div', attrs={'class': 'wdesc'}).getText().strip()
 
-    print(icon_list)
+    print("气象代码字典：" + icon_list)
 
 def parse_html_forecast(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -140,8 +140,8 @@ def main():
             try:
                 html_forecast = download_page("http://www.nmc.cn" + json_city["url"])
                 html_forecast.encoding = "utf-8"
-                #parse_html_forecast_code(html_forecast.text)
-                parse_html_forecast(html_forecast.text)
+                parse_html_forecast_code(html_forecast.text) #初始化时运行一次 获取气象代码
+                #parse_html_forecast(html_forecast.text)
 
             except Exception as e:
                 #raise e
