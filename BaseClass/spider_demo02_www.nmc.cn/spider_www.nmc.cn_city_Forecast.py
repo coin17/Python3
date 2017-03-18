@@ -140,8 +140,8 @@ def main():
             try:
                 html_forecast = download_page("http://www.nmc.cn" + json_city["url"])
                 html_forecast.encoding = "utf-8"
-                parse_html_forecast_code(html_forecast.text) #初始化时运行一次 获取气象代码
-                #parse_html_forecast(html_forecast.text)
+                #parse_html_forecast_code(html_forecast.text) #初始化时运行一次 获取气象代码
+                parse_html_forecast(html_forecast.text)
 
             except Exception as e:
                 #raise e
