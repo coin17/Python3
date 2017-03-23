@@ -78,7 +78,7 @@ def main():
     html = download_page(DOWNLOAD_URL)
     allPageNum = parse_html(html)
     for num in range(int(allPageNum)):
-        #print(num)
+        print("准备抓取页码：" + str(num))
         try:
             html = download_page_post(DOWNLOAD_URL,num + 1)
             parse_html_post(html)
@@ -88,6 +88,15 @@ def main():
     print("ok!")
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
+#异常补录
+def exceptCatch(num):
+    try:
+        html = download_page_post(DOWNLOAD_URL,num + 1)
+        parse_html_post(html)
+    except Exception as e:
+        print('【异常】：请求超时，请求页码' + str(num + 1))
+
 
 if __name__ == '__main__':
     main()
+    #exceptCatch(186)
