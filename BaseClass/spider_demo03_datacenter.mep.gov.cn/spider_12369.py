@@ -50,14 +50,14 @@ def parse_html_post(html):
          # 不解析标题行
         if i != 0: 
             td = tr.find_all('td')
-            column_0 = td[0].getText()
-            column_1 = td[1].getText()
-            column_2 = td[2].getText()
-            column_3 = td[3].getText()
-            column_4 = td[4].getText()
-            column_5 = td[5].getText()
-            column_6 = td[6].getText()
-            column_7 = td[7].getText()
+            column_0 = td[0].getText().strip()
+            column_1 = td[1].getText().strip()
+            column_2 = td[2].getText().strip()
+            column_3 = td[3].getText().strip().replace(' ','').replace('\n','').replace('？','') #数据不规范，中间空格，包含？等
+            column_4 = td[4].getText().strip()
+            column_5 = td[5].getText().strip()
+            column_6 = td[6].getText().strip()
+            column_7 = td[7].getText().strip()
             #print(column_0 + "|"+column_1 + "|"+column_2 + "|"+column_3 + "|"+column_4 + "|"+column_5 + "|"+column_6 + "|"+column_7)
 
             sql = "insert into Space0011A values ('%s','%s','%s','%s','%s','%s','%s','%s')"  % (column_0,column_1,column_2,column_3,column_4,column_5,column_6,column_7)
@@ -72,6 +72,9 @@ ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
 def main():
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
+
+    sql = "delete from Space0011A"  #清除历史数据
+    ms.ExecNonQuery(sql.encode('utf-8'))
     html = download_page(DOWNLOAD_URL)
     allPageNum = parse_html(html)
     for num in range(int(allPageNum)):
