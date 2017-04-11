@@ -48,6 +48,7 @@ def parse_html_aqi(dis_aqi):
 #MS Sql Server 链接字符串
 ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
 
+#每个 token 每小时最多调用 5 次
 token = ['7rMwJqMxrmuDRFsAxBqP','5j1znBVAsnSf5xQyNQyq','K6LgqdJKZP2R9Svedskd']
 
 def main():
