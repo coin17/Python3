@@ -6,6 +6,7 @@ import time, os #定时抓取
 import requests 
 from bs4 import BeautifulSoup
 import datetime #精确时间
+from MSSql_SqlHelp import MSSQL 
 
 def download_page(url):
     return requests.get(url, headers={
@@ -25,6 +26,14 @@ def parse_html(html, folder):
         img_big = img_small.replace('small/','')
 
         img_localhost = folder + '\\' + image_name + '.jpg'
+
+        fileTime = time.strptime(image_name,"%Y%m%d %H_%M")
+        fileTime = time.strftime('%Y-%m-%d %H:%M:%S',fileTime)
+        sql="select count(id) from Space0014A where column_0='%s' and column_1='%s' and column_2='%s' " %(folder,fileTime,image_name)
+        isRepeat = ms.ExecQuery(sql.encode('utf-8'))
+        if isRepeat[0][0] == 0:
+            sql = "insert into Space0014A values ('%s','%s','%s') " %(folder,fileTime,image_name)
+            ms.ExecNonQuery(sql.encode('utf-8'))
         #如果文件不存在，且大小不为 0 字节，开始下载另存
         if os.path.isfile(img_localhost) == False or os.path.getsize(img_localhost) == 0:
         	try:
@@ -43,6 +52,9 @@ def parse_html(html, folder):
 
 #下载清单
 DOWNLOAD_URL = [("能见度","seaplatform1","http://www.nmc.cn/publish/sea/seaplatform1.html"),("风","hourly-winds","http://www.nmc.cn/publish/observations/hourly-winds.html"),("气温","hourly-temperature","http://www.nmc.cn/publish/observations/hourly-temperature.html"),("小时降雨量","hourly-precipitation","http://www.nmc.cn/publish/observations/hourly-precipitation.html"),("卫星云图","fy2", "http://www.nmc.cn/publish/satellite/fy2.htm")]
+
+#MS Sql Server 链接字符串
+ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
 
 def main():
 	now = datetime.datetime.now()
