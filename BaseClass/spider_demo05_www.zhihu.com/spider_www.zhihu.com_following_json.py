@@ -39,10 +39,11 @@ def beginSpider(pageNum):
         image_url = item["avatar_url_template"].replace('{size}','xl')
 
         img_localhost = DOWNLOAD_User + '\\' + image_name + '.jpg'
+        img_localhost_git = DOWNLOAD_User + '/' + image_name + '.jpg'
 
         peoples.append("## " + item["name"])
         peoples.append(item["headline"])
-        peoples.append('!['+item["name"]+']('+img_localhost+' "'+item["name"]+'")')
+        peoples.append('!['+item["name"]+']('+img_localhost_git+' "'+item["name"]+'")')
         peoples.append("")
         peoples.append("***")
         peoples.append("")
