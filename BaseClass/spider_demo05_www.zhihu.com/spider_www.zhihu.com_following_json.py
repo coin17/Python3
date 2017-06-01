@@ -43,6 +43,7 @@ def beginSpider(pageNum):
 
         peoples.append("## " + item["name"])
         peoples.append(item["headline"])
+        peoples.append("")
         peoples.append('!['+item["name"]+']('+img_localhost_git+' "'+item["name"]+'")')
         peoples.append("")
         peoples.append("***")
