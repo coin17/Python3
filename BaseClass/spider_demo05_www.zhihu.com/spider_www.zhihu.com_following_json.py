@@ -41,7 +41,7 @@ def beginSpider(pageNum):
         img_localhost = DOWNLOAD_User + '\\' + image_name + '.jpg'
         img_localhost_git = DOWNLOAD_User + '/' + image_name + '.jpg'
 
-        peoples.append("## " + item["name"])
+        peoples.append("## [" + item["name"]+"](https://www.zhihu.com/people/"+item["url_token"]+"/activities)")
         peoples.append(item["headline"])
         peoples.append("")
         peoples.append('!['+item["name"]+']('+img_localhost_git+' "'+item["name"]+'")')
