@@ -9,7 +9,7 @@ import datetime
 from MSSql_SqlHelp import MSSQL 
 
 def download_page(url):
-    return requests.get(url,cookies=cookies,headers={
+    return requests.get(url,cookies=cookies,proxies=proxies,headers={
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36'
     }, timeout=120)
 
@@ -53,6 +53,9 @@ for line in raw_cookies.split(':'):
     key,value = line.split('=', 1)
     cookies[key] = value
 
+proxies = {
+    "https": "http://41.118.132.69:4433"
+}
 
 #MS Sql Server 链接字符串
 ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
