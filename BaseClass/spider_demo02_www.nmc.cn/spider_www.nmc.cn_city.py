@@ -9,9 +9,9 @@ import datetime
 from MSSql_SqlHelp import MSSQL 
 
 def download_page(url):
-    return requests.get(url, headers={
+    return requests.get(url,cookies=cookies,headers={
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36'
-    })
+    }, timeout=120)
 
 def parse_html_weather_aqi(json,json_aqi):
     province = json["station"]["province"]
@@ -44,6 +44,14 @@ def parse_html_weather_aqi(json,json_aqi):
             sql = "insert into Space0008A values ('%s','%s','%s','%s','%s','%s') " %(province,city,forecasttime,aq,aqi,text)
             ms.ExecNonQuery(sql.encode('utf-8'))
             print('【AQI】：' + province + " " + city + " "+ forecasttime)
+
+cookies = {}
+
+raw_cookies = 'UM_distinctid=15b8f2f73e810e-0568aad45294d8-5d4e211f-232800-15b8f2f73e91da; UM_distinctid=15baed9d9bd446-082e358903e5e6-5d4e211f-232800-15baed9d9be4f9; followcity=54511%2C58367%2C59493%2C57516%2C58321%2C57679%2C58847; CNZZDATA1254743953=1454190746-1492752603-%7C1496822745; JSESSIONID=AE68987A917F5EB0ADFF073481F60470'
+
+for line in raw_cookies.split(':'):
+    key,value = line.split('=', 1)
+    cookies[key] = value
 
 
 #MS Sql Server 链接字符串
