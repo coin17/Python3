@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #coding=utf-8
-# 抓取特定知乎用户关注对象，每次仅能抓取每页前三条
+# 抓取特定知乎用户关注对象，使用 cookies，直接请求 json
 
 import codecs
 import json
