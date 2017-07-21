@@ -1,0 +1,223 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <!-- 引入样式 -->
+    <link href="https://cdn.bootcss.com/iview/2.0.0-rc.19/styles/iview.css" rel="stylesheet">
+</head>
+<body>
+    <div id="imageAll">
+        <alert>当前显示图片：{{imageUrl.length}}  张   |   全部图片合计：{{imageAllCount}} 张 </alert>
+        <div id="imageList">
+            <row>
+                <i-col span="6" v-for="(item, index) in imageUrl">
+                    <card style="width:100%">
+                        <div style="text-align:center">
+                            <img v-bind:src="imageWebUrl + item">
+                        </div>
+                    </card>
+                </i-col>
+            </row>
+        </div>
+        <back-top></back-top>
+    </div>
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.js"></script>
+    <!-- 引入Vue -->
+    <script src="https://cdn.bootcss.com/vue/2.4.1/vue.min.js"></script>
+    <!-- 引入组件库 -->
+    <script src="https://cdn.bootcss.com/iview/2.0.0-rc.19/iview.min.js"></script>
+    <script src="https://cdn.bootcss.com/jquery.nicescroll/3.7.6/jquery.nicescroll.js"></script>
+
+    <script>
+    //图片名称数组
+    var dataList = [
+"000088.jpg",
+"0r1g1n.jpg",
+"0x6a79.jpg",
+"122334345456.jpg",
+"1442tianran.jpg",
+"20150214.jpg",
+"2bbbb.jpg",
+"403Forbidden.jpg",
+"404-you-known.jpg",
+"404_.jpg",
+"5t5t.jpg",
+"7sdream.jpg",
+"9087.jpg",
+"9527zh.jpg",
+"a-cha-90-31.jpg",
+"a-dou-dou-70.jpg",
+"a-lei-54-93.jpg",
+"a-li-xiong.jpg",
+"a-miao-80-82.jpg",
+"a-qi-72-25.jpg",
+"a-zhi-53.jpg",
+"ab-law.jpg",
+"adamcavendish.jpg",
+"ADJoy.jpg",
+"aguaithefreak.jpg",
+"ai-li-si-24-48.jpg",
+"ai-ni-ru-hai-shang-ming-yue-32.jpg",
+"ai-xia-2.jpg",
+"ai-xiao-de-tu-zi-87.jpg",
+"aihop.jpg",
+"akirayu101.jpg",
+"ala-zuo.jpg",
+"aleavingman.jpg",
+"alexlah.jpg",
+"alice-wei-joo.jpg",
+"alivinx_chioa.jpg",
+"Altari.jpg",
+"alysia-chou.jpg",
+"amberxiao-xiao-jiang.jpg",
+"amy-0223.jpg",
+"amydnt.jpg",
+"amyleo.jpg",
+"an-an-38-75.jpg",
+"an-di-13.jpg",
+"an-ji-14-73.jpg",
+"andiechu.jpg",
+"andrea-deng.jpg",
+"andrewliang.jpg",
+"andrewsun.jpg",
+"angel-cui.jpg",
+"aniani.jpg",
+"anna-59-23.jpg",
+"anna-zhang-89.jpg",
+"Annas_.jpg",
+"annetingting.jpg",
+"annie-70-63.jpg",
+"antares.jpg",
+"anxch.jpg",
+"anxinjie.jpg",
+"anyi90.jpg",
+"apologize-21.jpg",
+"April70423.jpg",
+"Arunchuanzhang.jpg",
+"Asdfwerz.jpg",
+"ASeeder.jpg",
+"asuka301.jpg",
+"aton.jpg",
+"Audrey-20.jpg",
+"aunicorn_.jpg",
+"ayat.jpg",
+"ba-la-ba-la-ba-98.jpg",
+"babe-93.jpg",
+"bahargul-25.jpg",
+"bai-cai-18-55.jpg",
+"bai-liu-su-41.jpg",
+"bai-meng-10.jpg",
+"bai-nian-xiao-yao.jpg",
+"bai-ru-bing-58.jpg",
+"bai-su-zhen-23.jpg",
+"bai-tian-mei-wang.jpg",
+"bai-wu-yiyong-78.jpg",
+"bai-xiao-zhua-9.jpg",
+"bai-yan-34-68.jpg",
+"bai-yuan-yuan-1022.jpg",
+"bai-zhi-wei.jpg",
+"baihuahua.jpg",
+"bairimeiren.jpg",
+"baixiaoyan.jpg",
+"ban-ci-yuan-6.jpg",
+"ban-xia-sign.jpg",
+"banquechahua.jpg",
+"bao-bao-87-37.jpg",
+"bao-feng-cheng-nu-bao-an.jpg",
+"bao-long-18.jpg",
+"bao-zi-chen.jpg",
+"bao-zou-luo-li-40-95.jpg",
+"baoz.jpg",
+"barbie-48-26.jpg",
+"BBBette.jpg",
+"bbking.jpg",
+"bbs.z.jpg",
+"be5invis.jpg",
+"bean-3.jpg",
+"beanliu.jpg",
+"BearRobot.jpg",
+"becca.jpg",
+"BeidouChangxi.jpg",
+"ben-li-90.jpg",
+"bettercallsaul.jpg",
+"BezierCurve.jpg",
+"bi-xin-30-1.jpg",
+"bianxianyang.jpg",
+"bibishit.jpg",
+"bigwang88.jpg",
+"bing-jiao-zhu.jpg",
+"bing-xiao-36.jpg",
+"Bingchean.jpg",
+"bingoloveyou.jpg",
+"bingzhang.jpg",
+"biubiubiu-88-24.jpg",
+"biubiubiuy2.jpg",
+"blackpanther.jpg",
+"blancguy.jpg",
+"blessea.jpg",
+"blueperson.jpg",
+"bo-cai-28-7.jpg",
+"bo-he-miao-zi.jpg",
+"bolun-yuan.jpg",
+"boyuandeng.jpg"
+
+    ]
+
+    </script>
+
+    <script>
+        var vm = new Vue({
+            el: '#imageAll',
+            data: {
+                imageAllCount: dataList.length,
+                imagePage: 1,
+                imageUrl: [],
+                //imageLocalUrl:"demo_image/",
+                imageWebUrl: "https://github.com/coin17/Python3_Test/raw/master/BaseClass/spider_demo05_www.zhihu.com/excited-vczh/"
+            }
+        })
+        //类似翻页加载
+        function loadImage(page) {
+            for (var i = (page - 1) * 20; i < page * 20; i++) {
+                if (vm.imageUrl.length == vm.imageAllCount) {
+                    return;
+                }
+                else {
+                    vm.imageUrl.push(dataList[i]);
+                }
+            }
+            var h = document.documentElement.clientHeight || document.body.clientHeight;
+            $("#imageList").height(h - 60 + Math.random()).niceScroll().resize();
+        }
+        
+        function loading(temp) {
+            if (temp == "load") {
+                vm.$Message.info('正在加载中...');
+            } else {
+                vm.$Message.warning('数据已全部加载...');
+            }
+        }
+
+        $(document).ready(function () {
+            //初次加载
+            loadImage(1);
+            //添加滚动事件监听
+            $("#imageList").getNiceScroll(0).scrollend(function (info) {
+                if ($("#imageList").getNiceScroll(0).page.maxh == info.current.y) {
+                    if (vm.imageUrl.length == vm.imageAllCount) {
+                        loading("over");
+                        return;
+                    } else {
+                        loading("load");
+                        loadImage(vm.imagePage);
+                    }
+                }
+            });
+        });
+
+
+    </script>
+
+</body>
+</html>
