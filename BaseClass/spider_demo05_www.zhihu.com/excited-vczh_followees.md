@@ -1,3 +1,868 @@
+## [lianglin21](https://www.zhihu.com/people/lianglin21/activities)
+有趣的文案小姐姐
+
+![lianglin21](excited-vczh/lianglin21.jpg "lianglin21")
+
+***
+
+## [大笨蛋千里冰封](https://www.zhihu.com/people/ice1000/activities)
+沉迷写各种编译器，专注意念编程
+
+![大笨蛋千里冰封](excited-vczh/ice1000.jpg "大笨蛋千里冰封")
+
+***
+
+## [炽丸子](https://www.zhihu.com/people/chi-wan-zi-39/activities)
+没有拼尽全力做 到时候会不会后悔呀
+
+![炽丸子](excited-vczh/chi-wan-zi-39.jpg "炽丸子")
+
+***
+
+## [司马未名](https://www.zhihu.com/people/si-ma-wei-ming-50/activities)
+司马，无名无字，专注评论区100年…
+
+![司马未名](excited-vczh/si-ma-wei-ming-50.jpg "司马未名")
+
+***
+
+## [一只脑洞](https://www.zhihu.com/people/su-an-42-86/activities)
+一个有腹肌的假妹摄
+
+![一只脑洞](excited-vczh/su-an-42-86.jpg "一只脑洞")
+
+***
+
+## [撸串的假女神](https://www.zhihu.com/people/guo-guo-46-92/activities)
+
+
+![撸串的假女神](excited-vczh/guo-guo-46-92.jpg "撸串的假女神")
+
+***
+
+## [李零七](https://www.zhihu.com/people/li-ling-qi-15/activities)
+
+
+![李零七](excited-vczh/li-ling-qi-15.jpg "李零七")
+
+***
+
+## [球盲大会](https://www.zhihu.com/people/qiu-mang-da-hui/activities)
+同名公众号，讲述NBA偏门故事
+
+![球盲大会](excited-vczh/qiu-mang-da-hui.jpg "球盲大会")
+
+***
+
+## [尤雨溪](https://www.zhihu.com/people/evanyou/activities)
+不会搞艺术的程序员不是好设计师
+
+![尤雨溪](excited-vczh/evanyou.jpg "尤雨溪")
+
+***
+
+## [何小怿](https://www.zhihu.com/people/he-xiao-yi-90-95/activities)
+they say people come，they say people go.
+
+![何小怿](excited-vczh/he-xiao-yi-90-95.jpg "何小怿")
+
+***
+
+## [爱丽](https://www.zhihu.com/people/aili.shao/activities)
+数学渣渣
+
+![爱丽](excited-vczh/aili.shao.jpg "爱丽")
+
+***
+
+## [难挑的鳄梨呀](https://www.zhihu.com/people/guo-lian-71/activities)
+你的故事讲到了哪
+
+![难挑的鳄梨呀](excited-vczh/guo-lian-71.jpg "难挑的鳄梨呀")
+
+***
+
+## [阿飞Kathy](https://www.zhihu.com/people/tang-fei-68-47/activities)
+微博：阿飞Kathy
+
+![阿飞Kathy](excited-vczh/tang-fei-68-47.jpg "阿飞Kathy")
+
+***
+
+## [性感玉米](https://www.zhihu.com/people/corndog/activities)
+前广告行业从业者
+
+![性感玉米](excited-vczh/corndog.jpg "性感玉米")
+
+***
+
+## [吃山楂第一名](https://www.zhihu.com/people/cai-zi-yi-48/activities)
+I can't live without 山楂
+
+![吃山楂第一名](excited-vczh/cai-zi-yi-48.jpg "吃山楂第一名")
+
+***
+
+## [杜花花](https://www.zhihu.com/people/du-hua-hua-75-33/activities)
+一只爱周杰伦/爱学霸/爱东北de空姐
+
+![杜花花](excited-vczh/du-hua-hua-75-33.jpg "杜花花")
+
+***
+
+## [罗三好](https://www.zhihu.com/people/luo-ke-ke-23-93/activities)
+唱跳喊麦型乘务员会点英语日语，爱好吃醉睡
+
+![罗三好](excited-vczh/luo-ke-ke-23-93.jpg "罗三好")
+
+***
+
+## [西瓜呆毛汪](https://www.zhihu.com/people/xi-gua-ai-mao-wang/activities)
+梦想当个段子手的人像摄影师
+
+![西瓜呆毛汪](excited-vczh/xi-gua-ai-mao-wang.jpg "西瓜呆毛汪")
+
+***
+
+## [黑魔仙vivi](https://www.zhihu.com/people/wang-jing-15-15-28/activities)
+
+
+![黑魔仙vivi](excited-vczh/wang-jing-15-15-28.jpg "黑魔仙vivi")
+
+***
+
+## [Lisa Wang](https://www.zhihu.com/people/lisa-wang-42-45/activities)
+
+
+![Lisa Wang](excited-vczh/lisa-wang-42-45.jpg "Lisa Wang")
+
+***
+
+## [吧啦](https://www.zhihu.com/people/ba-la-57-58/activities)
+如果可以我想一直不长大做一个合法萝莉。
+
+![吧啦](excited-vczh/ba-la-57-58.jpg "吧啦")
+
+***
+
+## [太后您受精了](https://www.zhihu.com/people/yanzhigao/activities)
+女室友专职司机，小学新概念看不懂文作家。
+
+![太后您受精了](excited-vczh/yanzhigao.jpg "太后您受精了")
+
+***
+
+## [凝凝麻吉噗咻鹅鹅](https://www.zhihu.com/people/zhou-a-a-ning-a/activities)
+美术/护肤医美/三观ojbk
+
+![凝凝麻吉噗咻鹅鹅](excited-vczh/zhou-a-a-ning-a.jpg "凝凝麻吉噗咻鹅鹅")
+
+***
+
+## [田臻atian](https://www.zhihu.com/people/tian-zhen-9-49/activities)
+视金钱如粪土
+
+![田臻atian](excited-vczh/tian-zhen-9-49.jpg "田臻atian")
+
+***
+
+## [Alex Zed](https://www.zhihu.com/people/liu-jia-ni-68/activities)
+半个变态，半个御姐.面目可憎，平凡无趣.
+
+![Alex Zed](excited-vczh/liu-jia-ni-68.jpg "Alex Zed")
+
+***
+
+## [浅川萤奈](https://www.zhihu.com/people/qian-chuan-ying-nai/activities)
+反射弧长和身高成正比/高的上天／高三文科狗
+
+![浅川萤奈](excited-vczh/qian-chuan-ying-nai.jpg "浅川萤奈")
+
+***
+
+## [串了个兔腿子](https://www.zhihu.com/people/chuan-liao-ge-tu-tui-zi/activities)
+
+
+![串了个兔腿子](excited-vczh/chuan-liao-ge-tu-tui-zi.jpg "串了个兔腿子")
+
+***
+
+## [Vennyaning](https://www.zhihu.com/people/vennyaning/activities)
+眼明心亮的少女一枚
+
+![Vennyaning](excited-vczh/vennyaning.jpg "Vennyaning")
+
+***
+
+## [一块猫饼饼](https://www.zhihu.com/people/li-leng-hao/activities)
+不喜欢没有礼貌的小朋友噢
+微博：一块猫饼饼
+
+![一块猫饼饼](excited-vczh/li-leng-hao.jpg "一块猫饼饼")
+
+***
+
+## [糖小淋](https://www.zhihu.com/people/hou-xiao-lin-55/activities)
+健身 看书 篮球 旅游 摄影 滑板 运动鞋
+
+![糖小淋](excited-vczh/hou-xiao-lin-55.jpg "糖小淋")
+
+***
+
+## [赵安妮](https://www.zhihu.com/people/zhaoanni/activities)
+不友好，爱骂人，不萌，高冷，网瘾少女。
+
+![赵安妮](excited-vczh/zhaoanni.jpg "赵安妮")
+
+***
+
+## [程咬金](https://www.zhihu.com/people/cheng-cheng-78-35/activities)
+白痴实习生
+
+![程咬金](excited-vczh/cheng-cheng-78-35.jpg "程咬金")
+
+***
+
+## [李子](https://www.zhihu.com/people/li-juan-89-41/activities)
+猫女一枚~
+
+![李子](excited-vczh/li-juan-89-41.jpg "李子")
+
+***
+
+## [姜戈](https://www.zhihu.com/people/jungle-14/activities)
+
+
+![姜戈](excited-vczh/jungle-14.jpg "姜戈")
+
+***
+
+## [小雀斑](https://www.zhihu.com/people/xiao-que-ban-52/activities)
+
+
+![小雀斑](excited-vczh/xiao-que-ban-52.jpg "小雀斑")
+
+***
+
+## [山下智九](https://www.zhihu.com/people/li-si-nian-87/activities)
+
+
+![山下智九](excited-vczh/li-si-nian-87.jpg "山下智九")
+
+***
+
+## [毛嘞个毛](https://www.zhihu.com/people/mao-lei-ge-mao/activities)
+囍
+
+![毛嘞个毛](excited-vczh/mao-lei-ge-mao.jpg "毛嘞个毛")
+
+***
+
+## [萌球](https://www.zhihu.com/people/huang-wan-jing-20/activities)
+一个胸大有脑的天然萌小瘦子
+
+![萌球](excited-vczh/huang-wan-jing-20.jpg "萌球")
+
+***
+
+## [全民故事计划](https://www.zhihu.com/people/quan-min-gu-shi-ji-hua-67/activities)
+微信公众号：quanmingushi，其实，每个人的故事都惊心动魄。
+
+![全民故事计划](excited-vczh/quan-min-gu-shi-ji-hua-67.jpg "全民故事计划")
+
+***
+
+## [夏尔洛瓦](https://www.zhihu.com/people/xia-er-luo-wa/activities)
+あなた、怠惰ですね。
+
+![夏尔洛瓦](excited-vczh/xia-er-luo-wa.jpg "夏尔洛瓦")
+
+***
+
+## [Rio耿直](https://www.zhihu.com/people/wangrio/activities)
+就是个俗气的姑娘
+
+![Rio耿直](excited-vczh/wangrio.jpg "Rio耿直")
+
+***
+
+## [飞行少女阿若](https://www.zhihu.com/people/yiruo-zhang/activities)
+北京姑娘，留美七年，现居纽约。文理学院本，哥大研。
+
+![飞行少女阿若](excited-vczh/yiruo-zhang.jpg "飞行少女阿若")
+
+***
+
+## [狐狸大魔王](https://www.zhihu.com/people/guang-ying-31-41/activities)
+对~我是一个百合，也是超级游戏迷~就酱~
+
+![狐狸大魔王](excited-vczh/guang-ying-31-41.jpg "狐狸大魔王")
+
+***
+
+## [巴啦啦小魔仙](https://www.zhihu.com/people/ba-la-la-xiao-mo-xian-50-50/activities)
+你的仙女
+
+![巴啦啦小魔仙](excited-vczh/ba-la-la-xiao-mo-xian-50-50.jpg "巴啦啦小魔仙")
+
+***
+
+## [四层饼](https://www.zhihu.com/people/khalil-chang/activities)
+归根结底 太阳还是温暖着我们的身骨
+
+![四层饼](excited-vczh/khalil-chang.jpg "四层饼")
+
+***
+
+## [畹畹](https://www.zhihu.com/people/zhang-xiao-yao-75-80/activities)
+中文系女废学生
+
+![畹畹](excited-vczh/zhang-xiao-yao-75-80.jpg "畹畹")
+
+***
+
+## [老婆](https://www.zhihu.com/people/yang-yu-ting-7-23/activities)
+
+
+![老婆](excited-vczh/yang-yu-ting-7-23.jpg "老婆")
+
+***
+
+## [温酒](https://www.zhihu.com/people/warmwine/activities)
+温酒不说谎
+
+![温酒](excited-vczh/warmwine.jpg "温酒")
+
+***
+
+## [花猹猹](https://www.zhihu.com/people/hua-zha-zha-95/activities)
+无聊的情感问题和性生活问题再邀我我见一个骂一个。勿邀谢谢。
+
+![花猹猹](excited-vczh/hua-zha-zha-95.jpg "花猹猹")
+
+***
+
+## [张透明](https://www.zhihu.com/people/zhang-xin-82-3/activities)
+神秘 会屈从于更高的神秘
+
+![张透明](excited-vczh/zhang-xin-82-3.jpg "张透明")
+
+***
+
+## [素靥如初](https://www.zhihu.com/people/su-ye-ru-chu/activities)
+画跑歌漫眼镜不离身
+理性护肤裸肌狂，长发魔女傻大个
+脑洞是窟窿 气质养成中
+
+![素靥如初](excited-vczh/su-ye-ru-chu.jpg "素靥如初")
+
+***
+
+## [太太太](https://www.zhihu.com/people/li-zhe-feng-33/activities)
+这是新号，也是新的我。
+
+![太太太](excited-vczh/li-zhe-feng-33.jpg "太太太")
+
+***
+
+## [胡雅婷](https://www.zhihu.com/people/cyan-84/activities)
+北大计算机 · 00年女孩子
+
+![胡雅婷](excited-vczh/cyan-84.jpg "胡雅婷")
+
+***
+
+## [咩咩酱](https://www.zhihu.com/people/diandian77/activities)
+恰好你来 恰好我在
+
+![咩咩酱](excited-vczh/diandian77.jpg "咩咩酱")
+
+***
+
+## [太阳啊](https://www.zhihu.com/people/lin-ji-3-30/activities)
+好奇又胆小，生人戒备
+
+![太阳啊](excited-vczh/lin-ji-3-30.jpg "太阳啊")
+
+***
+
+## [蓝二Y](https://www.zhihu.com/people/luan-xiao-ying-45/activities)
+爱党爱国爱人民爱自己
+
+![蓝二Y](excited-vczh/luan-xiao-ying-45.jpg "蓝二Y")
+
+***
+
+## [Peyo Wang](https://www.zhihu.com/people/hinspinky/activities)
+Smart is another sexy
+
+![Peyo Wang](excited-vczh/hinspinky.jpg "Peyo Wang")
+
+***
+
+## [正能量小书皮](https://www.zhihu.com/people/wang-shu-pi-15/activities)
+性感是毕生追求/Anti-comfort zone/行动派
+
+![正能量小书皮](excited-vczh/wang-shu-pi-15.jpg "正能量小书皮")
+
+***
+
+## [MollyChang](https://www.zhihu.com/people/sama-elly/activities)
+冷门旅行爱好者/木材加工学生/葡萄酒与烈酒研习生
+
+![MollyChang](excited-vczh/sama-elly.jpg "MollyChang")
+
+***
+
+## [张安琪](https://www.zhihu.com/people/zhang-an-qi-72/activities)
+香喷喷的兔小宝
+
+![张安琪](excited-vczh/zhang-an-qi-72.jpg "张安琪")
+
+***
+
+## [女神枪手李七七](https://www.zhihu.com/people/grace-li-18/activities)
+枪械战术女教官/远距离精准射手
+
+![女神枪手李七七](excited-vczh/grace-li-18.jpg "女神枪手李七七")
+
+***
+
+## [Murasaki](https://www.zhihu.com/people/mrsk/activities)
+二进制安全
+
+![Murasaki](excited-vczh/mrsk.jpg "Murasaki")
+
+***
+
+## [一只喵](https://www.zhihu.com/people/xiao-mei-mei-mei-53/activities)
+微博：@七宠Sss
+
+![一只喵](excited-vczh/xiao-mei-mei-mei-53.jpg "一只喵")
+
+***
+
+## [野授](https://www.zhihu.com/people/kao-yu-mei-zhi/activities)
+人如其名，野性难驯
+
+![野授](excited-vczh/kao-yu-mei-zhi.jpg "野授")
+
+***
+
+## [发条橙子](https://www.zhihu.com/people/duanzhijun/activities)
+大学生，爱吃肉，爱穿裙子，爱papapa
+
+![发条橙子](excited-vczh/duanzhijun.jpg "发条橙子")
+
+***
+
+## [BabyCoconutGirl](https://www.zhihu.com/people/li-zi-zhu-98-31/activities)
+胸大有脑
+
+![BabyCoconutGirl](excited-vczh/li-zi-zhu-98-31.jpg "BabyCoconutGirl")
+
+***
+
+## [阿舞](https://www.zhihu.com/people/wen-wu-shuang-quan-78/activities)
+我是一个四不像。身体里住着一个糙汉子的灵魂。
+
+![阿舞](excited-vczh/wen-wu-shuang-quan-78.jpg "阿舞")
+
+***
+
+## [夏你一跳](https://www.zhihu.com/people/missssxia/activities)
+想约炮的别问微信了，不会约的
+
+![夏你一跳](excited-vczh/missssxia.jpg "夏你一跳")
+
+***
+
+## [三井瘦](https://www.zhihu.com/people/hoho-ho/activities)
+bug maker
+
+![三井瘦](excited-vczh/hoho-ho.jpg "三井瘦")
+
+***
+
+## [丁丁丁](https://www.zhihu.com/people/ding-ding-red/activities)
+python/挖掘机跨考计算机中
+
+![丁丁丁](excited-vczh/ding-ding-red.jpg "丁丁丁")
+
+***
+
+## [三女夷太](https://www.zhihu.com/people/chen-xin-61-28/activities)
+及時行樂
+
+![三女夷太](excited-vczh/chen-xin-61-28.jpg "三女夷太")
+
+***
+
+## [醒喵喵](https://www.zhihu.com/people/liu-da-mei-ren-95/activities)
+东北妹纸在北京                       微博 阿醒还是大美人
+
+![醒喵喵](excited-vczh/liu-da-mei-ren-95.jpg "醒喵喵")
+
+***
+
+## [孤岛](https://www.zhihu.com/people/han-ba-bi-75/activities)
+
+
+![孤岛](excited-vczh/han-ba-bi-75.jpg "孤岛")
+
+***
+
+## [劉可恶](https://www.zhihu.com/people/6ke-72/activities)
+
+
+![劉可恶](excited-vczh/6ke-72.jpg "劉可恶")
+
+***
+
+## [牛姐](https://www.zhihu.com/people/houhou223/activities)
+牛交所联合创始人，海归女博士
+
+![牛姐](excited-vczh/houhou223.jpg "牛姐")
+
+***
+
+## [星星](https://www.zhihu.com/people/xing-xing-7-33/activities)
+灵魂丰满，肉体骨感
+
+![星星](excited-vczh/xing-xing-7-33.jpg "星星")
+
+***
+
+## [美彧](https://www.zhihu.com/people/ke-yu-84-84/activities)
+想做路边一条肆意奔跑的野狗！
+
+![美彧](excited-vczh/ke-yu-84-84.jpg "美彧")
+
+***
+
+## [Sagit Romantic](https://www.zhihu.com/people/sagi-romantic/activities)
+进击的巨人 全面解读
+
+![Sagit Romantic](excited-vczh/sagi-romantic.jpg "Sagit Romantic")
+
+***
+
+## [Lolita](https://www.zhihu.com/people/wang-ye-39-27-49/activities)
+老妓回忆录
+
+![Lolita](excited-vczh/wang-ye-39-27-49.jpg "Lolita")
+
+***
+
+## [从你的全世界浪过](https://www.zhihu.com/people/xiao-ge-32-3-86/activities)
+雨过天晴，终要好天气！
+
+![从你的全世界浪过](excited-vczh/xiao-ge-32-3-86.jpg "从你的全世界浪过")
+
+***
+
+## [Chuck](https://www.zhihu.com/people/bo-duo-ye-jie-chai/activities)
+看屁啊
+
+![Chuck](excited-vczh/bo-duo-ye-jie-chai.jpg "Chuck")
+
+***
+
+## [Christy](https://www.zhihu.com/people/christy-37-12/activities)
+你猜我有没有一个有趣的灵魂 
+
+![Christy](excited-vczh/christy-37-12.jpg "Christy")
+
+***
+
+## [苏苏哒](https://www.zhihu.com/people/su-su-da-91/activities)
+一个不看颜值的小姐姐
+
+![苏苏哒](excited-vczh/su-su-da-91.jpg "苏苏哒")
+
+***
+
+## [噼里啪啦哄c](https://www.zhihu.com/people/pi-li-pa-la-hong-c/activities)
+白羊 211俄语专业 准留学生 唱歌跳舞打游戏
+
+![噼里啪啦哄c](excited-vczh/pi-li-pa-la-hong-c.jpg "噼里啪啦哄c")
+
+***
+
+## [小菜鸡](https://www.zhihu.com/people/haoyoucainet/activities)
+金融小硕／轻熟女／公众号小小财技女头目
+
+![小菜鸡](excited-vczh/haoyoucainet.jpg "小菜鸡")
+
+***
+
+## [[已重置]](https://www.zhihu.com/people/wang-si-cong-shi-shui-20/activities)
+
+
+![[已重置]](excited-vczh/wang-si-cong-shi-shui-20.jpg "[已重置]")
+
+***
+
+## [Dreambaby](https://www.zhihu.com/people/dreambaby-4/activities)
+乱倒腾的一只虾米……
+
+![Dreambaby](excited-vczh/dreambaby-4.jpg "Dreambaby")
+
+***
+
+## [七七](https://www.zhihu.com/people/wang-da-ke-84-74/activities)
+努力做个搞笑回答者
+
+![七七](excited-vczh/wang-da-ke-84-74.jpg "七七")
+
+***
+
+## [Sabrina Ling](https://www.zhihu.com/people/sabrina-lin-87/activities)
+微博：青柠y蜜茶
+
+![Sabrina Ling](excited-vczh/sabrina-lin-87.jpg "Sabrina Ling")
+
+***
+
+## [kasssy](https://www.zhihu.com/people/shi-jiu-nian-shi/activities)
+胸肌F杯
+
+![kasssy](excited-vczh/shi-jiu-nian-shi.jpg "kasssy")
+
+***
+
+## [茉莉大妹砸](https://www.zhihu.com/people/jing-chu-san-shi/activities)
+学生/跳舞/业余模特/不约 
+
+![茉莉大妹砸](excited-vczh/jing-chu-san-shi.jpg "茉莉大妹砸")
+
+***
+
+## [Summer](https://www.zhihu.com/people/songban-mei-29/activities)
+健身爱好者，吃货一枚。
+
+![Summer](excited-vczh/songban-mei-29.jpg "Summer")
+
+***
+
+## [彼得威](https://www.zhihu.com/people/bi-de-wei-76/activities)
+笑着摸摸你的头。
+
+![彼得威](excited-vczh/bi-de-wei-76.jpg "彼得威")
+
+***
+
+## [S级神经病](https://www.zhihu.com/people/lanfengxing/activities)
+这个姑娘的每个答案都很有趣
+
+![S级神经病](excited-vczh/lanfengxing.jpg "S级神经病")
+
+***
+
+## [run](https://www.zhihu.com/people/run-64-33/activities)
+傲娇 慎撩
+
+![run](excited-vczh/run-64-33.jpg "run")
+
+***
+
+## [橘酱](https://www.zhihu.com/people/zhou-shang-yan/activities)
+
+
+![橘酱](excited-vczh/zhou-shang-yan.jpg "橘酱")
+
+***
+
+## [木杉欧尼](https://www.zhihu.com/people/niu-bin-92/activities)
+工程造价行业小白
+
+![木杉欧尼](excited-vczh/niu-bin-92.jpg "木杉欧尼")
+
+***
+
+## [月半怡](https://www.zhihu.com/people/yi-can-qin-26/activities)
+专注于美食的研究僧
+
+![月半怡](excited-vczh/yi-can-qin-26.jpg "月半怡")
+
+***
+
+## [小饮](https://www.zhihu.com/people/yang-mian-ren/activities)
+游戏人间。
+
+![小饮](excited-vczh/yang-mian-ren.jpg "小饮")
+
+***
+
+## [eli.z](https://www.zhihu.com/people/eli.z/activities)
+数据库工程师/工业工程/滑雪冲浪潜水/电影/小设计师
+
+![eli.z](excited-vczh/eli.z.jpg "eli.z")
+
+***
+
+## [鸦九](https://www.zhihu.com/people/meng-jia-38-70/activities)
+微博：鸦九儿
+在当地较为英俊的人
+
+![鸦九](excited-vczh/meng-jia-38-70.jpg "鸦九")
+
+***
+
+## [郎朗](https://www.zhihu.com/people/langlang0614/activities)
+国际著名钢琴家/音乐教育者
+
+![郎朗](excited-vczh/langlang0614.jpg "郎朗")
+
+***
+
+## [汣是我](https://www.zhihu.com/people/jiule-yi/activities)
+坚信奶子大了什么鸟都有！ 
+
+![汣是我](excited-vczh/jiule-yi.jpg "汣是我")
+
+***
+
+## [护食熊](https://www.zhihu.com/people/tu-ba-mei-37/activities)
+过期jk
+
+![护食熊](excited-vczh/tu-ba-mei-37.jpg "护食熊")
+
+***
+
+## [莉莉安](https://www.zhihu.com/people/shi-yu-li-23/activities)
+可爱又迷人的反派角色
+
+![莉莉安](excited-vczh/shi-yu-li-23.jpg "莉莉安")
+
+***
+
+## [梅洋汤](https://www.zhihu.com/people/teeny-tiny/activities)
+世上最美好的事，是突然就开心起来O(∩_∩)O~~
+
+![梅洋汤](excited-vczh/teeny-tiny.jpg "梅洋汤")
+
+***
+
+## [YMYYUMMY](https://www.zhihu.com/people/zheng-yummy-35/activities)
+我不做大哥好多年
+
+![YMYYUMMY](excited-vczh/zheng-yummy-35.jpg "YMYYUMMY")
+
+***
+
+## [应如](https://www.zhihu.com/people/yi-yi-10-23/activities)
+有所为，有所不为
+
+![应如](excited-vczh/yi-yi-10-23.jpg "应如")
+
+***
+
+## [李喵喵](https://www.zhihu.com/people/leameowmeow/activities)
+无法被智商低于105的用户关注
+
+![李喵喵](excited-vczh/leameowmeow.jpg "李喵喵")
+
+***
+
+## [stars](https://www.zhihu.com/people/stars-44-52/activities)
+自由职业
+
+![stars](excited-vczh/stars-44-52.jpg "stars")
+
+***
+
+## [林诚](https://www.zhihu.com/people/LinChenX/activities)
+<a href="https://link.zhihu.com/?target=https%3A//github.com/JimChengLin/" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">github.com/JimChengLin/</span><span class="invisible"></span><i class="icon-external"></i></a> 
+
+![林诚](excited-vczh/LinChenX.jpg "林诚")
+
+***
+
+## [你呀](https://www.zhihu.com/people/zhang-chang-67-55/activities)
+过把瘾就死.
+
+![你呀](excited-vczh/zhang-chang-67-55.jpg "你呀")
+
+***
+
+## [命好小圆子](https://www.zhihu.com/people/ming-hao-xiao-yuan-zi/activities)
+教书匠、已婚美少女、旺财姐姐
+
+![命好小圆子](excited-vczh/ming-hao-xiao-yuan-zi.jpg "命好小圆子")
+
+***
+
+## [月半苏](https://www.zhihu.com/people/sming0601/activities)
+程序员 女 单身 不可撩
+
+![月半苏](excited-vczh/sming0601.jpg "月半苏")
+
+***
+
+## [俗世人](https://www.zhihu.com/people/fu-ni-nuo-52/activities)
+原来我还没有过气呦
+
+![俗世人](excited-vczh/fu-ni-nuo-52.jpg "俗世人")
+
+***
+
+## [鱼干儿](https://www.zhihu.com/people/li-jing-jing-51-98/activities)
+我走路带风～
+
+![鱼干儿](excited-vczh/li-jing-jing-51-98.jpg "鱼干儿")
+
+***
+
+## [Ruby](https://www.zhihu.com/people/nie-can-99/activities)
+一不小心就玩脱的典型案例
+
+![Ruby](excited-vczh/nie-can-99.jpg "Ruby")
+
+***
+
+## [甘习](https://www.zhihu.com/people/gaanyu/activities)
+稳定产出高票折叠答案
+
+![甘习](excited-vczh/gaanyu.jpg "甘习")
+
+***
+
+## [BearMonica](https://www.zhihu.com/people/xiong-xiao-chai-jiao-zhu/activities)
+魔兽世界永远的法师
+
+![BearMonica](excited-vczh/xiong-xiao-chai-jiao-zhu.jpg "BearMonica")
+
+***
+
+## [夏天的绿豆豆](https://www.zhihu.com/people/xia-tian-de-lu-dou-dou/activities)
+德国小豆豆
+
+![夏天的绿豆豆](excited-vczh/xia-tian-de-lu-dou-dou.jpg "夏天的绿豆豆")
+
+***
+
+## [悟空秋](https://www.zhihu.com/people/wu-kong-qiu/activities)
+猫奴教师
+
+![悟空秋](excited-vczh/wu-kong-qiu.jpg "悟空秋")
+
+***
+
+## [公子兔](https://www.zhihu.com/people/zheng-gong-si/activities)
+
+
+![公子兔](excited-vczh/zheng-gong-si.jpg "公子兔")
+
+***
+
+## [羽扬](https://www.zhihu.com/people/yu-yang-24-50/activities)
+爱欲依存症晚期，小黄文超低产制造者，奴
+
+![羽扬](excited-vczh/yu-yang-24-50.jpg "羽扬")
+
+***
+
 ## [微红啊](https://www.zhihu.com/people/wei-hong-a/activities)
 教师
 
@@ -27,7 +892,7 @@
 ***
 
 ## [一只小芒果](https://www.zhihu.com/people/yizhi-xiao-mang-guo-6/activities)
-愿有朝一日，朝三暮四
+一见钟情看脸，日久生情看活？
 
 ![一只小芒果](excited-vczh/yizhi-xiao-mang-guo-6.jpg "一只小芒果")
 
@@ -48,14 +913,14 @@
 ***
 
 ## [小甜橙](https://www.zhihu.com/people/xiaotiancheng/activities)
-点赞代表你想了解我，关注代表你这么做了
+微博@小甜橙 微信：L0000711
 
 ![小甜橙](excited-vczh/xiaotiancheng.jpg "小甜橙")
 
 ***
 
 ## [苏锦畅](https://www.zhihu.com/people/su-jin-chang-82/activities)
-何以解忧！唯有暴富！
+莫使金樽空对月
 
 ![苏锦畅](excited-vczh/su-jin-chang-82.jpg "苏锦畅")
 
@@ -97,7 +962,7 @@
 ***
 
 ## [赵沐菀](https://www.zhihu.com/people/mi-hu-de-kao-la-xiao-jie/activities)
-微博：赵沐菀 微信：JoJo1218ZYJ
+微博：赵沐菀 微信：mxb1218zozo
 
 ![赵沐菀](excited-vczh/mi-hu-de-kao-la-xiao-jie.jpg "赵沐菀")
 
@@ -118,23 +983,24 @@
 ***
 
 ## [不喜欢](https://www.zhihu.com/people/bu-xi-huan-77-20/activities)
-文秘在读
+你很好，可是我不喜欢
 
 ![不喜欢](excited-vczh/bu-xi-huan-77-20.jpg "不喜欢")
 
 ***
 
 ## [惊幽梦](https://www.zhihu.com/people/liang-you-meng/activities)
-蹉跎终岁付幽梦，似梦还醒惊浮生。
+蹉跎终岁付幽梦，似寐还醒惊浮生。
+海月偷见眼前人，心底浪潮次第升。
 
 ![惊幽梦](excited-vczh/liang-you-meng.jpg "惊幽梦")
 
 ***
 
-## [阿七](https://www.zhihu.com/people/a-qi-72-25/activities)
+## [七哥](https://www.zhihu.com/people/a-qi-72-25/activities)
 
 
-![阿七](excited-vczh/a-qi-72-25.jpg "阿七")
+![七哥](excited-vczh/a-qi-72-25.jpg "七哥")
 
 ***
 
@@ -167,16 +1033,16 @@
 ***
 
 ## [七巷清酒](https://www.zhihu.com/people/li-ruo-shun/activities)
-春风不至。
+眸中是海，汹涌璀璨。
 
 ![七巷清酒](excited-vczh/li-ruo-shun.jpg "七巷清酒")
 
 ***
 
-## [徐啄衣](https://www.zhihu.com/people/xu-ze-yi-62/activities)
+## [徐玖酒](https://www.zhihu.com/people/xu-ze-yi-62/activities)
 “倘若我问心有愧呢？”
 
-![徐啄衣](excited-vczh/xu-ze-yi-62.jpg "徐啄衣")
+![徐玖酒](excited-vczh/xu-ze-yi-62.jpg "徐玖酒")
 
 ***
 
@@ -195,7 +1061,7 @@
 ***
 
 ## [祤瞳](https://www.zhihu.com/people/yu-tong-99-26/activities)
-七月将举办昆虫展
+生态展策展人，自然爱好者
 
 ![祤瞳](excited-vczh/yu-tong-99-26.jpg "祤瞳")
 
@@ -244,7 +1110,7 @@
 ***
 
 ## [韩抖抖](https://www.zhihu.com/people/kiwihan726/activities)
-我还好，就是运气不好
+愿你走过一段路后依旧有温度
 
 ![韩抖抖](excited-vczh/kiwihan726.jpg "韩抖抖")
 
@@ -254,13 +1120,6 @@
 历史迷、摄影爱好者、约书啊！
 
 ![paipaipaipai](excited-vczh/ya-wen-47-24.jpg "paipaipaipai")
-
-***
-
-## [Wallst Bear](https://www.zhihu.com/people/wallst-bear/activities)
-藤校，墙街，商硕，法博。
-
-![Wallst Bear](excited-vczh/wallst-bear.jpg "Wallst Bear")
 
 ***
 
@@ -293,7 +1152,7 @@ UX设计师@Google
 ***
 
 ## [席琳娜](https://www.zhihu.com/people/mi-zi-89-58/activities)
-两性问题咨询 字母圈人士 游戏玩家
+枪法屌 意识野
 
 ![席琳娜](excited-vczh/mi-zi-89-58.jpg "席琳娜")
 
@@ -307,7 +1166,7 @@ UX设计师@Google
 ***
 
 ## [Sigsbee](https://www.zhihu.com/people/shi-yu-48-30-26/activities)
-军宅/画师/coser
+军宅/画师
 
 ![Sigsbee](excited-vczh/shi-yu-48-30-26.jpg "Sigsbee")
 
@@ -320,15 +1179,15 @@ UX设计师@Google
 
 ***
 
-## [pokin](https://www.zhihu.com/people/man-man-20-35/activities)
-想成为一个有趣的人♡
+## [pokin酱](https://www.zhihu.com/people/man-man-20-35/activities)
+想成为有趣的人♡
 
-![pokin](excited-vczh/man-man-20-35.jpg "pokin")
+![pokin酱](excited-vczh/man-man-20-35.jpg "pokin酱")
 
 ***
 
 ## [锕锂氪锶](https://www.zhihu.com/people/liu-yu-qi-98-42-27/activities)
-理科障碍者 酷爱纹身和音乐的特教
+不装萝莉 不理喷子 掉粉大王
 
 ![锕锂氪锶](excited-vczh/liu-yu-qi-98-42-27.jpg "锕锂氪锶")
 
@@ -412,7 +1271,7 @@ UX设计师@Google
 ***
 
 ## [布尼由她](https://www.zhihu.com/people/bu-ni-you-ta/activities)
-
+一名过了气的网黑
 
 ![布尼由她](excited-vczh/bu-ni-you-ta.jpg "布尼由她")
 
@@ -433,7 +1292,7 @@ UX设计师@Google
 ***
 
 ## [孽十五](https://www.zhihu.com/people/jia-xiao-yu-27-14/activities)
-不是很好惹
+
 
 ![孽十五](excited-vczh/jia-xiao-yu-27-14.jpg "孽十五")
 
@@ -510,7 +1369,7 @@ Juris Doctor Candidate （专伤感情，专发大量不懂法的言论）
 ***
 
 ## [楠楠](https://www.zhihu.com/people/nan-nan-34-15-48/activities)
-幼师
+
 
 ![楠楠](excited-vczh/nan-nan-34-15-48.jpg "楠楠")
 
@@ -538,7 +1397,7 @@ jk制服/自我管理/处女座/社恐
 ***
 
 ## [Sheena](https://www.zhihu.com/people/SheenaZhang116/activities)
-新闻专业学生/二次元爱好者/猫咪爱好者
+微博：六六喵的西妠
 
 ![Sheena](excited-vczh/SheenaZhang116.jpg "Sheena")
 
@@ -566,7 +1425,7 @@ jk制服/自我管理/处女座/社恐
 ***
 
 ## [周小肉](https://www.zhihu.com/people/zhou-xiao-rou-63/activities)
-你关注了就不舍得取关的公众号：周小肉
+97年博主公众号：周小肉。时尚/种草/情感
 
 ![周小肉](excited-vczh/zhou-xiao-rou-63.jpg "周小肉")
 
@@ -636,7 +1495,7 @@ OW国服第一瓜皮天使
 ***
 
 ## [yoki](https://www.zhihu.com/people/yoki-72-2/activities)
-偶尔合群
+慎独
 
 ![yoki](excited-vczh/yoki-72-2.jpg "yoki")
 
@@ -649,15 +1508,15 @@ OW国服第一瓜皮天使
 
 ***
 
-## [陈麦琪](https://www.zhihu.com/people/chen-mai-qi-33/activities)
-摄影、电影、小说爱好者，丁克，文青，感性与理性并存，
+## [麦琪](https://www.zhihu.com/people/chen-mai-qi-33/activities)
+“如果有来生，我要做一棵树！”
 
-![陈麦琪](excited-vczh/chen-mai-qi-33.jpg "陈麦琪")
+![麦琪](excited-vczh/chen-mai-qi-33.jpg "麦琪")
 
 ***
 
 ## [晚晴](https://www.zhihu.com/people/shu-shu-77-47/activities)
-
+千山万水
 
 ![晚晴](excited-vczh/shu-shu-77-47.jpg "晚晴")
 
@@ -693,10 +1552,10 @@ CAA在读
 
 ***
 
-## [Ann安小猫](https://www.zhihu.com/people/misza/activities)
-I'm a nightmare dressed like a daydream.
+## [Ann小猫](https://www.zhihu.com/people/misza/activities)
+I don't wanna live forever.
 
-![Ann安小猫](excited-vczh/misza.jpg "Ann安小猫")
+![Ann小猫](excited-vczh/misza.jpg "Ann小猫")
 
 ***
 
@@ -708,7 +1567,7 @@ I'm a nightmare dressed like a daydream.
 ***
 
 ## [企鹅](https://www.zhihu.com/people/qi-e-69-85/activities)
-想算塔罗私信我  电影 动漫 音乐 长板 辩论爱好者
+想算塔罗私信我  长板 电影 音乐 辩论爱好者
 
 ![企鹅](excited-vczh/qi-e-69-85.jpg "企鹅")
 
@@ -750,21 +1609,21 @@ Microsoft Cortana Engineer 前Oracle Kernel Engineer. Dota2 5k菜鸡
 ***
 
 ## [Lily](https://www.zhihu.com/people/dai-a-68/activities)
-一万年太久
+痴心见多了 你算老几
 
 ![Lily](excited-vczh/dai-a-68.jpg "Lily")
 
 ***
 
 ## [牟牟牟糖醇](https://www.zhihu.com/people/mou-mou-mou-tang-chun/activities)
-余命、よろしくね 
+没干货。喜欢怼人。不要关注。私信看脸回
 
 ![牟牟牟糖醇](excited-vczh/mou-mou-mou-tang-chun.jpg "牟牟牟糖醇")
 
 ***
 
 ## [柚子小小](https://www.zhihu.com/people/fish-3-30/activities)
-微博 小青青超级棒神奇大宝贝
+微博 <a href="https://link.zhihu.com/?target=https%3A//weibo.com/u/1952573141" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">weibo.com/u/1952573141</span><span class="invisible"></span><i class="icon-external"></i></a>
 
 ![柚子小小](excited-vczh/fish-3-30.jpg "柚子小小")
 
@@ -813,7 +1672,7 @@ Microsoft Cortana Engineer 前Oracle Kernel Engineer. Dota2 5k菜鸡
 ***
 
 ## [归途中的刺鸟](https://www.zhihu.com/people/dong-hai-fei-0511/activities)
-未来还未来，活在当下
+爱画画却很久才画一次的视觉&amp;UI设计师
 
 ![归途中的刺鸟](excited-vczh/dong-hai-fei-0511.jpg "归途中的刺鸟")
 
@@ -834,7 +1693,7 @@ Microsoft Cortana Engineer 前Oracle Kernel Engineer. Dota2 5k菜鸡
 ***
 
 ## [孔乙己](https://www.zhihu.com/people/ou-yang-yang-yang-94-25/activities)
-不与傻瓜论长短
+不敢刷街之前不是好汉!妈哒!
 
 ![孔乙己](excited-vczh/ou-yang-yang-yang-94-25.jpg "孔乙己")
 
@@ -855,7 +1714,7 @@ Microsoft Cortana Engineer 前Oracle Kernel Engineer. Dota2 5k菜鸡
 ***
 
 ## [柚彥](https://www.zhihu.com/people/misaki-89-59/activities)
-Takahashi Misaki
+Ballball you 看簡介
 
 ![柚彥](excited-vczh/misaki-89-59.jpg "柚彥")
 
@@ -897,16 +1756,16 @@ Takahashi Misaki
 ***
 
 ## [别叫我Judy](https://www.zhihu.com/people/JudyZhao/activities)
-Airphoto不务正业的CEO
+微博ID：南小路-
 
 ![别叫我Judy](excited-vczh/JudyZhao.jpg "别叫我Judy")
 
 ***
 
-## [Yuan Gao](https://www.zhihu.com/people/yuan-gao-81-9/activities)
-Linux Git Java // Payment Industry
+## [ygao.233](https://www.zhihu.com/people/yuan-gao-81-9/activities)
+Payment Industry
 
-![Yuan Gao](excited-vczh/yuan-gao-81-9.jpg "Yuan Gao")
+![ygao.233](excited-vczh/yuan-gao-81-9.jpg "ygao.233")
 
 ***
 
@@ -925,7 +1784,7 @@ Linux Git Java // Payment Industry
 ***
 
 ## [刘梓珊](https://www.zhihu.com/people/liu-zi-shan-80/activities)
-想做在图书馆里读书的人
+草莓味的十六岁少女
 
 ![刘梓珊](excited-vczh/liu-zi-shan-80.jpg "刘梓珊")
 
@@ -960,14 +1819,14 @@ Linux Git Java // Payment Industry
 ***
 
 ## [梦倩是天才儿童](https://www.zhihu.com/people/mengqian-chen/activities)
-在读金融
+世界和你 我选择我
 
 ![梦倩是天才儿童](excited-vczh/mengqian-chen.jpg "梦倩是天才儿童")
 
 ***
 
 ## [白流苏](https://www.zhihu.com/people/bai-liu-su-41/activities)
-感谢关注❤️
+洋葱
 
 ![白流苏](excited-vczh/bai-liu-su-41.jpg "白流苏")
 
@@ -988,7 +1847,7 @@ Linux Git Java // Payment Industry
 ***
 
 ## [Andy Seeder](https://www.zhihu.com/people/ASeeder/activities)
-哲学
+大二统计学在读
 
 ![Andy Seeder](excited-vczh/ASeeder.jpg "Andy Seeder")
 
@@ -1009,7 +1868,7 @@ Linux Git Java // Payment Industry
 ***
 
 ## [Aness](https://www.zhihu.com/people/zhou-qian-qian-30-45/activities)
-爱玩的多功能NPC～
+沉迷跳伞 无法自拔
 
 ![Aness](excited-vczh/zhou-qian-qian-30-45.jpg "Aness")
 
@@ -1023,21 +1882,21 @@ Linux Git Java // Payment Industry
 ***
 
 ## [肛里拉出个电锯](https://www.zhihu.com/people/zhanghui33/activities)
-英文：我操，这举报频次有点屌……这么多乱码ID人类做不到吧？？？
+贱骚的蔡英文～
 
 ![肛里拉出个电锯](excited-vczh/zhanghui33.jpg "肛里拉出个电锯")
 
 ***
 
 ## [夏目大人sama](https://www.zhihu.com/people/zhao-da-xiao-jie-75-34/activities)
-私人wx：sama111222333 情趣用品卖家
+专注于成人用品销售wx：sama222333444
 
 ![夏目大人sama](excited-vczh/zhao-da-xiao-jie-75-34.jpg "夏目大人sama")
 
 ***
 
 ## [郭瑞洁](https://www.zhihu.com/people/guo-rui-ji-27/activities)
-在教英语的路上一去不复返了
+在教英语的路上一去不复返了【Swing Linguistic Studio】
 
 ![郭瑞洁](excited-vczh/guo-rui-ji-27.jpg "郭瑞洁")
 
@@ -1065,7 +1924,7 @@ Linux Git Java // Payment Industry
 ***
 
 ## [望瑾](https://www.zhihu.com/people/gao-zi-han-81-62/activities)
-英语翻译/铲屎官/单身狗
+英语翻译/猫奴/西班牙语学习中
 
 ![望瑾](excited-vczh/gao-zi-han-81-62.jpg "望瑾")
 
@@ -1127,10 +1986,10 @@ The Follower of Psychology
 
 ***
 
-## [狐狸眼少年](https://www.zhihu.com/people/MargaretTeaMoon/activities)
-我从崖边跌落
+## [茗月](https://www.zhihu.com/people/MargaretTeaMoon/activities)
 
-![狐狸眼少年](excited-vczh/MargaretTeaMoon.jpg "狐狸眼少年")
+
+![茗月](excited-vczh/MargaretTeaMoon.jpg "茗月")
 
 ***
 
@@ -1156,7 +2015,7 @@ The Follower of Psychology
 ***
 
 ## [邓铂鋆](https://www.zhihu.com/people/deng-bo-yun/activities)
-国立米库大学（副部级）后勤集团教育超市山水沟卫生学校分店第三支店临时工收银员
+克莱登大学教育处选课系统管理员（非事业编）
 
 ![邓铂鋆](excited-vczh/deng-bo-yun.jpg "邓铂鋆")
 
@@ -1184,28 +2043,21 @@ Java迷/小说迷/lol迷/吃货/笨蛋/
 ***
 
 ## [红烧大排](https://www.zhihu.com/people/kalaqiheyisitanbuer/activities)
-致力于在知乎传播伊斯兰和抖机灵
+凤凰传奇原来是治愈系耶！
 
 ![红烧大排](excited-vczh/kalaqiheyisitanbuer.jpg "红烧大排")
 
 ***
 
-## [shery sheng](https://www.zhihu.com/people/sheng-sen-40/activities)
-每天都在写bug
-
-![shery sheng](excited-vczh/sheng-sen-40.jpg "shery sheng")
-
-***
-
 ## [豆沙](https://www.zhihu.com/people/mo-ge-30-73/activities)
-Lolita是片刻喘息的梦境♡
+珠圆玉润的少女
 
 ![豆沙](excited-vczh/mo-ge-30-73.jpg "豆沙")
 
 ***
 
 ## [汉娜钚娜娜](https://www.zhihu.com/people/han-nuo-bu-nuo-nuo/activities)
-加拿大CDA,朋辈咨询,毒舌女剑豪
+加拿大CDA,戏精,剣豪形の長姉
 
 ![汉娜钚娜娜](excited-vczh/han-nuo-bu-nuo-nuo.jpg "汉娜钚娜娜")
 
@@ -1219,7 +2071,7 @@ Lolita是片刻喘息的梦境♡
 ***
 
 ## [孙明琦](https://www.zhihu.com/people/sun-ming-qi-34/activities)
-创业、退学、计算机二级和VC6相关问题请勿邀请谢谢
+请 勿 邀 请：创业、退学、复读、计算机二级和VC6相关问题，谢谢
 
 ![孙明琦](excited-vczh/sun-ming-qi-34.jpg "孙明琦")
 
@@ -1233,7 +2085,7 @@ Lolita是片刻喘息的梦境♡
 ***
 
 ## [大黑雨](https://www.zhihu.com/people/daheiyu/activities)
-莪爱伱，吥褆因为伱褆 个怎样菂秂。而褆因为莪喜欢瘀泥在 起时菂感觉....
+生而在世，抱歉打扰到了你的人生。
 
 ![大黑雨](excited-vczh/daheiyu.jpg "大黑雨")
 
@@ -1247,7 +2099,7 @@ Lolita是片刻喘息的梦境♡
 ***
 
 ## [爷是兜爷的爷](https://www.zhihu.com/people/wang-wan-78-48/activities)
-CALM CORAL女装品牌创屎人
+不爱看私信
 
 ![爷是兜爷的爷](excited-vczh/wang-wan-78-48.jpg "爷是兜爷的爷")
 
@@ -1345,7 +2197,7 @@ weibo：@墨鱼丸圆滚滚。
 ***
 
 ## [吃我一记雷姆锤](https://www.zhihu.com/people/zhongnihei/activities)
-微信公众号：二次元观察（pupa-123）“我们中出了一个叛徒！”
+微信公众号：二次元理性蒸发（futa404）
 
 ![吃我一记雷姆锤](excited-vczh/zhongnihei.jpg "吃我一记雷姆锤")
 
@@ -1366,7 +2218,7 @@ weibo：@墨鱼丸圆滚滚。
 ***
 
 ## [金初见](https://www.zhihu.com/people/jin-xiu-mei-91/activities)
-
+天生自带嘲讽脸，个人公众号：龙井婊本人。
 
 ![金初见](excited-vczh/jin-xiu-mei-91.jpg "金初见")
 
@@ -1431,7 +2283,7 @@ weibo：@墨鱼丸圆滚滚。
 ***
 
 ## [NOAH633](https://www.zhihu.com/people/dan-wen-hui-10/activities)
-新浪微博:NOAH633
+当地较为英俊的人
 
 ![NOAH633](excited-vczh/dan-wen-hui-10.jpg "NOAH633")
 
@@ -1466,7 +2318,7 @@ weibo：@墨鱼丸圆滚滚。
 ***
 
 ## [左阿橙子](https://www.zhihu.com/people/ala-zuo/activities)
-Fashion，作曲，攝影
+独立音乐人-左乙，穿搭，拍照，旅行美食
 
 ![左阿橙子](excited-vczh/ala-zuo.jpg "左阿橙子")
 
@@ -1508,7 +2360,7 @@ yellow,black and blue
 ***
 
 ## [杨顺顺](https://www.zhihu.com/people/yang-shun-shun-62/activities)
-你批评我 我就骂你
+嘻嘻
 
 ![杨顺顺](excited-vczh/yang-shun-shun-62.jpg "杨顺顺")
 
@@ -1570,10 +2422,10 @@ INFP.想很多读太少.服装设计/珠宝/摄影在读.护肤.
 
 ***
 
-## [童雅](https://www.zhihu.com/people/tonya-yang/activities)
+## [洋梨YoungLee](https://www.zhihu.com/people/tonya-yang/activities)
 旅居猫本 嗑咖啡做设计
 
-![童雅](excited-vczh/tonya-yang.jpg "童雅")
+![洋梨YoungLee](excited-vczh/tonya-yang.jpg "洋梨YoungLee")
 
 ***
 
@@ -1647,15 +2499,15 @@ I'm wonderfully weird.
 
 ***
 
-## [张越](https://www.zhihu.com/people/zhang-yue-27-7/activities)
+## [比卡丘](https://www.zhihu.com/people/zhang-yue-27-7/activities)
 韩语
 
-![张越](excited-vczh/zhang-yue-27-7.jpg "张越")
+![比卡丘](excited-vczh/zhang-yue-27-7.jpg "比卡丘")
 
 ***
 
 ## [LuvDDDD](https://www.zhihu.com/people/luvddd/activities)
-就让你做白月光吧。
+像个笑话一样自己都嘲讽。公众号：陈阿蛋
 
 ![LuvDDDD](excited-vczh/luvddd.jpg "LuvDDDD")
 
@@ -1669,7 +2521,7 @@ I'm wonderfully weird.
 ***
 
 ## [双子](https://www.zhihu.com/people/shuang-zi-88-1/activities)
-有主 勿扰
+
 
 ![双子](excited-vczh/shuang-zi-88-1.jpg "双子")
 
@@ -1690,7 +2542,7 @@ I'm wonderfully weird.
 ***
 
 ## [张钟麟](https://www.zhihu.com/people/Sudyzzl/activities)
-
+抗战到底
 
 ![张钟麟](excited-vczh/Sudyzzl.jpg "张钟麟")
 
@@ -1704,7 +2556,7 @@ Baby Face
 ***
 
 ## [纽约老闻](https://www.zhihu.com/people/rob-wen/activities)
-华尔街从业，金融科技创业，公众号搜“纽约老闻”
+华尔街吐槽哥，热爱一切和钱有关的话题。
 
 ![纽约老闻](excited-vczh/rob-wen.jpg "纽约老闻")
 
@@ -1753,14 +2605,14 @@ CPU Design Engineer
 ***
 
 ## [赵丹喵](https://www.zhihu.com/people/zhao-dan-miao/activities)
-
+律师/钢管舞/滑雪潜水冲浪/猫
 
 ![赵丹喵](excited-vczh/zhao-dan-miao.jpg "赵丹喵")
 
 ***
 
 ## [素清娆](https://www.zhihu.com/people/wang-tian-jiao-63/activities)
-前医学狗/保险。筹办婚礼中，最近基本不上线。
+前医学狗/保险。喜欢恐怖故事。
 
 ![素清娆](excited-vczh/wang-tian-jiao-63.jpg "素清娆")
 
@@ -1809,7 +2661,7 @@ CPU Design Engineer
 ***
 
 ## [陈敏敏](https://www.zhihu.com/people/mimixia/activities)
-PPT工程师
+可爱又迷人的反派角色
 
 ![陈敏敏](excited-vczh/mimixia.jpg "陈敏敏")
 
@@ -1823,14 +2675,14 @@ PPT工程师
 ***
 
 ## [啾啾美少女](https://www.zhihu.com/people/chao-tian-mei-shao-nu/activities)
-摄影师兼模特
+造型师兼模特
 
 ![啾啾美少女](excited-vczh/chao-tian-mei-shao-nu.jpg "啾啾美少女")
 
 ***
 
 ## [又双叒叕](https://www.zhihu.com/people/tang-chun-59/activities)
-吃人/M
+林子大了
 
 ![又双叒叕](excited-vczh/tang-chun-59.jpg "又双叒叕")
 
@@ -1844,7 +2696,7 @@ PPT工程师
 ***
 
 ## [Nulli Cedo](https://www.zhihu.com/people/nulli-cedo-53/activities)
-墨尔本外科住院医生/英澳两国执业/全职procrastinator
+墨尔本外科住院医生/英澳两国执业
 
 ![Nulli Cedo](excited-vczh/nulli-cedo-53.jpg "Nulli Cedo")
 
@@ -1858,7 +2710,7 @@ PPT工程师
 ***
 
 ## [张祎宁](https://www.zhihu.com/people/zhang-yi-zhu-10/activities)
-互联网/市场/人工智能
+
 
 ![张祎宁](excited-vczh/zhang-yi-zhu-10.jpg "张祎宁")
 
@@ -1942,7 +2794,7 @@ be real
 ***
 
 ## [未名](https://www.zhihu.com/people/lizhenyi95/activities)
-輾轉於亞歐美之間。Insta:Glukupikron95
+輾轉於亞歐美之間。Insta: Zhenyi.png
 
 ![未名](excited-vczh/lizhenyi95.jpg "未名")
 
@@ -1970,7 +2822,7 @@ be real
 ***
 
 ## [易呀](https://www.zhihu.com/people/yi-ya-68-77/activities)
-
+呆 
 
 ![易呀](excited-vczh/yi-ya-68-77.jpg "易呀")
 
@@ -1998,21 +2850,21 @@ be real
 ***
 
 ## [vanessa](https://www.zhihu.com/people/qi-hai-tao-57/activities)
-我有两个愿望，一个是成为小v，一个是改掉爱做白日梦的习惯。
+立志当个斜杆青年。
 
 ![vanessa](excited-vczh/qi-hai-tao-57.jpg "vanessa")
 
 ***
 
 ## [楠挲](https://www.zhihu.com/people/ran-xin-lin-23-27/activities)
-微博：仙女的葡萄
+微博：楠挲学姐
 
 ![楠挲](excited-vczh/ran-xin-lin-23-27.jpg "楠挲")
 
 ***
 
 ## [以太](https://www.zhihu.com/people/elapse08/activities)
-有点小拜金，长相不网红，说话有点毒，取关不用回，拉黑需自助。
+无私的我已经穷死了，只剩下精致的利己的我。
 
 ![以太](excited-vczh/elapse08.jpg "以太")
 
@@ -2075,7 +2927,7 @@ be real
 ***
 
 ## [奶酥小丸子](https://www.zhihu.com/people/nai-su-xiao-wan-zi-33/activities)
-
+新浪微博：奶酥小丸子
 
 ![奶酥小丸子](excited-vczh/nai-su-xiao-wan-zi-33.jpg "奶酥小丸子")
 
@@ -2131,7 +2983,7 @@ Hospitality/ 诗/ 酒/ 音乐/ 旅行
 ***
 
 ## [晚安同学](https://www.zhihu.com/people/mo-mo-mo-56-13/activities)
-太阳和月亮的小女儿
+晚安心 公众号：一张创可贴  / 写字 说话
 
 ![晚安同学](excited-vczh/mo-mo-mo-56-13.jpg "晚安同学")
 
@@ -2152,7 +3004,7 @@ Hospitality/ 诗/ 酒/ 音乐/ 旅行
 ***
 
 ## [Larry Wang王承伦](https://www.zhihu.com/people/larry-wang-46/activities)
-王李亚洲资源及职商网创始人，微信公众号Larry聊职商。欢迎关注！
+职商网及王李亚洲资源创始人。职商网，您首选的职业发展网站。
 
 ![Larry Wang王承伦](excited-vczh/larry-wang-46.jpg "Larry Wang王承伦")
 
@@ -2179,10 +3031,10 @@ Hospitality/ 诗/ 酒/ 音乐/ 旅行
 
 ***
 
-## [莉莉丝](https://www.zhihu.com/people/li-li-si-48-1/activities)
-人生若无悔，那该多么无趣
+## [扬青](https://www.zhihu.com/people/li-li-si-48-1/activities)
+吹灭读书灯，一身都是月。
 
-![莉莉丝](excited-vczh/li-li-si-48-1.jpg "莉莉丝")
+![扬青](excited-vczh/li-li-si-48-1.jpg "扬青")
 
 ***
 
@@ -2193,15 +3045,15 @@ Strawberries cherries and an angel's kiss in spring.
 
 ***
 
-## [烟雨](https://www.zhihu.com/people/fan-yin-er-16/activities)
+## [如烟](https://www.zhihu.com/people/fan-yin-er-16/activities)
 性感长腿女青年/污界的徐志摩
 
-![烟雨](excited-vczh/fan-yin-er-16.jpg "烟雨")
+![如烟](excited-vczh/fan-yin-er-16.jpg "如烟")
 
 ***
 
 ## [蠢猹](https://www.zhihu.com/people/ying-cha-82/activities)
-玩游戏就是要赢! (*Ü*)ﾉ
+掏枪天使
 
 ![蠢猹](excited-vczh/ying-cha-82.jpg "蠢猹")
 
@@ -2257,21 +3109,21 @@ Strawberries cherries and an angel's kiss in spring.
 ***
 
 ## [蒙大奇](https://www.zhihu.com/people/nonolulu/activities)
-不婚族人永不为奴！
+
 
 ![蒙大奇](excited-vczh/nonolulu.jpg "蒙大奇")
 
 ***
 
 ## [车莹华](https://www.zhihu.com/people/nt-sd/activities)
-要不要试试我的五菱宏光 S?
+已退，保留内容仅供存档目的。
 
 ![车莹华](excited-vczh/nt-sd.jpg "车莹华")
 
 ***
 
 ## [Island](https://www.zhihu.com/people/wo-jiang-23/activities)
-已经是一只废喵了
+去吧，到新的一天里。
 
 ![Island](excited-vczh/wo-jiang-23.jpg "Island")
 
@@ -2306,7 +3158,7 @@ Strawberries cherries and an angel's kiss in spring.
 ***
 
 ## [周末](https://www.zhihu.com/people/zhou-mo-54-30/activities)
-每天都像周末一样/其实是化学专业
+化学/旅行/美妆
 
 ![周末](excited-vczh/zhou-mo-54-30.jpg "周末")
 
@@ -2327,14 +3179,14 @@ Strawberries cherries and an angel's kiss in spring.
 ***
 
 ## [echo sai](https://www.zhihu.com/people/echo-sai/activities)
-journalist/自由摄影师/日语
+就想每天吃烧烤
 
 ![echo sai](excited-vczh/echo-sai.jpg "echo sai")
 
 ***
 
 ## [狸璃](https://www.zhihu.com/people/li-li-14-71-94/activities)
-逗比 追剧狂 逛街 听歌 王者荣耀
+逗比小仙女 追剧狂 听歌 大耳朵图图
 
 ![狸璃](excited-vczh/li-li-14-71-94.jpg "狸璃")
 
@@ -2348,23 +3200,23 @@ journalist/自由摄影师/日语
 ***
 
 ## [吉门](https://www.zhihu.com/people/ji-men-73-9/activities)
-个人公众号：吉门说
+中三病
 
 ![吉门](excited-vczh/ji-men-73-9.jpg "吉门")
 
 ***
 
 ## [杉麋鹿](https://www.zhihu.com/people/unspoken1024/activities)
-←专注点赞的三无用户
+个人公众号：Peterpansyndrome(彼得潘综合征)
 
 ![杉麋鹿](excited-vczh/unspoken1024.jpg "杉麋鹿")
 
 ***
 
-## [LadySharon](https://www.zhihu.com/people/ladysharon/activities)
-哟嗬 来打我啊 可你就是打不到
+## [SherylLyn](https://www.zhihu.com/people/ladysharon/activities)
+Jazzy girl
 
-![LadySharon](excited-vczh/ladysharon.jpg "LadySharon")
+![SherylLyn](excited-vczh/ladysharon.jpg "SherylLyn")
 
 ***
 
@@ -2397,7 +3249,7 @@ journalist/自由摄影师/日语
 ***
 
 ## [Valentina瓦贝勒](https://www.zhihu.com/people/jin-yan-ji-8/activities)
-老姨？辽东小妇年十五 惯弹琵琶解歌舞
+你老姨永远是你老姨
 
 ![Valentina瓦贝勒](excited-vczh/jin-yan-ji-8.jpg "Valentina瓦贝勒")
 
@@ -2410,10 +3262,10 @@ journalist/自由摄影师/日语
 
 ***
 
-## [尘梳妆](https://www.zhihu.com/people/chenshuzhuang/activities)
-鸟焚其巢,旅人先笑后号啕
+## [之夕矣](https://www.zhihu.com/people/chenshuzhuang/activities)
+壬午春暮，兹去不回
 
-![尘梳妆](excited-vczh/chenshuzhuang.jpg "尘梳妆")
+![之夕矣](excited-vczh/chenshuzhuang.jpg "之夕矣")
 
 ***
 
@@ -2453,7 +3305,7 @@ journalist/自由摄影师/日语
 ***
 
 ## [喵晚](https://www.zhihu.com/people/mei-shao-miao-83/activities)
-处女座呵呵 没故事
+反方向的钟
 
 ![喵晚](excited-vczh/mei-shao-miao-83.jpg "喵晚")
 
@@ -2501,10 +3353,10 @@ Rock&amp;Folk lover|Finance hater but worker
 
 ***
 
-## [渡荒的猫](https://www.zhihu.com/people/wen-wen-13-85/activities)
-我是你的下一个故事。
+## [黛洛维夫人](https://www.zhihu.com/people/wen-wen-13-85/activities)
+生死有命，富贵在天。
 
-![渡荒的猫](excited-vczh/wen-wen-13-85.jpg "渡荒的猫")
+![黛洛维夫人](excited-vczh/wen-wen-13-85.jpg "黛洛维夫人")
 
 ***
 
@@ -2523,16 +3375,16 @@ Rock&amp;Folk lover|Finance hater but worker
 ***
 
 ## [Rock C](https://www.zhihu.com/people/rock-c/activities)
-码农
+✧(￣(●●)￣)
 
 ![Rock C](excited-vczh/rock-c.jpg "Rock C")
 
 ***
 
-## [Bahargul](https://www.zhihu.com/people/bahargul-25/activities)
-问一些问题之前先看简介
+## [Bahargul大脸花](https://www.zhihu.com/people/bahargul-25/activities)
+非哈萨克族的KZ的小迷妹
 
-![Bahargul](excited-vczh/bahargul-25.jpg "Bahargul")
+![Bahargul大脸花](excited-vczh/bahargul-25.jpg "Bahargul大脸花")
 
 ***
 
@@ -2585,15 +3437,15 @@ Rock&amp;Folk lover|Finance hater but worker
 
 ***
 
-## [Real机智张](https://www.zhihu.com/people/yaoyue-zhang-95/activities)
-笑点低脑洞大 新浪微博:Real机智张
+## [Rea1yaoyue](https://www.zhihu.com/people/yaoyue-zhang-95/activities)
+新浪微博:Real机智张
 
-![Real机智张](excited-vczh/yaoyue-zhang-95.jpg "Real机智张")
+![Rea1yaoyue](excited-vczh/yaoyue-zhang-95.jpg "Rea1yaoyue")
 
 ***
 
 ## [南一](https://www.zhihu.com/people/christmas-70-23/activities)
-滑板少女/时差六小时/马上就去，跑着去
+马上就去，跑着去
 
 ![南一](excited-vczh/christmas-70-23.jpg "南一")
 
@@ -2607,16 +3459,16 @@ Rock&amp;Folk lover|Finance hater but worker
 ***
 
 ## [猫芙琳](https://www.zhihu.com/people/mao-fu-lin-45/activities)
-我是一个可爱的宝宝
+美食／旅游／幼教／舞蹈／股票
 
 ![猫芙琳](excited-vczh/mao-fu-lin-45.jpg "猫芙琳")
 
 ***
 
-## [blessead](https://www.zhihu.com/people/blessea/activities)
-懶惰又無趣還不按理出牌的人。
+## [隨意起個名](https://www.zhihu.com/people/blessea/activities)
+，
 
-![blessead](excited-vczh/blessea.jpg "blessead")
+![隨意起個名](excited-vczh/blessea.jpg "隨意起個名")
 
 ***
 
@@ -2642,7 +3494,7 @@ Rock&amp;Folk lover|Finance hater but worker
 ***
 
 ## [豆浆油条](https://www.zhihu.com/people/li-zi-qing-68-6/activities)
-微博：一点点冠军
+微博：Cammmilla
 
 ![豆浆油条](excited-vczh/li-zi-qing-68-6.jpg "豆浆油条")
 
@@ -2656,14 +3508,14 @@ Rock&amp;Folk lover|Finance hater but worker
 ***
 
 ## [天堂树tree](https://www.zhihu.com/people/ni-da-jiu-ni-er-jiu-du-shi-ni-jiu/activities)
-
+严重外貌控，喜：男
 
 ![天堂树tree](excited-vczh/ni-da-jiu-ni-er-jiu-du-shi-ni-jiu.jpg "天堂树tree")
 
 ***
 
 ## [朕喵](https://www.zhihu.com/people/MiaoMAX/activities)
-一个小姑娘(´▽｀)ノ♪
+广告位招租：）
 
 ![朕喵](excited-vczh/MiaoMAX.jpg "朕喵")
 
@@ -2683,10 +3535,10 @@ Rock&amp;Folk lover|Finance hater but worker
 
 ***
 
-## [松岛圆圆子](https://www.zhihu.com/people/song-dao-yuan-yuan-zi/activities)
+## [大野圆圆子](https://www.zhihu.com/people/mokyulam/activities)
 如果饥饿有罪  那我肯定被判无期
 
-![松岛圆圆子](excited-vczh/song-dao-yuan-yuan-zi.jpg "松岛圆圆子")
+![大野圆圆子](excited-vczh/mokyulam.jpg "大野圆圆子")
 
 ***
 
@@ -2698,7 +3550,7 @@ Rock&amp;Folk lover|Finance hater but worker
 ***
 
 ## [兔子胡六六](https://www.zhihu.com/people/hu-chi-3-85/activities)
-高三 无手机 少上网
+高考完
 
 ![兔子胡六六](excited-vczh/hu-chi-3-85.jpg "兔子胡六六")
 
@@ -2747,14 +3599,14 @@ Rock&amp;Folk lover|Finance hater but worker
 ***
 
 ## [王阿骆](https://www.zhihu.com/people/luo-luo-52-10-28/activities)
-一个有点意思的大山中小姐姐
+集美貌与才华于一身就是我！
 
 ![王阿骆](excited-vczh/luo-luo-52-10-28.jpg "王阿骆")
 
 ***
 
 ## [陈羽](https://www.zhihu.com/people/chen-yu-52-11-13/activities)
-喜欢就点赞关注，不喜欢就删除屏蔽
+不玩微博，不加陌生人微信
 
 ![陈羽](excited-vczh/chen-yu-52-11-13.jpg "陈羽")
 
@@ -2816,22 +3668,22 @@ Rock&amp;Folk lover|Finance hater but worker
 
 ***
 
-## [周安琪律师](https://www.zhihu.com/people/meng-meng-da-nai-he-meng-meng-dan-huang-er/activities)
+## [周安琪律师](https://www.zhihu.com/people/solicitorchow/activities)
 
 
-![周安琪律师](excited-vczh/meng-meng-da-nai-he-meng-meng-dan-huang-er.jpg "周安琪律师")
+![周安琪律师](excited-vczh/solicitorchow.jpg "周安琪律师")
 
 ***
 
 ## [Lily](https://www.zhihu.com/people/ly-li-59/activities)
-计算机视觉/机器学习/模式识别
+
 
 ![Lily](excited-vczh/ly-li-59.jpg "Lily")
 
 ***
 
 ## [dram](https://www.zhihu.com/people/dramforever/activities)
-Bad Apple!! // 渣渣程序员
+dram ♥ Bad Apple!!
 
 ![dram](excited-vczh/dramforever.jpg "dram")
 
@@ -2845,7 +3697,7 @@ Bad Apple!! // 渣渣程序员
 ***
 
 ## [白梦](https://www.zhihu.com/people/bai-meng-10/activities)
-lol坑 穆斯林萌妹 索尼移动用户 熬夜星人 老司机 (ﾉ´∀｀*) ugg代购
+除了好看 别无长处
 
 ![白梦](excited-vczh/bai-meng-10.jpg "白梦")
 
@@ -2866,14 +3718,14 @@ lol坑 穆斯林萌妹 索尼移动用户 熬夜星人 老司机 (ﾉ´∀｀*) 
 ***
 
 ## [鹿斑比](https://www.zhihu.com/people/lu-lu-lu-90-94/activities)
-关注我就是我的人了
+美妆/护肤/健身/恶意卖萌/日常吐槽
 
 ![鹿斑比](excited-vczh/lu-lu-lu-90-94.jpg "鹿斑比")
 
 ***
 
 ## [王咩咩咩咩咩咩咩](https://www.zhihu.com/people/wang-mie-mie-sirius/activities)
-我才不可爱Ծ‸Ծ
+是王者的王~！Ծ‸Ծ机智又勇敢(•̀ᴗ•́)  ̑̑
 
 ![王咩咩咩咩咩咩咩](excited-vczh/wang-mie-mie-sirius.jpg "王咩咩咩咩咩咩咩")
 
@@ -2908,16 +3760,16 @@ Lifetime Student
 ***
 
 ## [喵小虾](https://www.zhihu.com/people/maoxiaoxia233/activities)
-创业运营狗/profile简历/<a href="https://link.zhihu.com/?target=http%3A//www.profile.net.cn" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">profile.net.cn</span><span class="invisible"></span><i class="icon-external"></i></a>
+运营/某二次元阅读站的一只废猫
 
 ![喵小虾](excited-vczh/maoxiaoxia233.jpg "喵小虾")
 
 ***
 
-## [June](https://www.zhihu.com/people/san-gong-zi-48/activities)
+## [青川](https://www.zhihu.com/people/san-gong-zi-48/activities)
 
 
-![June](excited-vczh/san-gong-zi-48.jpg "June")
+![青川](excited-vczh/san-gong-zi-48.jpg "青川")
 
 ***
 
@@ -2936,23 +3788,23 @@ Lifetime Student
 ***
 
 ## [熊圆脸](https://www.zhihu.com/people/xiong-xiao-xian/activities)
-八卦天赋异禀/实习公众号：超高能E姐
+八卦天赋异禀/实习公众号：高能E蓓子
 
 ![熊圆脸](excited-vczh/xiong-xiao-xian.jpg "熊圆脸")
 
 ***
 
-## [植性](https://www.zhihu.com/people/liu-bu-xing/activities)
-承蒙错爱
+## [Gn4u](https://www.zhihu.com/people/liu-bu-xing/activities)
+你所见即我 我不反驳
 
-![植性](excited-vczh/liu-bu-xing.jpg "植性")
+![Gn4u](excited-vczh/liu-bu-xing.jpg "Gn4u")
 
 ***
 
-## [Wangwangmeng](https://www.zhihu.com/people/wongonexuan/activities)
-凶猛且天真
+## [小忙果](https://www.zhihu.com/people/wongonexuan/activities)
+认真活着
 
-![Wangwangmeng](excited-vczh/wongonexuan.jpg "Wangwangmeng")
+![小忙果](excited-vczh/wongonexuan.jpg "小忙果")
 
 ***
 
@@ -2992,7 +3844,7 @@ Lifetime Student
 ***
 
 ## [是尾巴呀](https://www.zhihu.com/people/nan-tian-ge-85/activities)
-有很多故事，不介意讲给你听
+没有什么故事可以讲了
 
 ![是尾巴呀](excited-vczh/nan-tian-ge-85.jpg "是尾巴呀")
 
@@ -3013,7 +3865,7 @@ Lifetime Student
 ***
 
 ## [橙子](https://www.zhihu.com/people/yang-xin-he-80/activities)
-
+澳洲土特产代够儿
 
 ![橙子](excited-vczh/yang-xin-he-80.jpg "橙子")
 
@@ -3062,7 +3914,7 @@ Lifetime Student
 ***
 
 ## [April](https://www.zhihu.com/people/April70423/activities)
-想说但不知道说些什么好。
+只是一支小冰棍儿
 
 ![April](excited-vczh/April70423.jpg "April")
 
@@ -3167,7 +4019,7 @@ Lifetime Student
 ***
 
 ## [范进不举](https://www.zhihu.com/people/wo-cai-bu-shi-fan-jin/activities)
-魏武挥鞭，甄姬拔剑。
+你是社会人，我是社会主义接班人。
 
 ![范进不举](excited-vczh/wo-cai-bu-shi-fan-jin.jpg "范进不举")
 
@@ -3306,10 +4158,10 @@ ESOL instructor
 
 ***
 
-## [洛丽塔](https://www.zhihu.com/people/nan-yi-85-85/activities)
-御姐属性 真萝莉抖s  第四爱叔控
+## [娜塔莉](https://www.zhihu.com/people/nan-yi-85-85/activities)
+御姐属性 真萝莉抖s 第四爱叔控
 
-![洛丽塔](excited-vczh/nan-yi-85-85.jpg "洛丽塔")
+![娜塔莉](excited-vczh/nan-yi-85-85.jpg "娜塔莉")
 
 ***
 
@@ -3335,7 +4187,7 @@ ESOL instructor
 ***
 
 ## [有雨](https://www.zhihu.com/people/BBBette/activities)
-迷戀绫瀬 はるか。
+迷戀 內田有紀。
 
 ![有雨](excited-vczh/BBBette.jpg "有雨")
 
@@ -3369,10 +4221,10 @@ ESOL instructor
 
 ***
 
-## [Ashleyiii](https://www.zhihu.com/people/yizhi-dou-zi/activities)
+## [Ashleyiii](https://www.zhihu.com/people/mandynmorpho/activities)
 
 
-![Ashleyiii](excited-vczh/yizhi-dou-zi.jpg "Ashleyiii")
+![Ashleyiii](excited-vczh/mandynmorpho.jpg "Ashleyiii")
 
 ***
 
@@ -3397,22 +4249,22 @@ ESOL instructor
 
 ***
 
-## [初雪未央](https://www.zhihu.com/people/sen-xia-13/activities)
+## [夏至未至](https://www.zhihu.com/people/sen-xia-13/activities)
 女生
 
-![初雪未央](excited-vczh/sen-xia-13.jpg "初雪未央")
+![夏至未至](excited-vczh/sen-xia-13.jpg "夏至未至")
 
 ***
 
 ## [SIREN](https://www.zhihu.com/people/SONG-OF-SIREN/activities)
-污污污知情识趣美少女/微博，假面塞壬
+浅妆薄黛亦风流/微博，假面塞壬
 
 ![SIREN](excited-vczh/SONG-OF-SIREN.jpg "SIREN")
 
 ***
 
 ## [snow arc](https://www.zhihu.com/people/xiaoxueli/activities)
-一个极度不友好的姑娘
+
 
 ![snow arc](excited-vczh/xiaoxueli.jpg "snow arc")
 
@@ -3440,16 +4292,16 @@ B站小透明up主 / Google分布式数据库码农
 ***
 
 ## [lanxer lancer](https://www.zhihu.com/people/lanxer-lancer/activities)
-其实是一个很可爱的人
+学python的97年
 
 ![lanxer lancer](excited-vczh/lanxer-lancer.jpg "lanxer lancer")
 
 ***
 
-## [刘梓乔](https://www.zhihu.com/people/liu-zi-qiao-42/activities)
+## [木与辛](https://www.zhihu.com/people/liu-zi-qiao-42/activities)
 
 
-![刘梓乔](excited-vczh/liu-zi-qiao-42.jpg "刘梓乔")
+![木与辛](excited-vczh/liu-zi-qiao-42.jpg "木与辛")
 
 ***
 
@@ -3524,7 +4376,7 @@ B站小透明up主 / Google分布式数据库码农
 ***
 
 ## [兜兜](https://www.zhihu.com/people/a-dou-dou-70/activities)
-不粘人的小污婆
+
 
 ![兜兜](excited-vczh/a-dou-dou-70.jpg "兜兜")
 
@@ -3538,7 +4390,7 @@ B站小透明up主 / Google分布式数据库码农
 ***
 
 ## [Rachel Hsu](https://www.zhihu.com/people/rachel-hsu-0807/activities)
-Artist/dreamer
+Artist
 
 ![Rachel Hsu](excited-vczh/rachel-hsu-0807.jpg "Rachel Hsu")
 
@@ -3614,15 +4466,15 @@ hello～it's me
 
 ***
 
-## [苏门羚](https://www.zhihu.com/people/yi-xiu-62/activities)
+## [温咩咩](https://www.zhihu.com/people/yi-xiu-62/activities)
 国产护士一枚(ง •̀_•́)ง
 
-![苏门羚](excited-vczh/yi-xiu-62.jpg "苏门羚")
+![温咩咩](excited-vczh/yi-xiu-62.jpg "温咩咩")
 
 ***
 
 ## [到处挖坑蒋玉成](https://www.zhihu.com/people/CommanderYCJiangS117/activities)
-中关村老实人
+中关村老实人 &amp;&amp; 地角星独角龙
 
 ![到处挖坑蒋玉成](excited-vczh/CommanderYCJiangS117.jpg "到处挖坑蒋玉成")
 
@@ -3685,21 +4537,21 @@ hello～it's me
 ***
 
 ## [阿绒绒](https://www.zhihu.com/people/rong-rong-86-50/activities)
-
+外围猫奴／法律民工
 
 ![阿绒绒](excited-vczh/rong-rong-86-50.jpg "阿绒绒")
 
 ***
 
 ## [董绵绵](https://www.zhihu.com/people/dong-mian-mian-94/activities)
-收破烂滴~
+最近混娱乐圈了，有好演员推给我，谢谢
 
 ![董绵绵](excited-vczh/dong-mian-mian-94.jpg "董绵绵")
 
 ***
 
 ## [Colakiller](https://www.zhihu.com/people/wan-ya-jie-25/activities)
-一般的に無視する
+きゃあああ♡ 
 
 ![Colakiller](excited-vczh/wan-ya-jie-25.jpg "Colakiller")
 
@@ -3824,17 +4676,17 @@ MTI /INTJ
 
 ***
 
-## [楚s](https://www.zhihu.com/people/chu-s-92/activities)
+## [楚cc](https://www.zhihu.com/people/chu-s-92/activities)
 谢谢你来看我
 
-![楚s](excited-vczh/chu-s-92.jpg "楚s")
+![楚cc](excited-vczh/chu-s-92.jpg "楚cc")
 
 ***
 
-## [Lina](https://www.zhihu.com/people/li-nuo-84-28/activities)
-巴萨球迷/苏亚雷斯死忠/DOTA2玩家/炉石休闲玩家
+## [Lina](https://www.zhihu.com/people/Lina1997/activities)
+苏亚雷斯&amp;FCB/DOTA2/彩妆/风暴英雄/炉石传说
 
-![Lina](excited-vczh/li-nuo-84-28.jpg "Lina")
+![Lina](excited-vczh/Lina1997.jpg "Lina")
 
 ***
 
@@ -3853,7 +4705,7 @@ MTI /INTJ
 ***
 
 ## [河狸老师](https://www.zhihu.com/people/MissBeavert/activities)
-目光放远,万物皆悲.
+目光放远,万事皆悲
 
 ![河狸老师](excited-vczh/MissBeavert.jpg "河狸老师")
 
@@ -3881,7 +4733,7 @@ Obsessive-Compulsive-Personality-Disorde
 ***
 
 ## [神乐](https://www.zhihu.com/people/shen-le-80/activities)
-一个不可爱的少女。
+脾气很大，素质很差。
 
 ![神乐](excited-vczh/shen-le-80.jpg "神乐")
 
@@ -3902,14 +4754,14 @@ Obsessive-Compulsive-Personality-Disorde
 ***
 
 ## [宋东珂](https://www.zhihu.com/people/song-dong-ke/activities)
-小破模特。泪眼婆娑的暗黑艺术婊。
+小破模特。泪眼婆娑的艺术雕。
 
 ![宋东珂](excited-vczh/song-dong-ke.jpg "宋东珂")
 
 ***
 
 ## [怀念小黑警长](https://www.zhihu.com/people/hong-yan-xi-baby/activities)
-基督山女伯爵
+浙江摄影师，拍照在微信搜“喵家大少”找我
 
 ![怀念小黑警长](excited-vczh/hong-yan-xi-baby.jpg "怀念小黑警长")
 
@@ -3993,7 +4845,7 @@ Obsessive-Compulsive-Personality-Disorde
 ***
 
 ## [过眼云烟](https://www.zhihu.com/people/mie-jiang-9/activities)
-你要是批评我 我就哭 然后骂死你
+节制有美
 
 ![过眼云烟](excited-vczh/mie-jiang-9.jpg "过眼云烟")
 
@@ -4146,10 +4998,10 @@ We're one.
 
 ***
 
-## [大惠啊大惠](https://www.zhihu.com/people/da-hui-a-da-hui/activities)
-不给糖就捣乱
+## [贫困女孩](https://www.zhihu.com/people/da-hui-a-da-hui/activities)
+纯属虚构
 
-![大惠啊大惠](excited-vczh/da-hui-a-da-hui.jpg "大惠啊大惠")
+![贫困女孩](excited-vczh/da-hui-a-da-hui.jpg "贫困女孩")
 
 ***
 
@@ -4161,7 +5013,7 @@ We're one.
 ***
 
 ## [安小姐](https://www.zhihu.com/people/chen-yu-jun-33/activities)
-Expecto Patronum！
+时光如飞箭，果蝇爱香蕉
 
 ![安小姐](excited-vczh/chen-yu-jun-33.jpg "安小姐")
 
@@ -4343,7 +5195,7 @@ biubiubiubiu～
 ***
 
 ## [卡特倪璞](https://www.zhihu.com/people/biubiubiuy2/activities)
-ukulele/bnuz/国家一级自拍选手/爱吃不会笑
+
 
 ![卡特倪璞](excited-vczh/biubiubiuy2.jpg "卡特倪璞")
 
@@ -4441,21 +5293,21 @@ ukulele/bnuz/国家一级自拍选手/爱吃不会笑
 ***
 
 ## [一颗麦子](https://www.zhihu.com/people/liu-mai-zi-98/activities)
-播音与主持艺术
+公众号:一颗麦子
 
 ![一颗麦子](excited-vczh/liu-mai-zi-98.jpg "一颗麦子")
 
 ***
 
-## [小鱼干blingbling](https://www.zhihu.com/people/dou-bi-jun-jun-mei-zi/activities)
-喜欢清晨的猪肉啊／INTP／双向情感障碍吃药中
+## [重生的小鱼干呀](https://www.zhihu.com/people/dou-bi-jun-jun-mei-zi/activities)
+退出知乎不玩啦好恶心呀
 
-![小鱼干blingbling](excited-vczh/dou-bi-jun-jun-mei-zi.jpg "小鱼干blingbling")
+![重生的小鱼干呀](excited-vczh/dou-bi-jun-jun-mei-zi.jpg "重生的小鱼干呀")
 
 ***
 
 ## [甚谁](https://www.zhihu.com/people/shen-shui-82-12/activities)
-拥有爱是我人生中最美的风景
+where you invest your love you invest your life
 
 ![甚谁](excited-vczh/shen-shui-82-12.jpg "甚谁")
 
@@ -4484,7 +5336,7 @@ ukulele/bnuz/国家一级自拍选手/爱吃不会笑
 ***
 
 ## [山悦木兮](https://www.zhihu.com/people/lin-xi-xi-14/activities)
-我有故事，你有酒吗
+山悦木兮木有枝，心悦君兮君不知
 
 ![山悦木兮](excited-vczh/lin-xi-xi-14.jpg "山悦木兮")
 
@@ -4568,7 +5420,7 @@ ukulele/bnuz/国家一级自拍选手/爱吃不会笑
 ***
 
 ## [vivid chou](https://www.zhihu.com/people/vivid-chou/activities)
-和我一起变有趣～日代微信vividchou123
+和我一起变有趣～wx：vividchou123
 
 ![vivid chou](excited-vczh/vivid-chou.jpg "vivid chou")
 
@@ -4603,7 +5455,7 @@ ukulele/bnuz/国家一级自拍选手/爱吃不会笑
 ***
 
 ## [逍遥人](https://www.zhihu.com/people/du-gu-ren-37/activities)
-人间五十年，跨过山和大海
+人间五十年,如梦亦如幻。
 
 ![逍遥人](excited-vczh/du-gu-ren-37.jpg "逍遥人")
 
@@ -4707,10 +5559,10 @@ INTP
 
 ***
 
-## [Hmmm](https://www.zhihu.com/people/mao-yu-ai-li-si-55/activities)
+## [Bad robot](https://www.zhihu.com/people/mao-yu-ai-li-si-55/activities)
 一句话怎么描述
 
-![Hmmm](excited-vczh/mao-yu-ai-li-si-55.jpg "Hmmm")
+![Bad robot](excited-vczh/mao-yu-ai-li-si-55.jpg "Bad robot")
 
 ***
 
@@ -4750,6 +5602,7 @@ IT女
 ***
 
 ## [Anon](https://www.zhihu.com/people/ni-ming-zhe-88/activities)
+CS Graphics/Math/Psycho@Columbia;
 不是很喜欢人类
 
 ![Anon](excited-vczh/ni-ming-zhe-88.jpg "Anon")
@@ -4791,15 +5644,15 @@ PhD在读@CMU, 搜索，知识图谱，机器学习
 
 ***
 
-## [mo mo](https://www.zhihu.com/people/mo-mo-89-72-84/activities)
+## [沐大腚](https://www.zhihu.com/people/mo-mo-89-72-84/activities)
 
 
-![mo mo](excited-vczh/mo-mo-89-72-84.jpg "mo mo")
+![沐大腚](excited-vczh/mo-mo-89-72-84.jpg "沐大腚")
 
 ***
 
 ## [蔡千嬅](https://www.zhihu.com/people/cai-qian-hua-56/activities)
-嘿呀，我可真是拿你没办法阿。
+言不及义带来的忧愁比沉默大好几个宇宙
 
 ![蔡千嬅](excited-vczh/cai-qian-hua-56.jpg "蔡千嬅")
 
@@ -4827,16 +5680,16 @@ PhD在读@CMU, 搜索，知识图谱，机器学习
 ***
 
 ## [Jesse Chan](https://www.zhihu.com/people/jesor/activities)
-写字@<a href="https://link.zhihu.com/?target=http%3A//jesor.me" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">jesor.me</span><span class="invisible"></span><i class="icon-external"></i></a> To be nerdy, to be cool.
+To be nerdy, to be cool. 写字：<a href="https://link.zhihu.com/?target=http%3A//jesor.me" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">jesor.me</span><span class="invisible"></span><i class="icon-external"></i></a>
 
 ![Jesse Chan](excited-vczh/jesor.jpg "Jesse Chan")
 
 ***
 
-## [大毛](https://www.zhihu.com/people/youknowuu/activities)
-Dota女，微博:风小行丶
+## [风小行丶](https://www.zhihu.com/people/youknowuu/activities)
+求职中
 
-![大毛](excited-vczh/youknowuu.jpg "大毛")
+![风小行丶](excited-vczh/youknowuu.jpg "风小行丶")
 
 ***
 
@@ -4918,7 +5771,7 @@ PhD Candidate in CS
 ***
 
 ## [黄coffee bean](https://www.zhihu.com/people/weizhidlxz/activities)
-大二心理学专业在读
+嗯。
 
 ![黄coffee bean](excited-vczh/weizhidlxz.jpg "黄coffee bean")
 
@@ -4932,7 +5785,7 @@ PhD Candidate in CS
 ***
 
 ## [流浪少女](https://www.zhihu.com/people/shen-jing-50-24/activities)
-自由不羁 热爱生命
+炸裂了的鳕鱼汤
 
 ![流浪少女](excited-vczh/shen-jing-50-24.jpg "流浪少女")
 
@@ -4960,7 +5813,7 @@ PhD Candidate in CS
 ***
 
 ## [灰灰灰灰灰plus](https://www.zhihu.com/people/he-ming-hui-hui/activities)
-The  Best and The Worst
+听听 看看 走走 晃晃 想想 
 
 ![灰灰灰灰灰plus](excited-vczh/he-ming-hui-hui.jpg "灰灰灰灰灰plus")
 
@@ -5023,7 +5876,7 @@ The  Best and The Worst
 ***
 
 ## [Joyce Zhao](https://www.zhihu.com/people/jz0727/activities)
-
+biochem+chem+pre-med, Master of data science
 
 ![Joyce Zhao](excited-vczh/jz0727.jpg "Joyce Zhao")
 
@@ -5163,14 +6016,14 @@ The  Best and The Worst
 ***
 
 ## [徐三岁](https://www.zhihu.com/people/seoxinyoen/activities)
-
+齐腰寸头
 
 ![徐三岁](excited-vczh/seoxinyoen.jpg "徐三岁")
 
 ***
 
 ## [苏锦](https://www.zhihu.com/people/su-jin-219/activities)
-互联网&amp;体育 公众号：苏锦的
+互联网从业者，前足球圈网红 公众号：苏锦的
 
 ![苏锦](excited-vczh/su-jin-219.jpg "苏锦")
 
@@ -5240,7 +6093,7 @@ Hip hop for life.
 ***
 
 ## [秦桑](https://www.zhihu.com/people/qin-sang-666666/activities)
-淘宝店铺装修中~
+电气自动化/数控系统/汽车发动机
 
 ![秦桑](excited-vczh/qin-sang-666666.jpg "秦桑")
 
@@ -5317,7 +6170,7 @@ Hip hop for life.
 ***
 
 ## [璐璐噜](https://www.zhihu.com/people/chong-lu-lu-de-lu-xiao-jie/activities)
- 头像即本人
+。一个俗人
 
 ![璐璐噜](excited-vczh/chong-lu-lu-de-lu-xiao-jie.jpg "璐璐噜")
 
@@ -5345,7 +6198,7 @@ Master of Light
 ***
 
 ## [李大琳](https://www.zhihu.com/people/li-yan-lin-22-95/activities)
-一句话介绍不完
+装逼 卖萌 无所不能
 
 ![李大琳](excited-vczh/li-yan-lin-22-95.jpg "李大琳")
 
@@ -5429,7 +6282,7 @@ Master of Light
 ***
 
 ## [ab law](https://www.zhihu.com/people/ab-law/activities)
-审计
+审计、OW、超级大吃货、一个人去旅行最棒了
 
 ![ab law](excited-vczh/ab-law.jpg "ab law")
 
@@ -5548,7 +6401,7 @@ Master of Light
 ***
 
 ## [益亩良田](https://www.zhihu.com/people/yi-mu-liang-tian/activities)
-分形几何研究僧
+明明可以靠体力，偏偏要靠脑子。
 
 ![益亩良田](excited-vczh/yi-mu-liang-tian.jpg "益亩良田")
 
@@ -5631,15 +6484,15 @@ Coser/幼儿园管理/网瘾少年
 
 ***
 
-## [Leslie小驴子](https://www.zhihu.com/people/shi-dian-dian-71/activities)
+## [就是金大宝阿](https://www.zhihu.com/people/shi-dian-dian-71/activities)
 荣迷/粤迷/化妆师/精分/铲屎官
 
-![Leslie小驴子](excited-vczh/shi-dian-dian-71.jpg "Leslie小驴子")
+![就是金大宝阿](excited-vczh/shi-dian-dian-71.jpg "就是金大宝阿")
 
 ***
 
 ## [公子小白](https://www.zhihu.com/people/heyxiaobai/activities)
-野生的美少女~
+野生多肉美少女~
 
 ![公子小白](excited-vczh/heyxiaobai.jpg "公子小白")
 
@@ -5653,7 +6506,7 @@ CE/在读Ph.D
 ***
 
 ## [半仙幺幺](https://www.zhihu.com/people/wang-xue-song-61/activities)
-希望能用所有温柔，换你一次冲动。
+友人A
 
 ![半仙幺幺](excited-vczh/wang-xue-song-61.jpg "半仙幺幺")
 
@@ -5701,10 +6554,10 @@ Don't judge me, or you will be wrong.
 
 ***
 
-## [小野Jen](https://www.zhihu.com/people/li-sha-90-88/activities)
+## [Jen莎](https://www.zhihu.com/people/li-sha-90-88/activities)
 
 
-![小野Jen](excited-vczh/li-sha-90-88.jpg "小野Jen")
+![Jen莎](excited-vczh/li-sha-90-88.jpg "Jen莎")
 
 ***
 
@@ -5733,7 +6586,7 @@ leehom_1109
 ***
 
 ## [吴思涵](https://www.zhihu.com/people/wu-si-han-47/activities)
-欢迎关注专栏：老司机的生物学课堂
+小密圈「生物狗窝」
 
 ![吴思涵](excited-vczh/wu-si-han-47.jpg "吴思涵")
 
@@ -5754,7 +6607,7 @@ leehom_1109
 ***
 
 ## [初开](https://www.zhihu.com/people/ai-ni-ru-hai-shang-ming-yue-32/activities)
-最近会更新完善所有回答，你在我心上。
+如约而至。
 
 ![初开](excited-vczh/ai-ni-ru-hai-shang-ming-yue-32.jpg "初开")
 
@@ -5809,10 +6662,10 @@ leehom_1109
 
 ***
 
-## [Young Siger](https://www.zhihu.com/people/yscysc01/activities)
-不会写代码的穴深
+## [Siger](https://www.zhihu.com/people/yscysc01/activities)
+穴深
 
-![Young Siger](excited-vczh/yscysc01.jpg "Young Siger")
+![Siger](excited-vczh/yscysc01.jpg "Siger")
 
 ***
 
@@ -5922,7 +6775,7 @@ someone like you
 ***
 
 ## [柳柳](https://www.zhihu.com/people/liu-liu-34-79/activities)
-心理/教育学者/公众号:柳柳心理、值乎咨询
+教育学者/公众号:柳柳心理/值乎咨询
 
 ![柳柳](excited-vczh/liu-liu-34-79.jpg "柳柳")
 
@@ -6026,15 +6879,15 @@ RUC
 
 ***
 
-## [美妞](https://www.zhihu.com/people/mei-niu-16-66/activities)
+## [OOP小渣哇](https://www.zhihu.com/people/mei-niu-16-66/activities)
 初入IT傲娇小萌妹，前辈请多多指教～
 
-![美妞](excited-vczh/mei-niu-16-66.jpg "美妞")
+![OOP小渣哇](excited-vczh/mei-niu-16-66.jpg "OOP小渣哇")
 
 ***
 
 ## [小蜜蜂](https://www.zhihu.com/people/xiao-mi-feng-13/activities)
-学日语的土木工程搬砖工
+要健康生活啊～
 
 ![小蜜蜂](excited-vczh/xiao-mi-feng-13.jpg "小蜜蜂")
 
@@ -6383,10 +7236,10 @@ Making LISP Great Again (
 
 ***
 
-## [云朵小姑娘](https://www.zhihu.com/people/yu-yun-90-93/activities)
+## [knight](https://www.zhihu.com/people/yu-yun-90-93/activities)
 【小喻家杂货铺】
 
-![云朵小姑娘](excited-vczh/yu-yun-90-93.jpg "云朵小姑娘")
+![knight](excited-vczh/yu-yun-90-93.jpg "knight")
 
 ***
 
@@ -6405,7 +7258,7 @@ Making LISP Great Again (
 ***
 
 ## [Mero](https://www.zhihu.com/people/yan-li-shi-59/activities)
-
+运营
 
 ![Mero](excited-vczh/yan-li-shi-59.jpg "Mero")
 
@@ -6461,14 +7314,14 @@ Making LISP Great Again (
 ***
 
 ## [花菌子](https://www.zhihu.com/people/hua-jun-zi-27/activities)
-写作修习中的蘑菇。
+无趣的蘑菇。
 
 ![花菌子](excited-vczh/hua-jun-zi-27.jpg "花菌子")
 
 ***
 
 ## [李杨晶](https://www.zhihu.com/people/li-yang-jing-17/activities)
-产品，2b
+求产品，运营，技术实习生
 
 ![李杨晶](excited-vczh/li-yang-jing-17.jpg "李杨晶")
 
@@ -6496,7 +7349,7 @@ Making LISP Great Again (
 ***
 
 ## [张小姐](https://www.zhihu.com/people/zhangxiaojiesz/activities)
-造作吧！公众号 爱情干货研究院
+在爱情干货研究院等你
 
 ![张小姐](excited-vczh/zhangxiaojiesz.jpg "张小姐")
 
@@ -6510,7 +7363,7 @@ Making LISP Great Again (
 ***
 
 ## [巫冬](https://www.zhihu.com/people/chitazheng/activities)
-不大度，不友善，也不觉得言论自由就可以乱说话。
+互联网 / 科技 / 媒体
 
 ![巫冬](excited-vczh/chitazheng.jpg "巫冬")
 
@@ -6587,7 +7440,7 @@ Parsons的小裁缝
 ***
 
 ## [瑜维](https://www.zhihu.com/people/violinist/activities)
-
+努力做实力比运气好的人
 
 ![瑜维](excited-vczh/violinist.jpg "瑜维")
 
@@ -6657,7 +7510,7 @@ Parsons的小裁缝
 ***
 
 ## [郑荃](https://www.zhihu.com/people/zhengjiaxin/activities)
-产品设计／需求管理
+新手设计师
 
 ![郑荃](excited-vczh/zhengjiaxin.jpg "郑荃")
 
@@ -6776,7 +7629,7 @@ Keep calm and carry on.
 ***
 
 ## [恶膜的奶爸](https://www.zhihu.com/people/e-miao-de-nai-ba/activities)
-
+公众号“恶魔奶爸Sam”，有你需要的英语和职场攻略
 
 ![恶膜的奶爸](excited-vczh/e-miao-de-nai-ba.jpg "恶膜的奶爸")
 
@@ -6965,7 +7818,7 @@ GMP/诺控/谷黑
 ***
 
 ## [unicar](https://www.zhihu.com/people/unicar/activities)
-social scientist wannabe
+creative coder wannabe
 
 ![unicar](excited-vczh/unicar.jpg "unicar")
 
@@ -7028,7 +7881,7 @@ Stay foolish
 ***
 
 ## [李粒儿](https://www.zhihu.com/people/li-li-li-16-15/activities)
-
+爱哭/「想一出是一出」病晚期患者/脾气不好
 
 ![李粒儿](excited-vczh/li-li-li-16-15.jpg "李粒儿")
 
@@ -7097,29 +7950,29 @@ Stay foolish
 
 ***
 
-## [Canto Ostinato](https://www.zhihu.com/people/canto_ostinato/activities)
-。
+## [Felis sapiens](https://www.zhihu.com/people/canto_ostinato/activities)
+人形猫科动物，无主。
 
-![Canto Ostinato](excited-vczh/canto_ostinato.jpg "Canto Ostinato")
+![Felis sapiens](excited-vczh/canto_ostinato.jpg "Felis sapiens")
 
 ***
 
-## [阅千人而惜知己](https://www.zhihu.com/people/yue-qian-ren-er-xi-zhi-ji/activities)
+## [阅千人而惜知己](https://www.zhihu.com/people/yueqianren/activities)
 
 
-![阅千人而惜知己](excited-vczh/yue-qian-ren-er-xi-zhi-ji.jpg "阅千人而惜知己")
+![阅千人而惜知己](excited-vczh/yueqianren.jpg "阅千人而惜知己")
 
 ***
 
 ## [白源源](https://www.zhihu.com/people/bai-yuan-yuan-1022/activities)
-树不要皮人不要脸天下无敌。长期网路丐帮成员~欢迎打钱
+我很擅长mind fuck你，但是我不
 
 ![白源源](excited-vczh/bai-yuan-yuan-1022.jpg "白源源")
 
 ***
 
 ## [圭多达莱佐](https://www.zhihu.com/people/gui-duo-da-lai-zuo/activities)
-三角铁十级，虎泉乐派代表人物
+。
 
 ![圭多达莱佐](excited-vczh/gui-duo-da-lai-zuo.jpg "圭多达莱佐")
 
@@ -7140,7 +7993,7 @@ Stay foolish
 ***
 
 ## [楠爷](https://www.zhihu.com/people/evenstar/activities)
-闭关一段时间，思考几个问题，暂不答题了
+病休中，勿扰
 
 ![楠爷](excited-vczh/evenstar.jpg "楠爷")
 
@@ -7196,7 +8049,7 @@ _(:з)∠)_一个污婆
 ***
 
 ## [伊一](https://www.zhihu.com/people/yi-yi-46-21-46/activities)
-三分钟热度………一分都留不住
+0热度………
 
 ![伊一](excited-vczh/yi-yi-46-21-46.jpg "伊一")
 
@@ -7301,7 +8154,7 @@ better me 。一个女子应该是自尊自爱，有理想有目标，能独立�
 ***
 
 ## [darkfall](https://www.zhihu.com/people/darkfall/activities)
-.
+
 
 ![darkfall](excited-vczh/darkfall.jpg "darkfall")
 
@@ -7315,7 +8168,7 @@ better me 。一个女子应该是自尊自爱，有理想有目标，能独立�
 ***
 
 ## [屿寶寶](https://www.zhihu.com/people/chun-yu-jiang/activities)
-不懂
+转载随意
 
 ![屿寶寶](excited-vczh/chun-yu-jiang.jpg "屿寶寶")
 
@@ -7328,17 +8181,17 @@ Nerdy Geek
 
 ***
 
-## [王文涛](https://www.zhihu.com/people/wang-wen-tao-70/activities)
+## [窝窝头虾](https://www.zhihu.com/people/wang-wen-tao-70/activities)
 Computer Graphics Dev
 
-![王文涛](excited-vczh/wang-wen-tao-70.jpg "王文涛")
+![窝窝头虾](excited-vczh/wang-wen-tao-70.jpg "窝窝头虾")
 
 ***
 
-## [蠡测](https://www.zhihu.com/people/pinyoufu/activities)
+## [蠡隐](https://www.zhihu.com/people/pinyoufu/activities)
 认真你就赢了。
 
-![蠡测](excited-vczh/pinyoufu.jpg "蠡测")
+![蠡隐](excited-vczh/pinyoufu.jpg "蠡隐")
 
 ***
 
@@ -7371,7 +8224,7 @@ INTP/ Lithromantic/ Asexual
 ***
 
 ## [Gee Law](https://www.zhihu.com/people/geelaw/activities)
-geelaw.blog
+不喜写码、不善理论的 CS 生，掉进密码学大坑
 
 ![Gee Law](excited-vczh/geelaw.jpg "Gee Law")
 
@@ -7399,7 +8252,7 @@ IT民工
 ***
 
 ## [曹孟德斯鸠](https://www.zhihu.com/people/saintmz/activities)
-一般不骂人
+待业中老年
 
 ![曹孟德斯鸠](excited-vczh/saintmz.jpg "曹孟德斯鸠")
 
@@ -7412,10 +8265,10 @@ IT民工
 
 ***
 
-## [王茹](https://www.zhihu.com/people/wang-ru-64/activities)
+## [rrruuurr](https://www.zhihu.com/people/wang-ru-64/activities)
 独行之乐 愿君自尝。
 
-![王茹](excited-vczh/wang-ru-64.jpg "王茹")
+![rrruuurr](excited-vczh/wang-ru-64.jpg "rrruuurr")
 
 ***
 
@@ -7476,14 +8329,14 @@ KIDS\FELID\LADY
 ***
 
 ## [淺野早苗](https://www.zhihu.com/people/sara233/activities)
-人生如此 拿酒來
+羿焉彃日，貴重心知。離斷本罪，染得嗔痴。
 
 ![淺野早苗](excited-vczh/sara233.jpg "淺野早苗")
 
 ***
 
 ## [翡柏](https://www.zhihu.com/people/renfish/activities)
-多想保护你不受伤害，可我的翅膀只有这么宽。
+多想保护你不受伤害，可我的翅膀只有这么宽
 
 ![翡柏](excited-vczh/renfish.jpg "翡柏")
 
@@ -7539,7 +8392,7 @@ You don't know me
 ***
 
 ## [Asterisk](https://www.zhihu.com/people/mei-you-ren-87/activities)
-仍怜故乡水，爱姆安格瑞。
+利苟利苟利
 
 ![Asterisk](excited-vczh/mei-you-ren-87.jpg "Asterisk")
 
@@ -7552,10 +8405,10 @@ You don't know me
 
 ***
 
-## [无趣少年](https://www.zhihu.com/people/mo-xuan-yan-41-25/activities)
+## [UIUT](https://www.zhihu.com/people/mo-xuan-yan-41-25/activities)
 吃饭睡觉
 
-![无趣少年](excited-vczh/mo-xuan-yan-41-25.jpg "无趣少年")
+![UIUT](excited-vczh/mo-xuan-yan-41-25.jpg "UIUT")
 
 ***
 
@@ -7609,7 +8462,7 @@ You don't know me
 ***
 
 ## [Miki Hoshii](https://www.zhihu.com/people/miki-hoshii/activities)
-早成无上道，度尽苦迷情
+由于知乎要绑定手机，所以以后不再回答任何问题
 
 ![Miki Hoshii](excited-vczh/miki-hoshii.jpg "Miki Hoshii")
 
@@ -7650,10 +8503,10 @@ You don't know me
 
 ***
 
-## [乔小树](https://www.zhihu.com/people/dodoru/activities)
-程序媛, 脑洞里有十万洪荒...
+## [迦伦](https://www.zhihu.com/people/dodoru/activities)
+做个有趣的程序媛。
 
-![乔小树](excited-vczh/dodoru.jpg "乔小树")
+![迦伦](excited-vczh/dodoru.jpg "迦伦")
 
 ***
 
@@ -7770,7 +8623,7 @@ Web开发
 ***
 
 ## [Molly Ye](https://www.zhihu.com/people/molly-ye-51/activities)
-多喝水多吃蔬菜多带父母体检
+我将以后的时光，都看成幸运与快乐。
 
 ![Molly Ye](excited-vczh/molly-ye-51.jpg "Molly Ye")
 
@@ -7812,7 +8665,7 @@ Web开发
 ***
 
 ## [Kaiser](https://www.zhihu.com/people/kaiserwang730/activities)
-王司图
+集智(<a href="https://link.zhihu.com/?target=https%3A//jizhi.im" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">jizhi.im</span><span class="invisible"></span><i class="icon-external"></i></a>)创始人
 
 ![Kaiser](excited-vczh/kaiserwang730.jpg "Kaiser")
 
@@ -8071,7 +8924,7 @@ Artist of Spectrums
 ***
 
 ## [喻听话](https://www.zhihu.com/people/yu-ting-hua/activities)
-荒诞如我，也很认真 | 公众号：喻听话
+Catch me if u can | 公众号：喻听话
 
 ![喻听话](excited-vczh/yu-ting-hua.jpg "喻听话")
 
@@ -8168,10 +9021,10 @@ Artist of Spectrums
 
 ***
 
-## [邓文煜](https://www.zhihu.com/people/deng-wen-yu-25/activities)
-程序员龟速修炼中，妄想写出好程序。人无趣，不可与其交。
+## [汉基先生](https://www.zhihu.com/people/deng-wen-yu-25/activities)
+人无趣，不可与其交。学习钓鱼技巧中，嘤嘤嘤QwQ
 
-![邓文煜](excited-vczh/deng-wen-yu-25.jpg "邓文煜")
+![汉基先生](excited-vczh/deng-wen-yu-25.jpg "汉基先生")
 
 ***
 
@@ -8183,7 +9036,7 @@ Artist of Spectrums
 ***
 
 ## [加奇](https://www.zhihu.com/people/jackie9143/activities)
-疏离型Aspie / 互联网搬砖
+疏离型Aspie / 独居恋物癖 / 互联网民工
 
 ![加奇](excited-vczh/jackie9143.jpg "加奇")
 
@@ -8196,10 +9049,10 @@ Artist of Spectrums
 
 ***
 
-## [李珥](https://www.zhihu.com/people/li-er-97-73-77/activities)
-社会学 数据分析 红楼梦
+## [子珥](https://www.zhihu.com/people/li-er-97-73-77/activities)
+最近戾气颇重
 
-![李珥](excited-vczh/li-er-97-73-77.jpg "李珥")
+![子珥](excited-vczh/li-er-97-73-77.jpg "子珥")
 
 ***
 
@@ -8239,7 +9092,7 @@ You look pretty …… ugly XD
 ***
 
 ## [Maggie黄胤然](https://www.zhihu.com/people/huang-yin-ran/activities)
-只收藏不点赞…真的让人好僧气啊 ╭(╯^╰)╮
+只收藏不点赞…让人好僧气啊 ╭(╯^╰)╮
 
 ![Maggie黄胤然](excited-vczh/huang-yin-ran.jpg "Maggie黄胤然")
 
@@ -8351,7 +9204,7 @@ ethnographer in my own life
 ***
 
 ## [饶洵](https://www.zhihu.com/people/rao-xun/activities)
-做语音助手的
+广告开发
 
 ![饶洵](excited-vczh/rao-xun.jpg "饶洵")
 
@@ -8540,7 +9393,7 @@ Web/移动/Mac开发、心理学、用户体验、平面/动画设计、视频�
 ***
 
 ## [藤本烈](https://www.zhihu.com/people/Retsu/activities)
-日本区域发售VANS/某宝搜XXZHD
+一个。
 
 ![藤本烈](excited-vczh/Retsu.jpg "藤本烈")
 
@@ -8638,7 +9491,7 @@ T^T医学生学渣
 ***
 
 ## [三公子](https://www.zhihu.com/people/ruo-shui-48-58/activities)
-
+(๑•̀ㅂ•́) ✧
 
 ![三公子](excited-vczh/ruo-shui-48-58.jpg "三公子")
 
@@ -8687,7 +9540,7 @@ T^T医学生学渣
 ***
 
 ## [Jex Cheng](https://www.zhihu.com/people/jexcheng/activities)
-知乎Bug太多，快要倒闭了，大家快撤！
+由于严重违反知乎的敏感规定，该帐号已被停用
 
 ![Jex Cheng](excited-vczh/jexcheng.jpg "Jex Cheng")
 
@@ -8988,7 +9841,7 @@ phd
 ***
 
 ## [小角角](https://www.zhihu.com/people/yarkb/activities)
-UE / <a href="https://link.zhihu.com/?target=http%3A//vacantcorner.lofter.com" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">vacantcorner.lofter.com</span><span class="invisible"></span><i class="icon-external"></i></a>
+
 
 ![小角角](excited-vczh/yarkb.jpg "小角角")
 
@@ -9015,10 +9868,10 @@ UE / <a href="https://link.zhihu.com/?target=http%3A//vacantcorner.lofter.com" c
 
 ***
 
-## [熊甜甜Honey](https://www.zhihu.com/people/Whale0816/activities)
-终于记起了知乎密码
+## [熊微辣](https://www.zhihu.com/people/Whale0816/activities)
+I m fine ;）
 
-![熊甜甜Honey](excited-vczh/Whale0816.jpg "熊甜甜Honey")
+![熊微辣](excited-vczh/Whale0816.jpg "熊微辣")
 
 ***
 
@@ -9058,7 +9911,7 @@ UE / <a href="https://link.zhihu.com/?target=http%3A//vacantcorner.lofter.com" c
 ***
 
 ## [黑川](https://www.zhihu.com/people/cornfieldfox/activities)
-words kill as fast as bullets
+vox populi, vox dei.
 
 ![黑川](excited-vczh/cornfieldfox.jpg "黑川")
 
@@ -9134,10 +9987,10 @@ words kill as fast as bullets
 
 ***
 
-## [Bullwinkle](https://www.zhihu.com/people/Bullwinkle/activities)
-Beta Decay, Fundamental Symmetry, Wu Experiment
+## [My Name](https://www.zhihu.com/people/Bullwinkle/activities)
+Beta decay and fundamental symmetry
 
-![Bullwinkle](excited-vczh/Bullwinkle.jpg "Bullwinkle")
+![My Name](excited-vczh/Bullwinkle.jpg "My Name")
 
 ***
 
@@ -9184,7 +10037,7 @@ Beta Decay, Fundamental Symmetry, Wu Experiment
 ***
 
 ## [Cici Zhang](https://www.zhihu.com/people/cx.zhang/activities)
-吃到肚子里的才是自己的。
+离成为知名人士大概还有100篇稿子要写
 
 ![Cici Zhang](excited-vczh/cx.zhang.jpg "Cici Zhang")
 
@@ -9254,14 +10107,14 @@ Beta Decay, Fundamental Symmetry, Wu Experiment
 ***
 
 ## [CalistaWang](https://www.zhihu.com/people/calistawang/activities)
-不重孤独，信仰爱情，要寻人生的伴侣
+Homo Sapiens
 
 ![CalistaWang](excited-vczh/calistawang.jpg "CalistaWang")
 
 ***
 
 ## [桃喵喵](https://www.zhihu.com/people/tao-miao-miao-70/activities)
-冬蛰意的女票大人罒ω罒
+浮生只合尊前老。
 
 ![桃喵喵](excited-vczh/tao-miao-miao-70.jpg "桃喵喵")
 
@@ -9310,7 +10163,7 @@ AICPA, Chicago 审计狗
 ***
 
 ## [LykosTENG](https://www.zhihu.com/people/lykosteng/activities)
-玩马拉松和黑客马拉松 :)
+玩马拉松和黑客马拉松 :) 开源世界的探索者
 
 ![LykosTENG](excited-vczh/lykosteng.jpg "LykosTENG")
 
@@ -9400,10 +10253,10 @@ Live your own life, not other's.
 
 ***
 
-## [紫菜包饭姐](https://www.zhihu.com/people/Audrey-20/activities)
-整理收纳师
+## [整理师桂思雨](https://www.zhihu.com/people/Audrey-20/activities)
+改变游戏规则
 
-![紫菜包饭姐](excited-vczh/Audrey-20.jpg "紫菜包饭姐")
+![整理师桂思雨](excited-vczh/Audrey-20.jpg "整理师桂思雨")
 
 ***
 
@@ -9499,14 +10352,14 @@ roba
 ***
 
 ## [肉肉](https://www.zhihu.com/people/rou--rou/activities)
-文能挖洞翻墙写代码，武能登山翻墙打流氓。
+文能挖洞运营写代码，武能登山翻墙打流氓。
 
 ![肉肉](excited-vczh/rou--rou.jpg "肉肉")
 
 ***
 
 ## [筱蕾](https://www.zhihu.com/people/PortiaC/activities)
-无可无不可
+那又如何？
 
 ![筱蕾](excited-vczh/PortiaC.jpg "筱蕾")
 
@@ -9604,7 +10457,7 @@ Time will tell.
 ***
 
 ## [Xinyu Chen](https://www.zhihu.com/people/xinyu-chen/activities)
-广告公司运维工程师
+请勿邀请我回答任何推荐购买手机电脑类问题
 
 ![Xinyu Chen](excited-vczh/xinyu-chen.jpg "Xinyu Chen")
 
@@ -9618,7 +10471,7 @@ Time will tell.
 ***
 
 ## [萧井陌](https://www.zhihu.com/people/xiao-jing-mo/activities)
-微博: <a href="https://link.zhihu.com/?target=http%3A//weibo.com/p/1005056221690442" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">weibo.com/p/10050562216</span><span class="invisible">90442</span><span class="ellipsis"></span><i class="icon-external"></i></a>
+B站直播 <a href="https://link.zhihu.com/?target=https%3A//space.bilibili.com/39066904" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">space.bilibili.com/3906</span><span class="invisible">6904</span><span class="ellipsis"></span><i class="icon-external"></i></a>
 
 ![萧井陌](excited-vczh/xiao-jing-mo.jpg "萧井陌")
 
@@ -9660,7 +10513,7 @@ Belleve的家养巨猫
 ***
 
 ## [杜佳慧](https://www.zhihu.com/people/du-jia-hui-52/activities)
-CV and ML
+CV &amp; ML, C++/Python practioner, 业余CNN玩家
 
 ![杜佳慧](excited-vczh/du-jia-hui-52.jpg "杜佳慧")
 
@@ -9681,7 +10534,7 @@ CV and ML
 ***
 
 ## [佯良](https://www.zhihu.com/people/honcut/activities)
-云计算/架构师
+云计算/架构师/<a href="https://link.zhihu.com/?target=http%3A//ivydom.com" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">ivydom.com</span><span class="invisible"></span><i class="icon-external"></i></a>
 
 ![佯良](excited-vczh/honcut.jpg "佯良")
 
@@ -9723,7 +10576,7 @@ CV and ML
 ***
 
 ## [张耀武](https://www.zhihu.com/people/ZhYW/activities)
-搜索/翻译/健身
+AI/搜索/英语/健身
 
 ![张耀武](excited-vczh/ZhYW.jpg "张耀武")
 
@@ -9778,10 +10631,10 @@ geek
 
 ***
 
-## [dy.zhao](https://www.zhihu.com/people/dy-zhao-91/activities)
+## [DY.ZHAO](https://www.zhihu.com/people/dy-zhao-91/activities)
 手撕鬼子专业户
 
-![dy.zhao](excited-vczh/dy-zhao-91.jpg "dy.zhao")
+![DY.ZHAO](excited-vczh/dy-zhao-91.jpg "DY.ZHAO")
 
 ***
 
@@ -9810,13 +10663,6 @@ geek
 知行合一爱拉黑
 
 ![你锤](excited-vczh/jin-xiao-chui-84.jpg "你锤")
-
-***
-
-## [Cosmia Fu](https://www.zhihu.com/people/cosmia/activities)
-会写Python的Haskell原教旨主义者
-
-![Cosmia Fu](excited-vczh/cosmia.jpg "Cosmia Fu")
 
 ***
 
@@ -9891,7 +10737,7 @@ geek
 ***
 
 ## [陈斌](https://www.zhihu.com/people/chen-bin-14-38/activities)
-前微软员工，在线一对一儿童编程【橙旭园】CEO。
+程序媛计划，teach girls coding发起人。
 
 ![陈斌](excited-vczh/chen-bin-14-38.jpg "陈斌")
 
@@ -9919,23 +10765,23 @@ geek
 ***
 
 ## [青葭](https://www.zhihu.com/people/qing-jia-57/activities)
-别说话，多晒晒太阳吧。
+天气变热了。
 
 ![青葭](excited-vczh/qing-jia-57.jpg "青葭")
 
 ***
 
 ## [清欢](https://www.zhihu.com/people/qinghuan1211/activities)
-占星初学者，公众号“人间有味”，求职中。
+不总是友善。公众号“人间有味”。
 
 ![清欢](excited-vczh/qinghuan1211.jpg "清欢")
 
 ***
 
-## [杨茜茜](https://www.zhihu.com/people/yang-qian-74/activities)
+## [杨茜茜](https://www.zhihu.com/people/yangxixiaohuaihuai/activities)
 我是二货没救了ლ(❛◡❛✿)ლ
 
-![杨茜茜](excited-vczh/yang-qian-74.jpg "杨茜茜")
+![杨茜茜](excited-vczh/yangxixiaohuaihuai.jpg "杨茜茜")
 
 ***
 
@@ -9954,7 +10800,7 @@ geek
 ***
 
 ## [周二小姐](https://www.zhihu.com/people/zhou-er-xiao-jie/activities)
-没二维码没公众号不赚粉丝钱谢谢
+一个你永远都撩不到的小姐姐。
 
 ![周二小姐](excited-vczh/zhou-er-xiao-jie.jpg "周二小姐")
 
@@ -10094,7 +10940,7 @@ Windows Kernel Programming
 ***
 
 ## [苏菲](https://www.zhihu.com/people/su-fei-17/activities)
-居住东京六年的自由职业者
+公众号：SophieinTokyo 发发私房话，等你来看哦~
 
 ![苏菲](excited-vczh/su-fei-17.jpg "苏菲")
 
@@ -10297,7 +11143,7 @@ Product Designer @<a href="https://link.zhihu.com/?target=http%3A//musical.ly" c
 ***
 
 ## [黄森婧](https://www.zhihu.com/people/huang-sen-jing/activities)
-Web前端/狼人杀/电竞游戏/rock
+Web前端/狼人杀/电竞游戏/rap
 
 ![黄森婧](excited-vczh/huang-sen-jing.jpg "黄森婧")
 
@@ -10430,7 +11276,7 @@ FP, GUI &amp; Writing
 ***
 
 ## [熊皮手套](https://www.zhihu.com/people/oldrev/activities)
-会写代码的屠夫，不友善，喜 trolling，少来关注
+会写代码的屠夫，不友善，喜 trolling，不建议关注
 
 ![熊皮手套](excited-vczh/oldrev.jpg "熊皮手套")
 
@@ -10458,7 +11304,7 @@ FP, GUI &amp; Writing
 ***
 
 ## [yolfilm](https://www.zhihu.com/people/yolfilm/activities)
-人生，就是组战队。
+
 
 ![yolfilm](excited-vczh/yolfilm.jpg "yolfilm")
 
@@ -10542,7 +11388,7 @@ fish
 ***
 
 ## [Acjx](https://www.zhihu.com/people/jianxinzhou/activities)
-CS Master，Full stack coder
+再说我还有一生可以浪费。
 
 ![Acjx](excited-vczh/jianxinzhou.jpg "Acjx")
 
@@ -10864,7 +11710,7 @@ IT马畜。。。
 ***
 
 ## [Will Wu](https://www.zhihu.com/people/will-wu/activities)
-MPSoC Designer
+
 
 ![Will Wu](excited-vczh/will-wu.jpg "Will Wu")
 
@@ -11032,7 +11878,7 @@ nil
 ***
 
 ## [和彩](https://www.zhihu.com/people/halcyonall/activities)
-一阿累。
+Gather ye rosebuds while ye may
 
 ![和彩](excited-vczh/halcyonall.jpg "和彩")
 
@@ -11067,7 +11913,7 @@ orz
 ***
 
 ## [张赫](https://www.zhihu.com/people/matt-zhang/activities)
-Uber, Cornell Tech。正在向成为狗头军师的道路上前进
+Uber, Cornell Tech。将互联网延伸到传统行业的践行者。
 
 ![张赫](excited-vczh/matt-zhang.jpg "张赫")
 
@@ -11130,7 +11976,7 @@ Work on VS @Code, <a href="https://link.zhihu.com/?target=https%3A//rebornix.com
 ***
 
 ## [殷玥](https://www.zhihu.com/people/yin-yue/activities)
-我的朋友都比我厉害
+月半明时
 
 ![殷玥](excited-vczh/yin-yue.jpg "殷玥")
 
@@ -11242,7 +12088,7 @@ IT
 ***
 
 ## [Wallflower Lee](https://www.zhihu.com/people/lee_from_oak/activities)
-追求幸福的程序猿
+
 
 ![Wallflower Lee](excited-vczh/lee_from_oak.jpg "Wallflower Lee")
 
@@ -11276,10 +12122,10 @@ CODER
 
 ***
 
-## [ben li](https://www.zhihu.com/people/ben-li-90/activities)
+## [Benny](https://www.zhihu.com/people/ben-li-90/activities)
 
 
-![ben li](excited-vczh/ben-li-90.jpg "ben li")
+![Benny](excited-vczh/ben-li-90.jpg "Benny")
 
 ***
 
@@ -11290,10 +12136,10 @@ Old Coder
 
 ***
 
-## [汪洋](https://www.zhihu.com/people/wang-yang-65-68/activities)
+## [wysaid](https://www.zhihu.com/people/wysaid/activities)
 专注无聊20年
 
-![汪洋](excited-vczh/wang-yang-65-68.jpg "汪洋")
+![wysaid](excited-vczh/wysaid.jpg "wysaid")
 
 ***
 
@@ -11312,7 +12158,7 @@ Old Coder
 ***
 
 ## [Jqx1991](https://www.zhihu.com/people/qiujueqin/activities)
-我只觉得他们吵闹
+
 
 ![Jqx1991](excited-vczh/qiujueqin.jpg "Jqx1991")
 
@@ -11486,10 +12332,10 @@ programmer
 
 ***
 
-## [荷花家的小年糕](https://www.zhihu.com/people/gu-ji/activities)
+## [年糕荷](https://www.zhihu.com/people/gu-ji/activities)
 哇 你也是个有趣的人吖
 
-![荷花家的小年糕](excited-vczh/gu-ji.jpg "荷花家的小年糕")
+![年糕荷](excited-vczh/gu-ji.jpg "年糕荷")
 
 ***
 
@@ -11586,7 +12432,7 @@ huajh7
 ***
 
 ## [Weber](https://www.zhihu.com/people/xietingwen/activities)
-程序猿/大数据
+大数据与深度学习
 
 ![Weber](excited-vczh/xietingwen.jpg "Weber")
 
@@ -12097,7 +12943,7 @@ not a programmer
 ***
 
 ## [Ivony](https://www.zhihu.com/people/Ivony/activities)
-装配脑袋一路走好。
+大隐隐知乎
 
 ![Ivony](excited-vczh/Ivony.jpg "Ivony")
 
@@ -12139,7 +12985,7 @@ PHD in computer vision
 ***
 
 ## [李飞](https://www.zhihu.com/people/wu-yao-ming-50/activities)
-LISP(括号党
+Data Player | Kaggle Master
 
 ![李飞](excited-vczh/wu-yao-ming-50.jpg "李飞")
 
@@ -12327,10 +13173,10 @@ IT狗
 
 ***
 
-## [钢盅郭子](https://www.zhihu.com/people/unogzx/activities)
-怀念 Yolfilm 第一次离开前的岁月
+## [郭子曦](https://www.zhihu.com/people/unogzx/activities)
+世界上并不存在疑问。有的只是未知和纠结。前者尽人事，后者听天命。
 
-![钢盅郭子](excited-vczh/unogzx.jpg "钢盅郭子")
+![郭子曦](excited-vczh/unogzx.jpg "郭子曦")
 
 ***
 
@@ -12607,10 +13453,10 @@ To be or not to be a good man！
 
 ***
 
-## [UC大人](https://www.zhihu.com/people/zhou-yu-si/activities)
+## [UC大人](https://www.zhihu.com/people/ucchow/activities)
 旅行 摄影
 
-![UC大人](excited-vczh/zhou-yu-si.jpg "UC大人")
+![UC大人](excited-vczh/ucchow.jpg "UC大人")
 
 ***
 
@@ -12860,7 +13706,7 @@ Unix Kernel开发攻城师
 ***
 
 ## [吴育昕](https://www.zhihu.com/people/ppwwyyxx/activities)
-Megvii-FAIR炼丹中
+FAIR炼丹中
 
 ![吴育昕](excited-vczh/ppwwyyxx.jpg "吴育昕")
 
@@ -13077,7 +13923,7 @@ Embedded/Handset Development
 ***
 
 ## [安迪](https://www.zhihu.com/people/an-di-13/activities)
-Developpeur/互联网关注者/汽车爱好者
+数据仓库/汽车爱好者
 
 ![安迪](excited-vczh/an-di-13.jpg "安迪")
 
@@ -13174,10 +14020,10 @@ First to Germany, then adults.
 
 ***
 
-## [bianxy](https://www.zhihu.com/people/bianxianyang/activities)
+## [知忽](https://www.zhihu.com/people/bianxianyang/activities)
 
 
-![bianxy](excited-vczh/bianxianyang.jpg "bianxy")
+![知忽](excited-vczh/bianxianyang.jpg "知忽")
 
 ***
 
@@ -13209,10 +14055,10 @@ First to Germany, then adults.
 
 ***
 
-## [murphy](https://www.zhihu.com/people/mao-yun-fei-54/activities)
+## [murphy](https://www.zhihu.com/people/eroadosiba/activities)
 C++ golang
 
-![murphy](excited-vczh/mao-yun-fei-54.jpg "murphy")
+![murphy](excited-vczh/eroadosiba.jpg "murphy")
 
 ***
 
@@ -13349,15 +14195,15 @@ Live long and prosper
 
 ***
 
-## [黄信淮](https://www.zhihu.com/people/huang-xin-huai/activities)
+## [信淮](https://www.zhihu.com/people/huang-xin-huai/activities)
 
 
-![黄信淮](excited-vczh/huang-xin-huai.jpg "黄信淮")
+![信淮](excited-vczh/huang-xin-huai.jpg "信淮")
 
 ***
 
 ## [Bleaker](https://www.zhihu.com/people/zshbleaker/activities)
-
+你可知希望不会来啊
 
 ![Bleaker](excited-vczh/zshbleaker.jpg "Bleaker")
 
@@ -13378,7 +14224,7 @@ Live long and prosper
 ***
 
 ## [高鹏飞](https://www.zhihu.com/people/gao-peng-fei-92/activities)
-Android攻城狮
+hello world
 
 ![高鹏飞](excited-vczh/gao-peng-fei-92.jpg "高鹏飞")
 
@@ -13482,10 +14328,10 @@ Ruby开发工程师
 
 ***
 
-## [shuay](https://www.zhihu.com/people/_yshuai/activities)
+## [bej-syan](https://www.zhihu.com/people/bej-syan/activities)
 
 
-![shuay](excited-vczh/_yshuai.jpg "shuay")
+![bej-syan](excited-vczh/bej-syan.jpg "bej-syan")
 
 ***
 
@@ -13601,10 +14447,10 @@ c程序员
 
 ***
 
-## [Jieyang](https://www.zhihu.com/people/0x6a79/activities)
+## [vanvanvanc](https://www.zhihu.com/people/0x6a79/activities)
 野生程序员，学习产品设计中....
 
-![Jieyang](excited-vczh/0x6a79.jpg "Jieyang")
+![vanvanvanc](excited-vczh/0x6a79.jpg "vanvanvanc")
 
 ***
 
@@ -13630,14 +14476,14 @@ clean and tidy
 ***
 
 ## [yskin](https://www.zhihu.com/people/yskin/activities)
-&lt;--点赞的好帅！
+其实我也不知道为什么我的头像是方的
 
 ![yskin](excited-vczh/yskin.jpg "yskin")
 
 ***
 
 ## [yukirock](https://www.zhihu.com/people/chadluo/activities)
-
+问：何如？曰：走了一些弯路
 
 ![yukirock](excited-vczh/chadluo.jpg "yukirock")
 
@@ -13658,7 +14504,7 @@ clean and tidy
 ***
 
 ## [James Swineson](https://www.zhihu.com/people/james-swineson/activities)
-is perpendicular to the blackboard.
+已而！已而！
 
 ![James Swineson](excited-vczh/james-swineson.jpg "James Swineson")
 
@@ -13699,10 +14545,10 @@ C/lisp
 
 ***
 
-## [阿志](https://www.zhihu.com/people/a-zhi-53/activities)
+## [阿志](https://www.zhihu.com/people/chendz1979/activities)
 <a href="https://link.zhihu.com/?target=http%3A//chendz.com" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">chendz.com</span><span class="invisible"></span><i class="icon-external"></i></a>
 
-![阿志](excited-vczh/a-zhi-53.jpg "阿志")
+![阿志](excited-vczh/chendz1979.jpg "阿志")
 
 ***
 
@@ -13791,7 +14637,7 @@ on a hero's journey
 ***
 
 ## [Sunnylost](https://www.zhihu.com/people/sunnylost/activities)
-程序员
+&lt;a href="/" class="Button"&gt;(ง ˙ω˙)ว&lt;/a&gt;
 
 ![Sunnylost](excited-vczh/sunnylost.jpg "Sunnylost")
 
@@ -14015,7 +14861,7 @@ Berkeley CS PhD
 ***
 
 ## [巨博Jacob](https://www.zhihu.com/people/jacobevermore/activities)
-学成于行
+学成于行,惜时如金
 
 ![巨博Jacob](excited-vczh/jacobevermore.jpg "巨博Jacob")
 
@@ -14134,7 +14980,7 @@ Java/Android/健身/读书/逛博物馆/旅游
 ***
 
 ## [周鑫](https://www.zhihu.com/people/zhou-xin-39/activities)
-粗糙段子手 / 好奇宝宝 / 米饭终结者
+粗糙段子手 / 好奇宝宝 / 米饭终结者/游戏玩家
 
 ![周鑫](excited-vczh/zhou-xin-39.jpg "周鑫")
 
@@ -14204,7 +15050,7 @@ Java - qunar
 ***
 
 ## [赵聪](https://www.zhihu.com/people/congzhao/activities)
-南七技校，毕业打算搬砖
+
 
 ![赵聪](excited-vczh/congzhao.jpg "赵聪")
 
@@ -14323,7 +15169,7 @@ Python/Go 后端开发
 ***
 
 ## [Dion](https://www.zhihu.com/people/dion/activities)
-Full-Stack Developer
+Based in Hong Kong, Full-Stack Developer
 
 ![Dion](excited-vczh/dion.jpg "Dion")
 
@@ -14351,14 +15197,14 @@ Full-Stack Developer
 ***
 
 ## [羽毛](https://www.zhihu.com/people/kodamasakuno/activities)
-正经的回答自带反对；抖机灵的还排在前面
+感觉能用好 .Net 的人真的很稀少
 
 ![羽毛](excited-vczh/kodamasakuno.jpg "羽毛")
 
 ***
 
 ## [玻璃丸子](https://www.zhihu.com/people/jinbin/activities)
-优秀回答者
+微信公众号：yiqifacai2018 小编微信：just_as_always
 
 ![玻璃丸子](excited-vczh/jinbin.jpg "玻璃丸子")
 
@@ -14525,10 +15371,10 @@ linux kernel
 
 ***
 
-## [Franz](https://www.zhihu.com/people/cuiweifu/activities)
-程序员, 码农, 面向对象的传播者。
+## [崔维福](https://www.zhihu.com/people/cuiweifu/activities)
+自我迭代
 
-![Franz](excited-vczh/cuiweifu.jpg "Franz")
+![崔维福](excited-vczh/cuiweifu.jpg "崔维福")
 
 ***
 
@@ -14631,7 +15477,7 @@ C++爱好者
 ***
 
 ## [梧桐](https://www.zhihu.com/people/5t5t/activities)
-
+terry.wutongfei#gmail
 
 ![梧桐](excited-vczh/5t5t.jpg "梧桐")
 
@@ -14665,10 +15511,10 @@ cpp/python程序猿
 
 ***
 
-## [李廷鹏](https://www.zhihu.com/people/li-ting-peng/activities)
+## [椭圆型腹肌](https://www.zhihu.com/people/li-ting-peng/activities)
 请叫我腹肌兄。
 
-![李廷鹏](excited-vczh/li-ting-peng.jpg "李廷鹏")
+![椭圆型腹肌](excited-vczh/li-ting-peng.jpg "椭圆型腹肌")
 
 ***
 
@@ -15002,7 +15848,7 @@ CS &amp; MATH
 ***
 
 ## [TowHZ](https://www.zhihu.com/people/hozintle/activities)
-神秘
+
 
 ![TowHZ](excited-vczh/hozintle.jpg "TowHZ")
 
@@ -15065,7 +15911,7 @@ Coder
 ***
 
 ## [Felix Lee](https://www.zhihu.com/people/f3lix/activities)
-计算机
+Technologist
 
 ![Felix Lee](excited-vczh/f3lix.jpg "Felix Lee")
 
