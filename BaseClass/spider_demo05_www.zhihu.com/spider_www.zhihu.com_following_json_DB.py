@@ -20,6 +20,7 @@ def getSeed():
 #完成抓取，更新用户状态
 def updateUser(DOWNLOAD_User):
     sql = "update Space0017A set column_4='1' where column_0='" + DOWNLOAD_User + "'"
+    ms.ExecNonQuery(sql.encode('utf-8'))
 
 
 cookies = {}
