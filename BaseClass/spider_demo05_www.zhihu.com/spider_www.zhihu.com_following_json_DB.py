@@ -9,17 +9,21 @@ import datetime
 from MSSql_SqlHelp import MSSQL 
 
 #MS Sql Server 链接字符串
-ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful_2017-03-15")
+ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
 
 #获取抓取种子
 def getSeed():
-    sql = "select top(1) column_0 from Space0019A where column_4='0' " 
+    sql = "select top(1) column_0 from Space0017A where column_4='0' " 
     json = ms.ExecQuery(sql.encode('utf-8'))
-    return json[0][0]
+    if(len(json) == 0):
+        return -1
+    else:
+        return json[0][0]
+
 
 #完成抓取，更新用户状态
 def updateUser(DOWNLOAD_User):
-    sql = "update Space0019A set column_4='1' where column_0='" + DOWNLOAD_User + "'"
+    sql = "update Space0017A set column_4='1' where column_0='" + DOWNLOAD_User + "'"
     ms.ExecNonQuery(sql.encode('utf-8'))
 
 
@@ -58,7 +62,7 @@ def beginSpider(DOWNLOAD_User, pageNum):
             continue
 
         image_name = item["url_token"]
-        sql = "select count(id) column_0 from Space0019A where column_0='" + image_name + "' " 
+        sql = "select count(id) column_0 from Space0017A where column_0='" + image_name + "' " 
         isRepeat = ms.ExecQuery(sql.encode('utf-8'))
         if isRepeat[0][0] != 0:
             continue
@@ -70,12 +74,12 @@ def beginSpider(DOWNLOAD_User, pageNum):
 
         img_localhost = DOWNLOAD_User + '\\' + image_name + '.jpg'
         
-        sql = "select count(id) column_0 from Space0019A where column_0='" + image_name + "' " 
+        sql = "select count(id) column_0 from Space0017A where column_0='" + image_name + "' " 
         isRepeat = ms.ExecQuery(sql.encode('utf-8'))
         if isRepeat[0][0] != 0:
-            sql = "insert into Space0019A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'1')
+            sql = "insert into Space0017A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'1')
         else:
-            sql = "insert into Space0019A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'0')
+            sql = "insert into Space0017A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'0')
 
         ms.ExecNonQuery(sql.encode('utf-8'))
 
@@ -99,10 +103,15 @@ DOWNLOAD_URL = "https://www.zhihu.com/api/v4/members/{DOWNLOAD_User}/followees?i
 
 #主程序
 def main():
+
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
     DOWNLOAD_User = getSeed()
+
+    if DOWNLOAD_User == -1:
+        print("无待抓取序列，程序终止")
+        return None
 
     pageNum = 0
 
