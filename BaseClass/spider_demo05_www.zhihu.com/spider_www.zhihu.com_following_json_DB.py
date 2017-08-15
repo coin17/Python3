@@ -13,9 +13,14 @@ ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
 
 #获取抓取种子
 def getSeed():
-    sql = "select top(1) column_0, column_7 from Space0017A where column_8='0' " 
+    sql = "select top(1) column_0 from Space0017A where column_4='0' " 
     json = ms.ExecQuery(sql.encode('utf-8'))
-    return json[0][0],json[0][1]
+    return json[0][0]
+
+#完成抓取，更新用户状态
+def updateUser(DOWNLOAD_User):
+    sql = "update Space0017A set column_4='1' where column_0='" + DOWNLOAD_User + "'"
+
 
 cookies = {}
 
@@ -30,20 +35,19 @@ def download_page(url):
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36'
     }, timeout=120).json()
 
-def beginSpider(DOWNLOAD_User, DOWNLOAD_URL, pageNum):
+def beginSpider(DOWNLOAD_User, pageNum):
+    print("抓取用户 "+ DOWNLOAD_User + " ，页码 "+ str(pageNum))
 
-    DOWNLOAD_URL += "?include=data[*].answer_count,articles_count,gender,follower_count,is_followed,is_following,badge[?(type=best_answerer)].topics&offset={offset}&limit=20"
     try:
-        jsonData = download_page(DOWNLOAD_URL.replace('{offset}',str(pageNum * 20)))
-        print(jsonData)
+        json = download_page(DOWNLOAD_URL.replace('{DOWNLOAD_User}',DOWNLOAD_User).replace('{offset}',str(pageNum * 20)))
     except:
-        print("抓取异常：" + DOWNLOAD_URL.replace('{offset}',str(pageNum * 20)))
-        #time.sleep(2) #延迟N秒再抓取
-        #json = download_page(DOWNLOAD_URL.replace('{offset}',str(pageNum * 20)))
+        print("抓取异常：" + DOWNLOAD_URL.replace('{DOWNLOAD_User}',DOWNLOAD_User).replace('{offset}',str(pageNum * 20)))
+        time.sleep(2) #延迟N秒再抓取
+        json = download_page(DOWNLOAD_URL.replace('{DOWNLOAD_User}',DOWNLOAD_User).replace('{offset}',str(pageNum * 20)))
 
-    #print(jsonData)
+    #print(json)
 
-    #print(jsonData["paging"]["is_end"])
+    #print(json["paging"]["is_end"])
 
     if os.path.exists(DOWNLOAD_User) == False:
         os.makedirs(DOWNLOAD_User)
@@ -53,6 +57,10 @@ def beginSpider(DOWNLOAD_User, DOWNLOAD_URL, pageNum):
             continue
 
         image_name = item["url_token"]
+        sql = "select count(id) column_0 from Space0017A where column_0='" + image_name + "' " 
+        isRepeat = ms.ExecQuery(sql.encode('utf-8'))
+        if isRepeat[0][0] != 0:
+            continue
 
         #"name" 名称
         #"headline" 一句话简介
@@ -60,17 +68,9 @@ def beginSpider(DOWNLOAD_User, DOWNLOAD_URL, pageNum):
         image_url = item["avatar_url_template"].replace('{size}','xl')
 
         img_localhost = DOWNLOAD_User + '\\' + image_name + '.jpg'
+        sql = "insert into Space0017A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'0')
+        ms.ExecNonQuery(sql.encode('utf-8'))
 
-
-
-
-        peoples.append("## [" + item["name"]+"](https://www.zhihu.com/people/"+item["url_token"]+"/activities)")
-        peoples.append(item["headline"])
-        peoples.append("")
-        peoples.append('!['+item["name"]+']('+img_localhost_git+' "'+item["name"]+'")')
-        peoples.append("")
-        peoples.append("***")
-        peoples.append("")
 
         if os.path.isfile(img_localhost) == False or os.path.getsize(img_localhost) == 0:
             try:
@@ -87,22 +87,27 @@ def beginSpider(DOWNLOAD_User, DOWNLOAD_URL, pageNum):
         return pageNum + 1
     return None
 
+DOWNLOAD_URL = "https://www.zhihu.com/api/v4/members/{DOWNLOAD_User}/followees?include=data[*].answer_count,articles_count,gender,follower_count,is_followed,is_following,badge[?(type=best_answerer)].topics&offset={offset}&limit=20"
 
 #主程序
 def main():
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
-    DOWNLOAD_User, DOWNLOAD_URL = getSeed()
-    print(DOWNLOAD_URL)
+    DOWNLOAD_User = getSeed()
 
     pageNum = 0
 
     while pageNum != None:
-        pageNum = beginSpider(DOWNLOAD_User, DOWNLOAD_URL, pageNum)
+        pageNum = beginSpider(DOWNLOAD_User, pageNum)
+
+    updateUser(DOWNLOAD_User)
 
     now = datetime.datetime.now()
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
+
+    time.sleep(30) #延迟N秒再抓取
+    main()
 
 
 main()
