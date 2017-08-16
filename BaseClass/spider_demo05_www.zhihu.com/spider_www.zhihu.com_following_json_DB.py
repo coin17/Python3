@@ -107,7 +107,7 @@ def main():
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
-    DOWNLOAD_User = getSeed()
+    DOWNLOAD_User = getSeed() #从序列中获取下一个带抓取用户
 
     if DOWNLOAD_User == -1:
         print("无待抓取序列，程序终止")
@@ -118,7 +118,7 @@ def main():
     while pageNum != None:
         pageNum = beginSpider(DOWNLOAD_User, pageNum)
 
-    updateUser(DOWNLOAD_User)
+    updateUser(DOWNLOAD_User) #更新用户状态为已抓取
 
     now = datetime.datetime.now()
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
