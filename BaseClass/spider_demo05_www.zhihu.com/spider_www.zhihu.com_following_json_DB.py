@@ -31,7 +31,7 @@ cookies = {}
 
 raw_cookies = '_zap=8da04c21-f694-43b4-b806-d57ecb2a5591; d_c0="ADAC_MJc-AqPTrEN8y4oBdLW58zPE-qCwn8=|1481246007"; _zap=111062a0-2178-469e-96fb-8010b5c5b0f7; _ga=GA1.2.1593604370.1492574559; r_cap_id="NTUxOTNkM2JkZDg4NDQ4ODlhZmNkMmQxNGI5MjVhMzY=|1500448867|73a8c0d29a7d466f339e9dc3f5107be2e593b921"; cap_id="ZWI3NDUzZTkzNjQ1NDc0NWFkY2Q5ZjliNmExZmMyZWQ=|1500448867|f4eba8cc225482cf6e03359a35eaecfe68bec032"; z_c0=Mi4wQUFBQVZKOGpBQUFBTUFMOHdsejRDaGNBQUFCaEFsVk5vWldXV1FCc3lqb2huMmhLM01ZUTQxRnRPMWJkODQ0YzJ3|1500448929|4db031e62bac6db8b7f76df5bc8cd79db3d99c41; q_c1=eb629a1deb0d469ea653ebad3d22c244|1500530546000|1489651714000; aliyungf_tc=AQAAAJFHtFpB8Q0AcocyPeEtPtqHNZXB; __utma=155987696.1593604370.1492574559.1502683792.1502683792.1; __utmc=155987696; __utmz=155987696.1502683792.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _xsrf=9df349c6-d15d-43e7-9bb3-266e68f37af3'
 
-for line in raw_cookies.split(':'):
+for line in raw_cookies.split(';'):
     key,value = line.split('=', 1)
     cookies[key] = value
 
