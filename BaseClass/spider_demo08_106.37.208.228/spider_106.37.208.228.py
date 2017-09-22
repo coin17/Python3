@@ -12,7 +12,6 @@ import re
 import time, os 
 import datetime
 from MSSql_SqlHelp import MSSQL 
-import re
 import json
 
 # 城市空气质量预报
