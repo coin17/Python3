@@ -13,23 +13,22 @@ ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
 
 #获取抓取种子
 def getSeed():
-    sql = "select top(1) column_0 from Space0017A where column_4='0' " 
+    sql = "select top(1) column_0 from Space0019A where column_4='0' " 
     json = ms.ExecQuery(sql.encode('utf-8'))
-    if(len(json) == 0):
+    if len(json) == 0:
         return -1
     else:
         return json[0][0]
 
-
 #完成抓取，更新用户状态
 def updateUser(DOWNLOAD_User):
-    sql = "update Space0017A set column_4='1' where column_0='" + DOWNLOAD_User + "'"
+    sql = "update Space0019A set column_4='1' where column_0='" + DOWNLOAD_User + "'"
     ms.ExecNonQuery(sql.encode('utf-8'))
 
 
 cookies = {}
 
-raw_cookies = '_zap=8da04c21-f694-43b4-b806-d57ecb2a5591; d_c0="ADAC_MJc-AqPTrEN8y4oBdLW58zPE-qCwn8=|1481246007"; _zap=111062a0-2178-469e-96fb-8010b5c5b0f7; _ga=GA1.2.1593604370.1492574559; r_cap_id="NTUxOTNkM2JkZDg4NDQ4ODlhZmNkMmQxNGI5MjVhMzY=|1500448867|73a8c0d29a7d466f339e9dc3f5107be2e593b921"; cap_id="ZWI3NDUzZTkzNjQ1NDc0NWFkY2Q5ZjliNmExZmMyZWQ=|1500448867|f4eba8cc225482cf6e03359a35eaecfe68bec032"; z_c0=Mi4wQUFBQVZKOGpBQUFBTUFMOHdsejRDaGNBQUFCaEFsVk5vWldXV1FCc3lqb2huMmhLM01ZUTQxRnRPMWJkODQ0YzJ3|1500448929|4db031e62bac6db8b7f76df5bc8cd79db3d99c41; q_c1=eb629a1deb0d469ea653ebad3d22c244|1500530546000|1489651714000; aliyungf_tc=AQAAAJFHtFpB8Q0AcocyPeEtPtqHNZXB; __utma=155987696.1593604370.1492574559.1502683792.1502683792.1; __utmc=155987696; __utmz=155987696.1502683792.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _xsrf=9df349c6-d15d-43e7-9bb3-266e68f37af3'
+raw_cookies = 'd_c0="ADAC_MJc-AqPTrEN8y4oBdLW58zPE-qCwn8=|1481246007"; _zap=111062a0-2178-469e-96fb-8010b5c5b0f7; _ga=GA1.2.1593604370.1492574559; r_cap_id="ZTFlMGY0ZDVjNTU2NGU0YmI4MDEyM2UwMzJmYTJhNjc=|1505697106|5bda942dd5b44fb14868ee77d7a02e2b51d34d72"; cap_id="Zjc1ZjgxODJmYWRlNDUxMjllMDc1MGQ0MzgxNmY5Njc=|1505697106|baed85cc0a4beee0a6c917246f48b3f7de82e94a"; z_c0=Mi4xa0hFdEFBQUFBQUFBTUFMOHdsejRDaGNBQUFCaEFsVk5YcXZtV1FDZFpWclVmRWx2bmVQTzc0WENrN2ZqM1prQ1ZR|1505697374|17737543d044abbc56042c6405c6ac0eeaf7e371; q_c1=eb629a1deb0d469ea653ebad3d22c244|1505954648000|1489651714000; __utma=51854390.1593604370.1492574559.1505898546.1506052352.6; __utmz=51854390.1506052352.6.6.utmcsr=zhihu.com|utmccn=(referral)|utmcmd=referral|utmcct=/question/48106259; __utmv=51854390.100-1|2=registration_date=20140107=1^3=entry_date=20140107=1; aliyungf_tc=AQAAAOGLhXofigMAcocyPTnhFzp/+ZNb; _xsrf=4df245ec-34c1-4824-85b4-171c7d93bc65'
 
 for line in raw_cookies.split(';'):
     key,value = line.split('=', 1)
@@ -47,22 +46,25 @@ def beginSpider(DOWNLOAD_User, pageNum):
         json = download_page(DOWNLOAD_URL.replace('{DOWNLOAD_User}',DOWNLOAD_User).replace('{offset}',str(pageNum * 20)))
     except:
         print("抓取异常：" + DOWNLOAD_URL.replace('{DOWNLOAD_User}',DOWNLOAD_User).replace('{offset}',str(pageNum * 20)))
+        sql = "update Space0019A set column_4 = '2' where column_0='" + DOWNLOAD_User + "' " 
+        ms.ExecNonQuery(sql.encode('utf-8'))
         time.sleep(2) #延迟N秒再抓取
-        json = download_page(DOWNLOAD_URL.replace('{DOWNLOAD_User}',DOWNLOAD_User).replace('{offset}',str(pageNum * 20)))
+        return -1
+        
 
     #print(json)
 
     #print(json["paging"]["is_end"])
 
-    if os.path.exists(DOWNLOAD_User) == False:
-        os.makedirs(DOWNLOAD_User)
+    if os.path.exists("user_image\\"+DOWNLOAD_User) == False:
+        os.makedirs("user_image\\"+DOWNLOAD_User)
 
     for item in json["data"]:
         if(item["avatar_url_template"] == None):
             continue
 
         image_name = item["url_token"]
-        sql = "select count(id) column_0 from Space0017A where column_0='" + image_name + "' " 
+        sql = "select count(id) column_0 from Space0019A where column_0='" + image_name + "' " 
         isRepeat = ms.ExecQuery(sql.encode('utf-8'))
         if isRepeat[0][0] != 0:
             continue
@@ -72,14 +74,14 @@ def beginSpider(DOWNLOAD_User, pageNum):
         # url https://www.zhihu.com/people/+ item["url_token"] + /activities
         image_url = item["avatar_url_template"].replace('{size}','xl')
 
-        img_localhost = DOWNLOAD_User + '\\' + image_name + '.jpg'
+        img_localhost = 'user_image\\'+DOWNLOAD_User + '\\' + image_name + '.jpg'
         
-        sql = "select count(id) column_0 from Space0017A where column_0='" + image_name + "' " 
+        sql = "select count(id) column_0 from Space0019A where column_0='" + image_name + "' " 
         isRepeat = ms.ExecQuery(sql.encode('utf-8'))
         if isRepeat[0][0] != 0:
-            sql = "insert into Space0017A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'1')
+            sql = "insert into Space0019A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'1')
         else:
-            sql = "insert into Space0017A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'0')
+            sql = "insert into Space0019A values ('%s','%s','%s','%s','%s') " %(image_name,'https://www.zhihu.com/people/'+image_name+'/following',img_localhost,DOWNLOAD_User,'0')
 
         ms.ExecNonQuery(sql.encode('utf-8'))
 
@@ -103,22 +105,22 @@ DOWNLOAD_URL = "https://www.zhihu.com/api/v4/members/{DOWNLOAD_User}/followees?i
 
 #主程序
 def main():
-
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
-    DOWNLOAD_User = getSeed() #从序列中获取下一个带抓取用户
+    DOWNLOAD_User = getSeed()
 
     if DOWNLOAD_User == -1:
-        print("无待抓取序列，程序终止")
+        print('无待抓取序列，程序终止')
         return None
 
     pageNum = 0
 
-    while pageNum != None:
+    while pageNum != None and pageNum != -1:
         pageNum = beginSpider(DOWNLOAD_User, pageNum)
 
-    updateUser(DOWNLOAD_User) #更新用户状态为已抓取
+    if pageNum != -1:
+        updateUser(DOWNLOAD_User)
 
     now = datetime.datetime.now()
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
