@@ -7,7 +7,6 @@ https://www.wmo.int/cpdb/volume_a_observing_stations/list_stations
 """
 
 import requests #数据抓取
-from bs4 import BeautifulSoup #抓取内容解析
 import time, os 
 import datetime
 from MSSql_SqlHelp import MSSQL 
