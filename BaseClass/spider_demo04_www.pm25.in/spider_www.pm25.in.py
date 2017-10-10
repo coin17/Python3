@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 #coding=utf-8
 # 定时抓取城市 aqi 数据
-# http://pm25.in
+# http://www.pm25.in
     
 import json
 import time, os 
@@ -16,13 +16,14 @@ def download_page(url):
 
 def parse_html_aqi(dis_aqi):
     print(len(dis_aqi))
-    for x in dis_aqi:
+    for index,x in enumerate(dis_aqi):
         area = x["area"]
         position_name = x["position_name"]
         station_code = x["station_code"]
         time_point = x["time_point"]
         sql = "select count(id) from Space0012A where column_1='%s' and column_14='%s' and column_19='%s' and column_20='%s' " %(area,position_name,station_code,time_point)
         isRepeat = ms.ExecQuery(sql.encode('utf-8'))
+
         if isRepeat[0][0] == 0:
             aqi = x["aqi"]
             co = x["co"]
@@ -43,26 +44,24 @@ def parse_html_aqi(dis_aqi):
             so2_24h = x["so2_24h"]
             sql = "insert into Space0012A values ('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s') " %(aqi,area,co,co_24h,no2,no2_24h,o3,o3_24h,o3_8h,o3_8h_24h,pm10,pm10_24h,pm2_5,pm2_5_24h,position_name,primary_pollutant,quality,so2,so2_24h,station_code,time_point)
             ms.ExecNonQuery(sql.encode('utf-8'))
+        print("完成解析数据index为："+str(index))
 
 
 #MS Sql Server 链接字符串
-ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
+ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful_2017-03-15")
 
-#每个 token 每小时最多调用 5 次，'5j1znBVAsnSf5xQyNQyq'为测试key
+#每个 token 每小时最多调用 5 次
 token = ['7rMwJqMxrmuDRFsAxBqP','5j1znBVAsnSf5xQyNQyq','K6LgqdJKZP2R9Svedskd']
 
 def main():
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
-    try:
-        dist_aqi = download_page("http://pm25.in/api/querys/all_cities.json?token=K6LgqdJKZP2R9Svedskd").json()
-        if type(dist_aqi) == dict:
-            print(dist_aqi["error"])
-        else:
-            parse_html_aqi(dist_aqi)
-    except Exception as e:
-        #raise e
-        print("Error：抓取返回超时")
+    dist_aqi = download_page("http://pm25.in/api/querys/all_cities.json?token=K6LgqdJKZP2R9Svedskd").json()
+    if type(dist_aqi) == dict:
+        print(dist_aqi["error"])
+    else:
+        parse_html_aqi(dist_aqi)
+
 
     now = datetime.datetime.now()
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
@@ -77,5 +76,5 @@ def re_exe(cmd, inc = 60):
         time.sleep(inc) 
 
 # N秒 执行一次
-re_exe("echo %time%", 1800)
+re_exe("echo %time%", 60 * 10)
 
