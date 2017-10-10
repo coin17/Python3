@@ -68,11 +68,14 @@ def main():
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
     dist_aqi = download_page("http://pm25.in/api/querys/all_cities.json?token=K6LgqdJKZP2R9Svedskd").json()
-    if type(dist_aqi) == dict:
-        print(dist_aqi["error"])
-    else:
-        parse_html_aqi(dist_aqi)
 
+    try:
+        if type(dist_aqi) == dict:
+            print(dist_aqi["error"])
+        else:
+            parse_html_aqi(dist_aqi)
+    except Exception as e:
+        print(e)
 
     now = datetime.datetime.now()
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
