@@ -7,6 +7,9 @@ import time, os
 import requests
 import datetime
 from MSSql_SqlHelp import MSSQL 
+import pymongo
+# 数据备份至 mongo，需先安装 pymongo
+# pip install pymongo
 
 def download_page(url):
     return requests.get(url,cookies=cookies,proxies=proxies,headers={
@@ -31,6 +34,9 @@ def parse_html_weather_aqi(json,json_aqi):
         speed = json["wind"]["speed"]
         sql = "insert into Space0007A values ('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s') " %(province,city,publish_time,airpressure,feelst,humidity,info,rain,temperature,direct,power,speed)
         ms.ExecNonQuery(sql.encode('utf-8'))
+        # mongodb 数据备份
+        db.NationalControlWeather.insert_one(json).inserted_id
+
         print('【气象】：' + province + " " + city + " "+ publish_time)
 
     if 'forecasttime' in json_aqi.keys():
@@ -58,7 +64,11 @@ proxies = {
 }
 
 #MS Sql Server 链接字符串
-ms = MSSQL(host=".",user="sa",pwd="sa",db="SmallIsBeautiful")
+ms = MSSQL(host="172.16.12.35",user="sa",pwd="sa",db="SmallIsBeautiful_2017-03-15")
+
+#MongoDB 数据库链接
+client  = pymongo.MongoClient('172.16.21.232', 27017)
+db = client.OriginalData
 
 def main():
     now = datetime.datetime.now()
@@ -91,5 +101,5 @@ def re_exe(cmd, inc = 60):
         time.sleep(inc) 
 
 # N秒 执行一次
-re_exe("echo %time%", 1800)
+re_exe("echo %time%", 60 * 10)
 
