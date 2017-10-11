@@ -72,7 +72,7 @@ db = client.OriginalData
 
 def main():
     now = datetime.datetime.now()
-    print(now.strftime('%H%M%S%f'))
+    #print(now.strftime('%H%M%S%f'))
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
     json_provices = download_page("http://www.nmc.cn/f/rest/province").json()
@@ -83,7 +83,7 @@ def main():
                 json_weather = download_page("http://www.nmc.cn/f/rest/real/" + json_city["code"] + "?_=" + now.strftime('%H%M%S%f')).json()
                 json_aqi = download_page("http://www.nmc.cn/f/rest/aqi/" + json_city["code"] + "?_=" + now.strftime('%H%M%S%f')).json()
                 parse_html_weather_aqi(json_weather,json_aqi)
-                time.sleep(5)
+                time.sleep(1)
             except:
                 print('【异常】：请求解析异常，city 代码 ' + json_city["code"])
 
