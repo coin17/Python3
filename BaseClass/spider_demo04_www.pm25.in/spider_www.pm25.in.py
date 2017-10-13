@@ -68,7 +68,7 @@ token = ['7rMwJqMxrmuDRFsAxBqP','5j1znBVAsnSf5xQyNQyq','K6LgqdJKZP2R9Svedskd']
 def main():
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
-    dist_aqi = download_page("http://pm25.in/api/querys/all_cities.json?token=K6LgqdJKZP2R9Svedskd").json()
+    dist_aqi = download_page("http://www.pm25.in/api/querys/all_cities.json?token=K6LgqdJKZP2R9Svedskd").json()
 
     try:
         if type(dist_aqi) == dict:
