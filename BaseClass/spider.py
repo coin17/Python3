@@ -1,6 +1,5 @@
-# coding:UTF-8
-
 #encoding:UTF-8
+
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -11,42 +10,23 @@ soup = BeautifulSoup(webPage,"html.parser")
 print(soup.title)
 
 
-test = "http://image.nmc.cn/static2/site/nmc/themes/basic/weather/white/day/1.png"
-print(test.split("/")[-1])
-
-
-
-
-
-
-
-
-
 
 cookies = {}
 
-raw_cookies = '_ga=GA1.2.533883790.1505975474; _gid=GA1.2.1105338317.1505975474'
+raw_cookies = 'UM_distinctid=15f4d106f2f190-07138b9823c296-c313760-100200-15f4d106f30402; CNZZDATA1254317176=1304846001-1508822353-https%253A%252F%252Fwww.zq12369.com%252F%7C1508822353; city=%E5%BC%A0%E5%AE%B6%E5%8F%A3'
 
 for line in raw_cookies.split(':'):
     key,value = line.split('=', 1)
     cookies[key] = value
 
+test2 = "https://www.zq12369.com/api/newzhenqiapi.php"
+data = {'param': 'VAn1yHFAwh9OyizSIUiAmuy0XCTcDdTGkh5XJiNb3YdnczoPWG5/nmBJNHETGz1t+PVpzSvUHoSt5O1g4U3zSAolEuG/b1FLOFzVc/70JZpNgHZxgBElFUjPXB2DxFKPTMxZsbpWn7Zm1ru86jUJtvCmJztCV0EeM/5yBYtkbAGnI+yWduj+wBjfSj28SHIbteBORXUGUcqGP0+xAY40MBjYO/c3iGw/D4OLSCI1ZEkYiB0Iaomk7w03HGj8YhZu'}
 
-
-test2 = "https://www.wmo.int/cpdb/volume_a_observing_stations/list_stations?sEcho=2&iColumns=6&sColumns=station_name,station_id,index_nbr,latitude,longitude,obs_rems&iDisplayStart=0&iDisplayLength=100&mDataProp_0=0&sSearch_0=&bRegex_0=false&bSearchable_0=true&bSortable_0=true&mDataProp_1=1&sSearch_1=&bRegex_1=false&bSearchable_1=true&bSortable_1=true&mDataProp_2=2&sSearch_2=&bRegex_2=false&bSearchable_2=true&bSortable_2=true&mDataProp_3=3&sSearch_3=&bRegex_3=false&bSearchable_3=true&bSortable_3=true&mDataProp_4=4&sSearch_4=&bRegex_4=false&bSearchable_4=true&bSortable_4=true&mDataProp_5=5&sSearch_5=&bRegex_5=false&bSearchable_5=true&bSortable_5=true&sSearch=&bRegex=false&iSortCol_0=0&sSortDir_0=asc&iSortingCols=1&_=1506043558328"
-
-
-jsonC = requests.get(test2, headers={
-	# 'Host':'www.wmo.int',
-	# 'Accept':'application/json, text/javascript, */*; q=0.01',
-	# 'Accept-Encoding':'gzip, deflate, br',
-	# 'Cache-Control':'no-cache',
-	# 'Connection':'keep-alive',
-	# 'DNT':'1',
-	# 'Pragma':'no-cache',
-	'X-Requested-With':'XMLHttpRequest',
-	'Referer':'https://www.wmo.int/cpdb/volume_a_observing_stations/list_stations',
+jsonC = requests.post(test2, data=data,headers={
+	'Host':'www.zq12369.com',
+	'Origin':'https://www.zq12369.com',
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36'
-    }, timeout=120).json()
+    }, timeout=120).text
 
 print(jsonC)
+
