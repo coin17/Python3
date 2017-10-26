@@ -91,5 +91,5 @@ def re_exe(cmd, inc = 60):
         time.sleep(inc) 
 
 # N秒 执行一次
-re_exe("echo %time%", 60 * 10)
+re_exe("echo %time%", 60 * 30)
 
