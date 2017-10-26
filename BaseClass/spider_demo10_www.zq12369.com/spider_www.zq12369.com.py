@@ -33,6 +33,7 @@ def download_page(url):
 
 def start_spider(city):
     html = download_page(url_temp.replace('{tempCity}',city))
+
     soup = BeautifulSoup(html, "html.parser")
 
     weather = soup.find('div', class_='weather').getText().strip().splitlines()
@@ -119,3 +120,5 @@ def re_exe(cmd, inc = 60):
 
 # N秒 执行一次
 re_exe("echo %time%", 60 * 10)
+
+#main()
