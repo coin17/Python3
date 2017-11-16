@@ -50,6 +50,7 @@ def parse_html_aqi(dis_aqi):
             sql = "insert into Space0012A values ('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s') " %(aqi,area,co,co_24h,no2,no2_24h,o3,o3_24h,o3_8h,o3_8h_24h,pm10,pm10_24h,pm2_5,pm2_5_24h,position_name,primary_pollutant,quality,so2,so2_24h,station_code,time_point)
             ms.ExecNonQuery(sql.encode('utf-8'))
             # mongodb 数据备份
+            x["time_point"] = datetime.datetime.strptime(time_point,'%Y-%m-%dT%H:%M:%SZ')
             db.NationalControlAQI.insert_one(x).inserted_id
 
         print("完成解析数据index为："+str(index))
