@@ -62,6 +62,14 @@ def insert_city_air_quality(city_air_quality):
             ms.ExecNonQuery(sql.encode('utf-8'))
             #Mongodb 数据备份
             city_air_quality["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S')
+            city_air_quality["aqi"] = float(aqi)  if 'aqi' in city_air_quality else None
+            city_air_quality["co"] = float(co)  if 'co' in city_air_quality else None
+            city_air_quality["no2"] = float(no2)  if 'no2' in city_air_quality else None
+            city_air_quality["o3"] = float(o3)  if 'o3' in city_air_quality else None
+            city_air_quality["o3_8h"] = float(o3_8h)  if 'o3_8h' in city_air_quality else None
+            city_air_quality["pm2_5"] = float(pm2_5)  if 'pm2_5' in city_air_quality else None
+            city_air_quality["pm10"] = float(pm10)  if 'pm10' in city_air_quality else None
+            city_air_quality["so2"] = float(so2)  if 'so2' in city_air_quality else None
             db.zq12369_city_air_quality.insert_one(city_air_quality).inserted_id
         except Exception as e:
             print(e)
@@ -109,6 +117,14 @@ def insert_site_air_quality(site_air_quality):
                 ms.ExecNonQuery(sql.encode('utf-8'))
                 #Mongodb 数据备份
                 s["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S')
+                s["aqi"] = float(aqi)  if 'aqi' in s else None
+                s["co"] = float(co)  if 'co' in s else None
+                s["complexindex"] = float(complexindex)  if 'complexindex' in s else None
+                s["no2"] = float(no2)  if 'no2' in s else None
+                s["o3"] = float(o3)  if 'o3' in s else None
+                s["pm2_5"] = float(pm2_5)  if 'pm2_5' in s else None
+                s["pm10"] = float(pm10)  if 'pm10' in s else None
+                s["so2"] = float(so2)  if 'so2' in s else None
                 db.zq12369_site_air_quality.insert_one(s).inserted_id
             except Exception as e:
                 print(e)
@@ -194,6 +210,13 @@ def insert_city_air_quality_forecast(city_air_quality_forecast):
                 #Mongodb 数据备份
                 s["publish_time"] = datetime.datetime.strptime(publish_time,'%Y-%m-%d %H:%M:%S')
                 s["forecast_time"] = datetime.datetime.strptime(forecast_time,'%Y-%m-%d')
+                s["aqi"] = float(aqi)  if 'aqi' in s else None
+                s["co"] = float(co)  if 'co' in s else None
+                s["no2"] = float(no2)  if 'no2' in s else None
+                s["o3"] = float(o3)  if 'o3' in s else None
+                s["pm2_5"] = float(pm2_5)  if 'pm2_5' in s else None
+                s["pm10"] = float(pm10)  if 'pm10' in s else None
+                s["so2"] = float(so2)  if 'so2' in s else None
                 db.zq12369_city_air_quality_forecast.insert_one(s).inserted_id
             except Exception as e:
                 print(e)
