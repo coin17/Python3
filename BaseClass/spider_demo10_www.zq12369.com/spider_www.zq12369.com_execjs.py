@@ -61,7 +61,7 @@ def insert_city_air_quality(city_air_quality):
         try:
             ms.ExecNonQuery(sql.encode('utf-8'))
             #Mongodb 数据备份
-            city_air_quality["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S')
+            city_air_quality["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
             city_air_quality["aqi"] = float(aqi)  if 'aqi' in city_air_quality else None
             city_air_quality["co"] = float(co)  if 'co' in city_air_quality else None
             city_air_quality["no2"] = float(no2)  if 'no2' in city_air_quality else None
@@ -116,8 +116,10 @@ def insert_site_air_quality(site_air_quality):
             try:
                 ms.ExecNonQuery(sql.encode('utf-8'))
                 #Mongodb 数据备份
-                s["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S')
+                s["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
                 s["aqi"] = float(aqi)  if 'aqi' in s else None
+                s["latitude"] = float(latitude)  if 'latitude' in s else None
+                s["longitude"] = float(longitude)  if 'longitude' in s else None
                 s["co"] = float(co)  if 'co' in s else None
                 s["complexindex"] = float(complexindex)  if 'complexindex' in s else None
                 s["no2"] = float(no2)  if 'no2' in s else None
@@ -168,7 +170,7 @@ def insert_weather_realtime(weather_realtime):
         try:
             ms.ExecNonQuery(sql.encode('utf-8'))
             #Mongodb 数据备份
-            weather_realtime["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S')
+            weather_realtime["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
             db.zq12369_weather_realtime.insert_one(weather_realtime).inserted_id
         except Exception as e:
             print(e)
@@ -208,8 +210,8 @@ def insert_city_air_quality_forecast(city_air_quality_forecast):
             try:
                 ms.ExecNonQuery(sql.encode('utf-8'))
                 #Mongodb 数据备份
-                s["publish_time"] = datetime.datetime.strptime(publish_time,'%Y-%m-%d %H:%M:%S')
-                s["forecast_time"] = datetime.datetime.strptime(forecast_time,'%Y-%m-%d')
+                s["publish_time"] = datetime.datetime.strptime(publish_time,'%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
+                s["forecast_time"] = datetime.datetime.strptime(forecast_time,'%Y-%m-%d') - datetime.timedelta(hours=8)
                 s["aqi"] = float(aqi)  if 'aqi' in s else None
                 s["co"] = float(co)  if 'co' in s else None
                 s["no2"] = float(no2)  if 'no2' in s else None

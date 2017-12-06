@@ -61,7 +61,7 @@ def analysis_json_Day(json_source,city):
                 try:
                     ms.ExecNonQuery(sql.encode('utf-8'))
                     #Mongodb 数据备份
-                    s["time"] = datetime.datetime.strptime(time,'%Y-%m-%d %H:%M:%S')
+                    s["time"] = datetime.datetime.strptime(time,'%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
                     s["aqi"] = float(aqi)  if 'aqi' in s else None
                     s["co"] = float(co)  if 'co' in s else None
                     s["complexindex"] = float(complexindex)  if 'complexindex' in s else None
