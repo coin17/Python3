@@ -4,7 +4,7 @@ import requests
 import execjs
 import json
 import time, os 
-from datetime import datetime, timedelta
+import datetime
 from MSSql_SqlHelp import MSSQL 
 import pymongo
 # 数据备份至 mongo，需先安装 pymongo
@@ -61,7 +61,8 @@ def analysis_json_Day(json_source,city):
                 try:
                     ms.ExecNonQuery(sql.encode('utf-8'))
                     #Mongodb 数据备份
-                    s["time"] = datetime.datetime.strptime(time,'%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
+                    s["time"] = datetime.datetime.strptime(time,'%Y-%m-%d') - datetime.timedelta(hours=8)
+
                     s["aqi"] = float(aqi)  if 'aqi' in s else None
                     s["co"] = float(co)  if 'co' in s else None
                     s["complexindex"] = float(complexindex)  if 'complexindex' in s else None
@@ -70,6 +71,7 @@ def analysis_json_Day(json_source,city):
                     s["pm2_5"] = float(pm2_5)  if 'pm2_5' in s else None
                     s["pm10"] = float(pm10)  if 'pm10' in s else None
                     s["so2"] = float(so2)  if 'so2' in s else None
+                    s["city"] = city
                     db.zq12369_city_air_quality_day.insert_one(s).inserted_id
                 except Exception as e:
                     print("analysis_json_Day insert 异常：" + sql)
@@ -81,7 +83,7 @@ def start_spider(city):
     print("开始抓取：" + city)
 
     #日数据
-    obj = {'city': city,'type': 'DAY','startTime': (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d %H:%M:%S'),'endTime': (datetime.now()).strftime('%Y-%m-%d %H:%M:%S')}
+    obj = {'city': city,'type': 'DAY','startTime': (datetime.datetime.now() - datetime.timedelta(days=30)).strftime('%Y-%m-%d %H:%M:%S'),'endTime': (datetime.datetime.now()).strftime('%Y-%m-%d %H:%M:%S')}
     method = "CETCITYPERIOD"
 
     key = execjs.compile(jsstr).call("getParam", method, obj)  
@@ -116,7 +118,7 @@ db = client.OriginalData
 
 #主程序
 def main():
-    now = datetime.now()
+    now = datetime.datetime.now()
     print("spider_demo10_www.zq12369.com 日数据 开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
     jsstr = get_js() 
@@ -124,7 +126,7 @@ def main():
     for city in city_list:
         start_spider(city)
 
-    now = datetime.now()
+    now = datetime.datetime.now()
     print("spider_demo10_www.zq12369.com 日数据 结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
 
