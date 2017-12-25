@@ -134,7 +134,7 @@ def insert_site_air_quality(site_air_quality):
                 time.sleep(2) #休息N秒
                 insert_site_air_quality(site_air_quality)
 
-def insert_weather_realtime(weather_realtime):
+def insert_weather_realtime_new(weather_realtime):
 
     z_time = weather_realtime["time"]  if 'time' in weather_realtime else ''
     citygid = weather_realtime["citygid"]  if 'citygid' in weather_realtime else ''
@@ -147,7 +147,7 @@ def insert_weather_realtime(weather_realtime):
     except Exception as e:
         print("异常：" + sql)
         time.sleep(2) #休息N秒
-        insert_weather_realtime(weather_realtime)
+        insert_weather_realtime_new(weather_realtime)
     
 
     if status_temp == 1 and isRepeat[0][0] == 0:
@@ -176,7 +176,49 @@ def insert_weather_realtime(weather_realtime):
             print(e)
             print("异常：" + sql)
             time.sleep(2) #休息N秒
-            insert_weather_realtime(weather_realtime)
+            insert_weather_realtime_new(weather_realtime)
+
+def insert_weather_realtime(weather_realtime,city):
+
+    z_time = weather_realtime["time"]  if 'time' in weather_realtime else ''
+    cityname = city
+    sql = "select count(id) from Space0030A where column_0='%s' and column_2='%s' " %(z_time,cityname)
+    status_temp = 0
+    try:
+        isRepeat = ms.ExecQuery(sql.encode('utf-8'))
+        status_temp = 1
+    except Exception as e:
+        print("异常：" + sql)
+        time.sleep(2) #休息N秒
+        insert_weather_realtime_new(weather_realtime,city)
+
+    if status_temp == 1 and isRepeat[0][0] == 0:
+        temp = weather_realtime["temp"]  if 'temp' in weather_realtime else ''
+        rain = weather_realtime["rain"]  if 'rain' in weather_realtime else ''
+        wd = weather_realtime["wd"]  if 'wd' in weather_realtime else ''
+        humi = weather_realtime["humi"]  if 'humi' in weather_realtime else ''
+        wdangle = weather_realtime["wdangle"]  if 'wdangle' in weather_realtime else ''
+        visibility = weather_realtime["visibility"]  if 'visibility' in weather_realtime else ''
+        weather_icon = weather_realtime["weather_icon"]  if 'weather_icon' in weather_realtime else ''
+        pressure = weather_realtime["pressure"]  if 'pressure' in weather_realtime else ''
+        
+        weather = weather_realtime["weather"]  if 'weather' in weather_realtime else ''
+        wl = weather_realtime["wl"]  if 'wl' in weather_realtime else ''
+        ws = weather_realtime["ws"]  if 'ws' in weather_realtime else ''
+
+        sql = "insert into Space0030A values ('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s') " %(z_time,'',cityname,humi,pressure,rain,temp,visibility,wd,wdangle,weather,weather_icon,wl,ws)
+
+        try:
+            ms.ExecNonQuery(sql.encode('utf-8'))
+            #Mongodb 数据备份
+            weather_realtime["time"] = datetime.datetime.strptime(z_time,'%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
+            db.zq12369_weather_realtime.insert_one(weather_realtime).inserted_id
+        except Exception as e:
+            print(e)
+            print("异常：" + sql)
+            time.sleep(2) #休息N秒
+            insert_weather_realtime_new(weather_realtime,city)
+
 
 def insert_city_air_quality_forecast(city_air_quality_forecast):
     for s in city_air_quality_forecast:
@@ -227,7 +269,7 @@ def insert_city_air_quality_forecast(city_air_quality_forecast):
                 insert_city_air_quality_forecast(city_air_quality_forecast)
 
 
-def analysis_json(json_source):
+def analysis_json(json_source,city):
     if json_source["result"]["success"] == True:
         #城市空气质量，单条数据
         city_air_quality = json_source["result"]["data"]["aqi"] 
@@ -238,8 +280,10 @@ def analysis_json(json_source):
         insert_site_air_quality(site_air_quality)
 
         #城市实时气象，单条数据
-        weather_realtime = json_source["result"]["data"]["weather_realtime_new"] 
-        insert_weather_realtime(weather_realtime)
+        #weather_realtime_new = json_source["result"]["data"]["weather_realtime_new"] 
+        #insert_weather_realtime_new(weather_realtime_new)
+        weather_realtime = json_source["result"]["data"]["weather_realtime"] 
+        insert_weather_realtime(weather_realtime,city)
 
         #城市空气质量预测，多条数据
         city_air_quality_forecast = json_source["result"]["data"]["aqi_forecast"]
@@ -267,7 +311,7 @@ def start_spider(city):
         #print(json.loads(json_source))
         json_source = json.loads(json_source)
 
-        analysis_json(json_source)
+        analysis_json(json_source,city)
 
         print("完成解析：" + city)
         time.sleep(2) #休息N秒
