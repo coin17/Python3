@@ -3,6 +3,11 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import pymongo
+import datetime
+
+# 数据备份至 mongo，需先安装 pymongo
+# pip install pymongo
 
 url = 'https://www.douban.com/'
 webPage = requests.get(url).text
@@ -30,3 +35,13 @@ jsonC = requests.post(test2, data=data,headers={
 
 print(jsonC)
 
+
+# 获取当前时间
+d1 = datetime.datetime.now()
+print(d1)
+# 当前时间加上半小时
+d2 = d1 - datetime.timedelta(hours=8)
+print(d2)
+
+d3 = datetime.datetime.strptime('2017-11-11 11:11:11','%Y-%m-%d %H:%M:%S') - datetime.timedelta(hours=8)
+print(d3)
