@@ -135,7 +135,8 @@ def start_hour(queryTime):
                 sql = "select count(PK_ID) from T_EnvQuality_AirStationHourData where MonitorTime='%s' and FK_AirID='%s' " %(c_time.strftime('%Y/%m/%d %H:00:00'),point[3])
                 isRepeat = ms.ExecQuery(sql.encode('utf-8'))
                 if isRepeat[0][0] == 0 and hour_aqi != '0' and hour_aqi != '':
-                    sql = "insert into T_EnvQuality_AirStationHourData (MonitorTime,FK_RegionCode,aqi,Quality,PrimaryPollutant,FK_AirID,FK_StationCode) values ('%s','140200','%s','%s','%s','%s','%s') " %(c_time.strftime('%Y/%m/%d %H:00:00'), hour_aqi,hour_aqi,hour_type,hour_pollute, point[3], point[1])
+
+                    sql = "insert into T_EnvQuality_AirStationHourData (MonitorTime,FK_RegionCode,aqi,Quality,PrimaryPollutant,FK_AirID,FK_StationCode) values ('%s','140200','%s','%s','%s','%s','%s') " %(c_time.strftime('%Y/%m/%d %H:00:00'), hour_aqi,hour_type,hour_pollute, point[3], point[1])
                     ms.ExecNonQuery(sql.encode('utf-8'))
                     #print("插入站点小时数据，时间：" + c_time.strftime('%Y/%m/%d %H:00:00') + " 站点：" + point[2] + " 因子：AQI 值：" + hour_aqi)
                 elif hour_aqi != '0' and hour_aqi != '':
@@ -184,8 +185,12 @@ def main():
     now = datetime.datetime.now()
     print("开始时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
 
-    start_hour(now)
-    start_day(now)
+    try:
+        start_hour(now)
+        start_day(now)
+    except Exception as e:
+        print("出现异常")
+    
 
     now = datetime.datetime.now()
     print("结束时间：" + now.strftime('%Y-%m-%d %H:%M:%S'))  
