@@ -67,8 +67,8 @@ def send_news():
 
 
         # 每86400秒（1天），发送1次
-        t = Timer(60 * 60, send_news)
-        t.start()
+        # t = Timer(60 * 60, send_news)
+        # t.start()
     except:
         # 你的微信名称，不是微信帐号。
         my_friend = bot.friends().search('过桥')[0]
